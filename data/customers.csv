@@ -1,0 +1,3001 @@
+customer_id,true_segment,true_beta,signup_date,industry,region,contract_type
+1,SMB,8.548,2023-09-14,Pharma,West,Spot
+2,SMB,7.251,2023-03-04,Industrial,West,Spot
+3,Occasional,10.284,2023-05-12,Apparel,Northeast,Spot
+4,SMB,10.525,2021-05-21,Retail,Southeast,Spot
+5,Mid-Market,4.554,2024-12-04,Apparel,Midwest,Spot
+6,Occasional,10.977,2019-06-17,Retail,Southeast,Spot
+7,SMB,5.169,2019-09-19,Automotive,Northeast,Spot
+8,SMB,5.773,2024-09-15,Electronics,Northeast,Spot
+9,Mid-Market,5.092,2019-06-16,Manufacturing,Northeast,Spot
+10,SMB,7.103,2020-04-12,Electronics,Northeast,Spot
+11,Mid-Market,5.099,2020-02-26,Apparel,Southeast,Spot
+12,Occasional,6.171,2019-03-22,Automotive,West,Spot
+13,SMB,7.077,2019-10-12,Pharma,Midwest,Contract
+14,SMB,8.94,2022-10-26,Manufacturing,Southeast,Spot
+15,SMB,5.798,2023-05-30,Industrial,West,Spot
+16,Mid-Market,5.209,2019-07-22,Automotive,Midwest,Contract
+17,SMB,7.686,2025-04-13,Food & Beverage,Northeast,Spot
+18,Enterprise,3.128,2019-08-22,Pharma,Northeast,Contract
+19,SMB,7.995,2023-07-31,Industrial,Northeast,Spot
+20,SMB,7.446,2024-05-02,Food & Beverage,Midwest,Spot
+21,SMB,5.447,2022-06-22,Retail,Midwest,Spot
+22,Mid-Market,4.02,2022-04-12,Manufacturing,Southeast,Contract
+23,Occasional,9.78,2019-09-23,Pharma,Midwest,Spot
+24,Occasional,10.334,2020-08-11,Industrial,International,Spot
+25,SMB,8.289,2024-09-02,Apparel,Southeast,Contract
+26,Mid-Market,4.906,2021-04-28,Pharma,Midwest,Contract
+27,SMB,8.075,2019-03-25,Electronics,Midwest,Spot
+28,Enterprise,2.222,2023-11-11,Food & Beverage,West,Contract
+29,Mid-Market,3.812,2023-07-23,Retail,West,Spot
+30,SMB,7.32,2019-06-11,Electronics,West,Spot
+31,SMB,6.845,2019-05-05,Pharma,Northeast,Spot
+32,Occasional,8.386,2019-10-11,Industrial,Southeast,Spot
+33,Mid-Market,4.042,2019-05-04,Industrial,West,Contract
+34,Mid-Market,3.774,2023-02-09,Automotive,Southeast,Contract
+35,SMB,6.871,2019-11-19,Retail,International,Spot
+36,Mid-Market,3.53,2023-01-17,Automotive,Southeast,Contract
+37,Mid-Market,5.558,2020-03-04,Manufacturing,Midwest,Spot
+38,SMB,6.506,2025-06-25,Pharma,Midwest,Contract
+39,Mid-Market,5.22,2023-11-03,Industrial,Southeast,Spot
+40,SMB,7.369,2021-07-01,Industrial,West,Spot
+41,SMB,6.637,2021-11-09,Apparel,Northeast,Spot
+42,Occasional,6.863,2019-06-08,Electronics,Midwest,Spot
+43,SMB,5.582,2019-05-14,Pharma,Midwest,Contract
+44,Mid-Market,5.479,2022-08-01,Apparel,West,Contract
+45,Occasional,10.309,2019-02-25,Pharma,Midwest,Spot
+46,SMB,5.342,2023-04-04,Food & Beverage,International,Spot
+47,Mid-Market,4.635,2021-07-20,Food & Beverage,West,Contract
+48,Mid-Market,5.299,2019-12-06,Pharma,Southeast,Spot
+49,SMB,5.698,2022-07-28,Retail,West,Spot
+50,Mid-Market,3.015,2022-09-08,Industrial,International,Spot
+51,Mid-Market,5.377,2023-12-23,Retail,Southeast,Contract
+52,Enterprise,1.23,2020-04-26,Industrial,Midwest,Contract
+53,SMB,6.867,2022-08-25,Retail,Southeast,Contract
+54,SMB,6.568,2024-08-18,Pharma,Midwest,Spot
+55,SMB,6.858,2020-10-19,Food & Beverage,Northeast,Spot
+56,SMB,7.201,2024-07-26,Pharma,West,Contract
+57,SMB,5.847,2023-10-28,Food & Beverage,Southeast,Spot
+58,SMB,8.359,2021-11-12,Industrial,Midwest,Spot
+59,Mid-Market,4.759,2024-11-20,Retail,Northeast,Spot
+60,Mid-Market,5.164,2025-06-12,Industrial,West,Contract
+61,SMB,6.279,2020-07-30,Apparel,Midwest,Spot
+62,SMB,6.08,2025-07-13,Automotive,Midwest,Spot
+63,SMB,7.179,2019-01-06,Manufacturing,Southeast,Spot
+64,SMB,4.396,2019-11-11,Retail,Northeast,Spot
+65,SMB,5.651,2019-04-16,Food & Beverage,Southeast,Spot
+66,SMB,7.777,2021-06-14,Electronics,International,Spot
+67,SMB,4.515,2025-03-31,Automotive,Northeast,Spot
+68,Mid-Market,4.942,2023-01-01,Industrial,West,Contract
+69,Enterprise,1.717,2023-02-10,Food & Beverage,Northeast,Contract
+70,SMB,7.941,2019-07-26,Automotive,West,Contract
+71,Mid-Market,3.712,2022-06-10,Retail,Northeast,Contract
+72,Mid-Market,3.252,2021-07-20,Apparel,Southeast,Spot
+73,Occasional,6.881,2022-03-13,Retail,Southeast,Spot
+74,Mid-Market,3.959,2020-09-27,Apparel,Northeast,Contract
+75,Enterprise,3.311,2020-05-05,Food & Beverage,Southeast,Contract
+76,Mid-Market,5.108,2025-05-07,Food & Beverage,Southeast,Spot
+77,Mid-Market,5.221,2022-09-21,Electronics,Midwest,Spot
+78,SMB,8.413,2021-09-29,Food & Beverage,International,Spot
+79,SMB,6.157,2019-06-29,Automotive,Midwest,Spot
+80,SMB,6.95,2024-02-01,Automotive,International,Contract
+81,SMB,7.943,2022-02-24,Electronics,Midwest,Spot
+82,Mid-Market,3.369,2021-07-30,Electronics,Northeast,Spot
+83,SMB,6.04,2023-06-13,Pharma,Northeast,Contract
+84,Mid-Market,3.717,2019-11-17,Apparel,Southeast,Spot
+85,Enterprise,2.399,2022-07-22,Manufacturing,Southeast,Contract
+86,Mid-Market,3.949,2024-10-02,Apparel,West,Spot
+87,SMB,7.641,2022-02-03,Industrial,West,Contract
+88,SMB,5.795,2019-01-02,Automotive,Midwest,Spot
+89,Mid-Market,4.278,2020-07-13,Pharma,Midwest,Contract
+90,SMB,6.027,2019-05-17,Electronics,Southeast,Contract
+91,Mid-Market,3.374,2022-05-02,Electronics,Midwest,Contract
+92,SMB,5.641,2021-06-06,Apparel,Northeast,Spot
+93,SMB,7.011,2019-11-19,Food & Beverage,Northeast,Spot
+94,Mid-Market,3.32,2023-07-31,Retail,Southeast,Spot
+95,Mid-Market,3.86,2020-03-06,Apparel,Northeast,Contract
+96,SMB,7.99,2021-04-12,Manufacturing,West,Spot
+97,Mid-Market,4.678,2025-08-02,Industrial,Northeast,Contract
+98,Mid-Market,3.537,2019-06-11,Food & Beverage,Northeast,Spot
+99,Mid-Market,4.496,2020-08-26,Electronics,International,Spot
+100,Occasional,8.515,2021-02-12,Retail,International,Spot
+101,Occasional,8.736,2022-05-23,Manufacturing,Midwest,Spot
+102,SMB,6.379,2020-08-19,Industrial,Midwest,Spot
+103,Mid-Market,5.553,2025-06-20,Pharma,West,Contract
+104,Occasional,9.945,2019-01-14,Industrial,Northeast,Spot
+105,SMB,5.075,2025-04-27,Industrial,Southeast,Spot
+106,SMB,5.301,2022-07-26,Retail,Northeast,Spot
+107,SMB,7.074,2019-04-04,Food & Beverage,Southeast,Spot
+108,Mid-Market,3.428,2019-10-12,Automotive,International,Spot
+109,Mid-Market,4.414,2019-09-08,Food & Beverage,West,Spot
+110,Occasional,7.797,2020-12-01,Pharma,International,Spot
+111,SMB,8.813,2021-03-22,Pharma,West,Contract
+112,Mid-Market,5.522,2023-04-11,Apparel,Midwest,Contract
+113,Mid-Market,4.224,2021-01-27,Industrial,West,Contract
+114,SMB,7.072,2023-11-01,Industrial,Midwest,Contract
+115,Mid-Market,4.084,2020-12-16,Apparel,Midwest,Spot
+116,Occasional,7.705,2020-10-03,Pharma,Southeast,Spot
+117,SMB,6.136,2020-11-01,Electronics,Midwest,Contract
+118,SMB,7.519,2021-03-12,Retail,Southeast,Spot
+119,SMB,6.313,2024-08-01,Apparel,Midwest,Spot
+120,SMB,6.146,2020-08-24,Retail,Northeast,Contract
+121,SMB,5.45,2020-10-27,Apparel,Midwest,Contract
+122,SMB,8.29,2025-05-19,Food & Beverage,Southeast,Spot
+123,Mid-Market,5.647,2023-05-11,Automotive,Southeast,Contract
+124,Mid-Market,4.324,2020-04-08,Industrial,Midwest,Spot
+125,Enterprise,2.225,2024-10-15,Pharma,Northeast,Spot
+126,SMB,3.553,2020-03-22,Pharma,International,Spot
+127,Mid-Market,5.594,2020-01-30,Food & Beverage,Southeast,Spot
+128,Mid-Market,4.986,2021-12-19,Electronics,Southeast,Spot
+129,Mid-Market,4.291,2023-08-11,Retail,Northeast,Contract
+130,SMB,7.557,2020-04-05,Retail,West,Spot
+131,Mid-Market,5.032,2024-01-09,Apparel,Midwest,Contract
+132,Occasional,8.958,2020-01-17,Industrial,Southeast,Spot
+133,SMB,6.044,2024-03-18,Retail,Southeast,Spot
+134,Mid-Market,4.888,2019-08-22,Electronics,West,Contract
+135,SMB,6.108,2022-02-04,Pharma,International,Spot
+136,Enterprise,3.421,2023-04-08,Apparel,Southeast,Contract
+137,Occasional,10.41,2020-10-08,Apparel,Northeast,Spot
+138,SMB,8.631,2023-01-30,Apparel,Northeast,Spot
+139,SMB,5.743,2023-08-04,Retail,Northeast,Spot
+140,Mid-Market,5.519,2023-05-03,Electronics,West,Contract
+141,SMB,5.784,2021-08-24,Food & Beverage,International,Spot
+142,SMB,6.444,2024-02-26,Retail,International,Spot
+143,Occasional,12.46,2023-11-17,Electronics,West,Spot
+144,SMB,7.097,2021-03-05,Food & Beverage,Northeast,Spot
+145,SMB,6.07,2023-11-21,Industrial,International,Spot
+146,Mid-Market,4.106,2025-02-14,Electronics,Southeast,Contract
+147,Mid-Market,4.637,2024-06-11,Industrial,Southeast,Spot
+148,SMB,4.711,2023-11-21,Apparel,West,Spot
+149,SMB,5.561,2024-02-10,Apparel,Northeast,Contract
+150,Enterprise,3.233,2024-05-13,Automotive,West,Contract
+151,SMB,8.138,2020-12-05,Automotive,International,Contract
+152,Occasional,6.388,2023-10-22,Manufacturing,West,Spot
+153,Mid-Market,4.545,2020-04-30,Food & Beverage,West,Spot
+154,SMB,6.69,2021-05-22,Pharma,Southeast,Spot
+155,Mid-Market,5.234,2025-03-25,Industrial,Northeast,Contract
+156,SMB,7.141,2020-11-20,Retail,West,Spot
+157,Mid-Market,3.677,2024-08-16,Food & Beverage,Midwest,Contract
+158,SMB,6.286,2021-10-25,Manufacturing,International,Contract
+159,SMB,5.809,2020-05-26,Manufacturing,Northeast,Spot
+160,SMB,8.613,2019-08-25,Automotive,Southeast,Spot
+161,Mid-Market,5.515,2022-08-27,Manufacturing,Southeast,Spot
+162,Occasional,9.305,2022-01-03,Automotive,West,Spot
+163,Mid-Market,5.02,2022-05-30,Industrial,West,Spot
+164,Enterprise,2.612,2019-04-16,Automotive,International,Contract
+165,SMB,6.374,2020-10-14,Manufacturing,Southeast,Spot
+166,Mid-Market,3.415,2019-01-10,Manufacturing,Midwest,Contract
+167,SMB,6.068,2021-01-06,Food & Beverage,Northeast,Spot
+168,SMB,7.915,2025-03-18,Pharma,Southeast,Spot
+169,Mid-Market,5.687,2020-01-06,Automotive,Southeast,Spot
+170,Occasional,7.062,2023-08-06,Food & Beverage,Midwest,Spot
+171,Mid-Market,6.611,2019-01-15,Manufacturing,Midwest,Contract
+172,SMB,5.733,2022-09-30,Industrial,Southeast,Spot
+173,Mid-Market,5.502,2025-02-20,Industrial,Midwest,Contract
+174,Occasional,10.43,2021-04-10,Apparel,West,Spot
+175,Mid-Market,5.884,2020-04-25,Apparel,Southeast,Contract
+176,Enterprise,2.453,2022-10-21,Industrial,Southeast,Contract
+177,SMB,5.886,2020-11-10,Food & Beverage,West,Spot
+178,Occasional,7.298,2024-12-10,Manufacturing,West,Contract
+179,Occasional,7.721,2024-08-29,Pharma,West,Spot
+180,SMB,6.612,2023-05-08,Food & Beverage,Northeast,Spot
+181,Occasional,7.857,2023-04-06,Automotive,Midwest,Spot
+182,Occasional,8.678,2023-01-07,Automotive,International,Contract
+183,SMB,6.6,2023-11-26,Food & Beverage,Southeast,Spot
+184,Mid-Market,4.677,2022-01-25,Electronics,Southeast,Spot
+185,SMB,6.912,2025-06-19,Food & Beverage,International,Spot
+186,SMB,9.11,2021-04-21,Apparel,Northeast,Spot
+187,Mid-Market,3.105,2019-01-22,Apparel,West,Contract
+188,Mid-Market,2.94,2023-08-28,Pharma,West,Contract
+189,SMB,7.003,2023-06-01,Pharma,Northeast,Spot
+190,Mid-Market,4.83,2025-07-16,Industrial,West,Contract
+191,Occasional,9.317,2021-08-20,Electronics,Midwest,Spot
+192,Mid-Market,4.067,2021-10-31,Manufacturing,West,Contract
+193,Mid-Market,3.777,2022-09-30,Automotive,International,Contract
+194,Occasional,9.574,2021-08-13,Industrial,West,Spot
+195,Mid-Market,4.544,2024-03-26,Pharma,Northeast,Spot
+196,Mid-Market,5.154,2021-11-08,Food & Beverage,West,Contract
+197,SMB,3.746,2024-03-23,Electronics,International,Spot
+198,Occasional,8.791,2021-11-02,Food & Beverage,Midwest,Spot
+199,Mid-Market,3.293,2020-07-02,Retail,Midwest,Spot
+200,Mid-Market,4.196,2025-08-09,Pharma,Northeast,Contract
+201,SMB,6.992,2022-07-05,Electronics,West,Spot
+202,Occasional,6.672,2023-09-18,Electronics,Northeast,Spot
+203,SMB,6.645,2022-12-10,Pharma,Southeast,Spot
+204,Mid-Market,5.959,2021-05-24,Industrial,International,Spot
+205,Enterprise,2.534,2025-06-25,Manufacturing,International,Contract
+206,Mid-Market,3.632,2021-06-23,Industrial,International,Spot
+207,Mid-Market,5.383,2025-08-15,Pharma,Midwest,Spot
+208,SMB,6.652,2021-11-14,Industrial,Northeast,Spot
+209,Mid-Market,4.164,2019-02-25,Food & Beverage,Midwest,Spot
+210,SMB,6.895,2019-03-31,Industrial,Northeast,Spot
+211,SMB,6.566,2025-06-28,Apparel,West,Spot
+212,SMB,6.537,2022-07-09,Apparel,Midwest,Spot
+213,Mid-Market,5.091,2021-08-01,Pharma,Southeast,Spot
+214,SMB,7.336,2024-05-29,Food & Beverage,Northeast,Spot
+215,SMB,5.95,2023-02-11,Pharma,Southeast,Spot
+216,SMB,5.463,2023-05-28,Automotive,West,Spot
+217,Mid-Market,5.588,2023-07-28,Automotive,West,Contract
+218,Mid-Market,5.267,2020-04-28,Retail,Northeast,Spot
+219,Occasional,9.964,2019-08-03,Apparel,Northeast,Spot
+220,Mid-Market,5.418,2023-11-08,Automotive,Southeast,Spot
+221,Mid-Market,3.564,2019-02-23,Apparel,Northeast,Spot
+222,SMB,10.229,2023-10-18,Food & Beverage,International,Contract
+223,SMB,5.741,2019-11-13,Electronics,Midwest,Spot
+224,Occasional,8.715,2020-10-01,Apparel,Northeast,Spot
+225,Mid-Market,5.602,2023-09-20,Apparel,West,Contract
+226,Occasional,10.659,2023-02-25,Electronics,Southeast,Spot
+227,Enterprise,2.714,2024-03-18,Food & Beverage,Southeast,Spot
+228,SMB,6.72,2023-01-27,Electronics,Midwest,Spot
+229,SMB,4.805,2019-04-27,Retail,Northeast,Spot
+230,Mid-Market,3.833,2024-08-06,Retail,Midwest,Contract
+231,Mid-Market,4.834,2020-06-09,Retail,West,Contract
+232,Mid-Market,4.832,2019-11-28,Food & Beverage,International,Spot
+233,Occasional,7.668,2024-11-09,Pharma,Southeast,Spot
+234,SMB,6.74,2020-04-19,Food & Beverage,Midwest,Spot
+235,Occasional,6.236,2022-07-29,Industrial,Northeast,Spot
+236,SMB,5.48,2022-03-29,Manufacturing,Midwest,Spot
+237,SMB,6.069,2024-02-17,Food & Beverage,Southeast,Contract
+238,SMB,7.854,2019-04-18,Manufacturing,Midwest,Spot
+239,Enterprise,3.4,2019-09-17,Electronics,Northeast,Contract
+240,Mid-Market,5.037,2021-10-08,Pharma,International,Contract
+241,SMB,7.166,2022-02-26,Electronics,West,Spot
+242,SMB,7.282,2024-04-03,Electronics,Southeast,Spot
+243,Mid-Market,4.903,2023-01-14,Apparel,West,Contract
+244,SMB,4.475,2019-12-29,Automotive,Northeast,Spot
+245,SMB,8.804,2025-07-11,Manufacturing,West,Spot
+246,Occasional,8.746,2022-01-24,Retail,Southeast,Spot
+247,SMB,5.17,2025-06-06,Manufacturing,Northeast,Contract
+248,Mid-Market,3.841,2025-08-07,Pharma,West,Contract
+249,Mid-Market,3.385,2019-05-06,Industrial,Midwest,Contract
+250,Mid-Market,5.385,2022-05-16,Manufacturing,Midwest,Contract
+251,SMB,8.434,2021-10-24,Retail,Midwest,Spot
+252,Occasional,10.874,2022-04-28,Pharma,Northeast,Spot
+253,SMB,7.826,2021-01-24,Industrial,Northeast,Spot
+254,Mid-Market,4.767,2022-09-22,Pharma,Midwest,Spot
+255,Mid-Market,5.634,2022-04-13,Industrial,Midwest,Contract
+256,SMB,7.293,2020-03-28,Apparel,Northeast,Spot
+257,SMB,5.574,2020-12-03,Retail,Southeast,Spot
+258,Mid-Market,4.56,2019-12-25,Food & Beverage,Midwest,Contract
+259,Enterprise,2.811,2024-08-16,Automotive,Midwest,Contract
+260,SMB,6.782,2023-07-08,Pharma,West,Spot
+261,Mid-Market,3.335,2021-08-01,Manufacturing,Southeast,Contract
+262,SMB,6.035,2021-08-21,Manufacturing,Midwest,Spot
+263,Mid-Market,5.47,2019-07-12,Apparel,Midwest,Spot
+264,Mid-Market,4.267,2020-12-06,Food & Beverage,Southeast,Spot
+265,Occasional,9.058,2025-02-28,Pharma,Northeast,Spot
+266,Mid-Market,4.908,2019-03-18,Electronics,Northeast,Spot
+267,Mid-Market,4.017,2019-12-22,Electronics,West,Contract
+268,Mid-Market,6.08,2024-08-22,Apparel,Northeast,Spot
+269,Mid-Market,3.811,2022-06-20,Retail,Midwest,Spot
+270,Enterprise,2.963,2019-03-20,Food & Beverage,Midwest,Contract
+271,Enterprise,3.185,2022-04-07,Electronics,Southeast,Contract
+272,Mid-Market,4.296,2024-01-01,Automotive,West,Contract
+273,Enterprise,2.015,2021-04-20,Apparel,West,Spot
+274,SMB,6.635,2021-07-19,Food & Beverage,Northeast,Spot
+275,SMB,6.3,2023-03-18,Electronics,West,Spot
+276,Mid-Market,4.697,2022-12-28,Manufacturing,Midwest,Contract
+277,Mid-Market,3.617,2025-01-07,Manufacturing,Southeast,Contract
+278,SMB,4.154,2020-08-26,Electronics,West,Spot
+279,Occasional,8.481,2020-11-03,Automotive,West,Spot
+280,Occasional,7.407,2020-01-14,Retail,Southeast,Spot
+281,Enterprise,2.977,2023-06-08,Retail,International,Spot
+282,Mid-Market,4.897,2022-07-22,Pharma,Midwest,Contract
+283,Mid-Market,6.051,2021-04-24,Manufacturing,Midwest,Spot
+284,Mid-Market,4.159,2023-08-21,Automotive,Northeast,Spot
+285,SMB,7.946,2021-07-06,Automotive,Southeast,Contract
+286,Mid-Market,4.956,2020-04-21,Automotive,Southeast,Contract
+287,Enterprise,2.453,2022-08-07,Food & Beverage,Midwest,Contract
+288,Mid-Market,2.126,2021-11-28,Food & Beverage,Midwest,Spot
+289,SMB,6.503,2021-09-14,Food & Beverage,West,Spot
+290,Mid-Market,4.565,2021-12-18,Manufacturing,Southeast,Spot
+291,Occasional,11.612,2025-02-04,Pharma,West,Spot
+292,Enterprise,1.342,2020-06-09,Automotive,West,Contract
+293,Occasional,7.153,2020-11-02,Electronics,West,Spot
+294,Mid-Market,4.318,2022-10-07,Retail,West,Contract
+295,Occasional,7.639,2019-04-24,Pharma,West,Spot
+296,Occasional,9.712,2019-12-22,Food & Beverage,Northeast,Spot
+297,Occasional,5.83,2022-10-11,Automotive,West,Spot
+298,SMB,6.018,2022-05-26,Automotive,International,Contract
+299,SMB,5.928,2023-05-09,Industrial,Midwest,Contract
+300,SMB,7.03,2019-10-04,Food & Beverage,Northeast,Contract
+301,SMB,5.527,2024-09-10,Industrial,International,Contract
+302,Mid-Market,3.863,2022-03-28,Retail,Northeast,Spot
+303,SMB,3.894,2020-01-13,Electronics,Southeast,Spot
+304,SMB,7.089,2021-01-28,Electronics,Northeast,Spot
+305,Occasional,10.839,2020-07-07,Industrial,Midwest,Spot
+306,SMB,7.223,2022-01-06,Pharma,Southeast,Spot
+307,Mid-Market,5.573,2022-02-16,Electronics,Midwest,Spot
+308,SMB,6.36,2021-11-22,Manufacturing,International,Spot
+309,Mid-Market,4.306,2022-01-27,Automotive,Midwest,Spot
+310,Mid-Market,4.44,2025-01-19,Apparel,Midwest,Contract
+311,SMB,5.223,2025-05-24,Automotive,West,Contract
+312,Mid-Market,4.261,2022-04-07,Food & Beverage,West,Spot
+313,Mid-Market,2.875,2025-06-02,Manufacturing,Northeast,Spot
+314,Mid-Market,3.581,2024-06-16,Electronics,Northeast,Spot
+315,Mid-Market,5.465,2024-06-19,Pharma,Midwest,Contract
+316,Mid-Market,2.701,2020-07-03,Manufacturing,West,Contract
+317,Mid-Market,3.91,2021-12-03,Retail,Midwest,Spot
+318,SMB,6.707,2021-05-07,Automotive,Northeast,Contract
+319,Mid-Market,4.24,2019-08-23,Pharma,West,Contract
+320,Occasional,9.799,2019-07-02,Food & Beverage,West,Spot
+321,Occasional,10.239,2023-02-24,Pharma,Midwest,Spot
+322,SMB,4.843,2021-10-21,Apparel,West,Spot
+323,Mid-Market,6.169,2024-07-03,Retail,West,Contract
+324,SMB,5.367,2023-06-17,Food & Beverage,West,Spot
+325,Occasional,9.693,2019-07-27,Electronics,West,Spot
+326,SMB,5.699,2024-08-02,Retail,West,Spot
+327,SMB,7.613,2022-04-22,Retail,Midwest,Spot
+328,SMB,6.165,2022-10-10,Food & Beverage,Midwest,Spot
+329,SMB,6.063,2025-06-09,Pharma,West,Spot
+330,Mid-Market,5.292,2023-04-08,Pharma,Midwest,Spot
+331,SMB,8.946,2019-02-24,Automotive,Midwest,Spot
+332,Mid-Market,4.099,2020-03-07,Food & Beverage,Northeast,Contract
+333,SMB,7.023,2021-11-04,Pharma,West,Spot
+334,Occasional,8.542,2019-04-01,Automotive,Midwest,Spot
+335,Mid-Market,5.774,2020-02-12,Apparel,Southeast,Spot
+336,SMB,7.007,2024-04-11,Industrial,Southeast,Spot
+337,Mid-Market,3.934,2019-12-14,Manufacturing,Southeast,Spot
+338,SMB,6.156,2020-02-11,Automotive,International,Spot
+339,Mid-Market,5.508,2022-05-13,Apparel,West,Spot
+340,Occasional,7.099,2019-08-10,Pharma,Midwest,Spot
+341,Mid-Market,3.377,2020-09-14,Retail,Southeast,Spot
+342,Occasional,8.576,2025-04-01,Pharma,West,Contract
+343,SMB,5.884,2023-03-18,Automotive,Midwest,Spot
+344,SMB,3.976,2025-06-04,Apparel,International,Contract
+345,SMB,7.762,2021-05-12,Retail,Northeast,Spot
+346,SMB,7.138,2023-02-09,Electronics,Northeast,Spot
+347,Occasional,7.24,2020-08-03,Pharma,Midwest,Spot
+348,Mid-Market,5.566,2021-07-10,Automotive,Northeast,Contract
+349,SMB,6.385,2020-03-01,Food & Beverage,Midwest,Spot
+350,Mid-Market,4.234,2024-07-21,Automotive,West,Contract
+351,SMB,6.435,2020-03-24,Automotive,Northeast,Spot
+352,Mid-Market,3.674,2020-05-13,Electronics,Southeast,Spot
+353,SMB,7.483,2022-02-03,Manufacturing,West,Spot
+354,SMB,4.734,2021-11-11,Industrial,West,Spot
+355,SMB,5.892,2021-02-03,Pharma,Midwest,Spot
+356,SMB,5.236,2021-05-19,Automotive,Northeast,Spot
+357,SMB,8.726,2020-12-19,Industrial,Midwest,Contract
+358,SMB,7.651,2025-01-31,Food & Beverage,Southeast,Spot
+359,SMB,3.957,2022-11-14,Retail,West,Spot
+360,SMB,4.783,2025-02-17,Industrial,Midwest,Spot
+361,Occasional,9.578,2025-07-30,Pharma,Southeast,Spot
+362,Mid-Market,4.405,2023-05-04,Retail,West,Contract
+363,Mid-Market,4.85,2024-07-03,Pharma,Midwest,Contract
+364,Mid-Market,4.155,2019-09-27,Retail,Northeast,Contract
+365,SMB,6.441,2025-04-30,Electronics,Midwest,Spot
+366,Mid-Market,5.099,2022-03-20,Electronics,International,Spot
+367,SMB,6.033,2023-10-04,Food & Beverage,West,Spot
+368,SMB,5.011,2020-08-20,Pharma,Southeast,Spot
+369,Mid-Market,4.075,2019-08-21,Automotive,West,Contract
+370,Occasional,10.091,2024-11-24,Electronics,Southeast,Spot
+371,SMB,8.934,2021-12-30,Apparel,Midwest,Spot
+372,Mid-Market,5.158,2019-12-04,Industrial,Midwest,Spot
+373,Mid-Market,4.998,2023-05-23,Apparel,Southeast,Spot
+374,Mid-Market,4.545,2019-05-13,Electronics,Southeast,Contract
+375,Mid-Market,4.203,2022-01-01,Apparel,International,Contract
+376,Mid-Market,4.736,2023-09-12,Electronics,Southeast,Spot
+377,Occasional,11.163,2023-10-21,Food & Beverage,West,Spot
+378,SMB,6.975,2022-01-08,Apparel,West,Spot
+379,Mid-Market,5.095,2021-06-19,Electronics,Midwest,Contract
+380,SMB,7.17,2024-08-03,Retail,Northeast,Spot
+381,SMB,5.77,2020-03-25,Automotive,Northeast,Spot
+382,Occasional,9.395,2019-07-01,Apparel,Northeast,Spot
+383,SMB,7.467,2020-01-17,Retail,Midwest,Spot
+384,SMB,6.143,2024-05-04,Food & Beverage,International,Contract
+385,Mid-Market,6.456,2022-02-18,Electronics,West,Spot
+386,Occasional,10.279,2019-04-01,Industrial,Northeast,Spot
+387,SMB,6.26,2020-02-15,Industrial,Southeast,Contract
+388,Occasional,8.325,2019-03-10,Apparel,Northeast,Spot
+389,Mid-Market,5.445,2024-06-06,Food & Beverage,International,Spot
+390,Occasional,8.035,2022-01-28,Retail,Northeast,Spot
+391,SMB,7.333,2019-06-15,Manufacturing,Northeast,Spot
+392,Mid-Market,5.478,2020-06-22,Retail,Midwest,Contract
+393,SMB,4.645,2023-02-10,Automotive,Midwest,Spot
+394,SMB,8.516,2022-12-16,Retail,Northeast,Spot
+395,Enterprise,1.536,2024-06-17,Apparel,West,Contract
+396,SMB,6.819,2019-03-04,Industrial,Northeast,Spot
+397,SMB,8.137,2019-06-18,Electronics,Northeast,Spot
+398,Mid-Market,7.38,2019-03-28,Apparel,Northeast,Contract
+399,SMB,5.309,2021-08-17,Industrial,Southeast,Spot
+400,SMB,5.492,2023-11-06,Food & Beverage,International,Spot
+401,Mid-Market,5.064,2023-06-03,Food & Beverage,Midwest,Spot
+402,Occasional,9.558,2020-05-26,Manufacturing,West,Spot
+403,SMB,5.206,2023-05-20,Food & Beverage,Southeast,Spot
+404,Mid-Market,5.036,2023-05-18,Automotive,West,Contract
+405,Occasional,8.182,2020-04-11,Apparel,International,Spot
+406,Occasional,9.231,2024-01-01,Manufacturing,Southeast,Spot
+407,Mid-Market,5.234,2021-10-25,Pharma,International,Contract
+408,Occasional,7.102,2019-05-25,Apparel,Midwest,Spot
+409,Mid-Market,3.692,2021-08-09,Retail,West,Spot
+410,Occasional,7.389,2024-02-18,Automotive,Southeast,Spot
+411,SMB,6.9,2023-08-23,Manufacturing,Midwest,Contract
+412,SMB,6.679,2020-10-15,Electronics,Midwest,Spot
+413,Mid-Market,4.2,2024-01-18,Food & Beverage,International,Spot
+414,Occasional,9.817,2021-08-06,Pharma,International,Spot
+415,Enterprise,2.091,2022-01-25,Industrial,Southeast,Contract
+416,Mid-Market,4.144,2019-07-30,Manufacturing,International,Contract
+417,Mid-Market,5.183,2025-08-24,Electronics,West,Contract
+418,SMB,6.043,2024-08-04,Food & Beverage,Midwest,Spot
+419,Mid-Market,4.443,2020-04-19,Automotive,Northeast,Spot
+420,Occasional,10.219,2022-09-27,Industrial,Northeast,Spot
+421,SMB,5.383,2024-03-15,Food & Beverage,Northeast,Spot
+422,Enterprise,2.866,2022-05-13,Apparel,Northeast,Contract
+423,Enterprise,2.657,2020-05-28,Industrial,International,Contract
+424,Enterprise,2.692,2025-06-16,Automotive,Northeast,Contract
+425,SMB,5.08,2020-10-16,Apparel,West,Spot
+426,SMB,6.542,2021-03-25,Pharma,Midwest,Contract
+427,Mid-Market,4.724,2021-06-23,Industrial,Midwest,Contract
+428,Occasional,7.223,2024-12-09,Manufacturing,Northeast,Spot
+429,Enterprise,3.575,2022-05-02,Electronics,Midwest,Contract
+430,SMB,6.041,2023-10-19,Apparel,Midwest,Contract
+431,Occasional,9.873,2025-01-03,Retail,Midwest,Spot
+432,SMB,5.777,2025-03-10,Pharma,Northeast,Spot
+433,SMB,8.457,2024-09-16,Automotive,West,Spot
+434,Occasional,7.948,2025-01-19,Manufacturing,Northeast,Spot
+435,Enterprise,1.965,2025-04-27,Automotive,Midwest,Contract
+436,Mid-Market,5.579,2025-08-10,Food & Beverage,Southeast,Contract
+437,Mid-Market,5.377,2023-04-15,Automotive,Southeast,Contract
+438,SMB,6.501,2019-11-17,Apparel,West,Spot
+439,SMB,8.124,2019-10-03,Manufacturing,Northeast,Spot
+440,SMB,5.96,2024-04-22,Apparel,International,Spot
+441,Occasional,8.826,2021-02-08,Retail,West,Spot
+442,Mid-Market,4.454,2024-05-12,Manufacturing,Southeast,Contract
+443,SMB,6.894,2025-03-26,Industrial,Southeast,Contract
+444,Mid-Market,3.997,2023-04-19,Industrial,Northeast,Contract
+445,Mid-Market,5.622,2024-02-05,Retail,International,Contract
+446,SMB,6.533,2020-11-10,Food & Beverage,Midwest,Spot
+447,Occasional,11.067,2021-11-24,Retail,Northeast,Spot
+448,SMB,4.563,2025-06-08,Electronics,Midwest,Spot
+449,Enterprise,2.586,2024-06-12,Industrial,Northeast,Contract
+450,SMB,8.314,2020-05-12,Manufacturing,Midwest,Contract
+451,Enterprise,2.752,2025-03-29,Apparel,Midwest,Contract
+452,Occasional,10.092,2022-05-01,Automotive,Northeast,Contract
+453,SMB,6.438,2024-08-16,Industrial,West,Spot
+454,Mid-Market,5.297,2022-06-23,Electronics,Southeast,Contract
+455,Mid-Market,3.154,2023-01-10,Apparel,Midwest,Contract
+456,Mid-Market,4.318,2020-01-30,Food & Beverage,Midwest,Spot
+457,Occasional,10.073,2021-04-04,Retail,International,Spot
+458,SMB,7.496,2023-10-26,Manufacturing,Midwest,Spot
+459,SMB,5.698,2024-08-13,Apparel,International,Spot
+460,SMB,6.402,2019-08-05,Apparel,Southeast,Spot
+461,SMB,5.56,2019-07-07,Pharma,West,Spot
+462,Mid-Market,4.749,2023-08-15,Automotive,Northeast,Contract
+463,Occasional,11.854,2021-12-24,Apparel,West,Spot
+464,Mid-Market,5.301,2024-08-28,Electronics,Northeast,Spot
+465,SMB,8.083,2019-06-16,Electronics,International,Spot
+466,SMB,6.974,2021-04-30,Industrial,International,Spot
+467,SMB,7.04,2019-03-28,Industrial,Southeast,Contract
+468,Occasional,7.674,2023-09-24,Retail,Midwest,Spot
+469,Mid-Market,5.419,2024-09-19,Automotive,Midwest,Contract
+470,SMB,8.23,2020-01-17,Manufacturing,Southeast,Spot
+471,Mid-Market,4.856,2021-02-27,Automotive,West,Spot
+472,SMB,7.988,2024-08-21,Pharma,West,Contract
+473,Mid-Market,5.127,2019-04-11,Apparel,Midwest,Contract
+474,Mid-Market,4.658,2025-05-07,Apparel,Northeast,Contract
+475,Mid-Market,3.994,2024-11-29,Pharma,International,Contract
+476,Mid-Market,4.365,2020-01-07,Electronics,Northeast,Contract
+477,Mid-Market,4.617,2019-12-05,Automotive,Midwest,Spot
+478,SMB,7.518,2023-08-12,Pharma,Northeast,Spot
+479,SMB,4.894,2019-01-25,Pharma,Northeast,Spot
+480,Mid-Market,4.569,2022-05-16,Electronics,Northeast,Contract
+481,Mid-Market,2.903,2019-06-10,Retail,Southeast,Contract
+482,Mid-Market,4.242,2022-07-18,Pharma,Midwest,Contract
+483,SMB,5.765,2021-05-02,Electronics,Midwest,Spot
+484,Mid-Market,4.651,2023-09-17,Apparel,West,Contract
+485,Enterprise,2.232,2024-11-14,Electronics,West,Contract
+486,Mid-Market,4.347,2022-04-05,Industrial,Northeast,Contract
+487,SMB,5.395,2023-04-12,Apparel,Northeast,Spot
+488,Mid-Market,4.378,2023-01-01,Food & Beverage,Midwest,Spot
+489,SMB,7.473,2025-07-26,Apparel,Midwest,Spot
+490,SMB,6.805,2020-07-16,Apparel,Midwest,Contract
+491,SMB,4.931,2020-08-04,Pharma,Southeast,Spot
+492,SMB,6.374,2021-07-10,Pharma,West,Spot
+493,SMB,4.807,2023-11-29,Industrial,Northeast,Spot
+494,Mid-Market,5.039,2024-10-07,Electronics,Midwest,Contract
+495,SMB,6.536,2020-11-08,Food & Beverage,Northeast,Spot
+496,SMB,4.614,2019-09-25,Electronics,Midwest,Spot
+497,SMB,7.235,2023-01-22,Pharma,Southeast,Spot
+498,SMB,7.054,2022-12-26,Industrial,West,Spot
+499,Mid-Market,3.629,2021-07-01,Pharma,Northeast,Spot
+500,SMB,8.89,2020-03-24,Manufacturing,Midwest,Spot
+501,SMB,7.617,2024-08-31,Industrial,Northeast,Spot
+502,Occasional,7.223,2024-08-23,Automotive,West,Spot
+503,Occasional,7.645,2023-12-26,Food & Beverage,Northeast,Spot
+504,SMB,6.093,2022-11-10,Manufacturing,Northeast,Spot
+505,SMB,7.582,2020-09-28,Food & Beverage,West,Contract
+506,SMB,4.923,2021-09-08,Automotive,Northeast,Contract
+507,Mid-Market,3.135,2019-06-16,Pharma,Northeast,Spot
+508,Occasional,8.393,2020-08-31,Manufacturing,West,Spot
+509,SMB,5.445,2022-01-01,Manufacturing,West,Spot
+510,Mid-Market,4.287,2021-11-29,Industrial,West,Contract
+511,Enterprise,2.614,2019-07-15,Food & Beverage,Southeast,Contract
+512,Occasional,5.033,2025-05-20,Apparel,Midwest,Spot
+513,Enterprise,1.8,2020-10-15,Electronics,West,Contract
+514,Mid-Market,5.288,2022-05-24,Retail,Northeast,Spot
+515,Mid-Market,6.119,2022-02-06,Food & Beverage,West,Spot
+516,Mid-Market,5.304,2022-02-17,Apparel,Northeast,Spot
+517,Mid-Market,3.279,2024-08-19,Electronics,International,Spot
+518,SMB,7.0,2023-12-23,Pharma,Midwest,Spot
+519,Enterprise,3.305,2024-10-13,Food & Beverage,Midwest,Contract
+520,SMB,4.01,2021-07-11,Electronics,Midwest,Spot
+521,Occasional,8.468,2020-10-07,Electronics,Northeast,Spot
+522,Mid-Market,4.391,2021-11-06,Electronics,Southeast,Contract
+523,Mid-Market,4.831,2022-09-29,Electronics,West,Spot
+524,SMB,6.555,2021-03-31,Apparel,Midwest,Spot
+525,Mid-Market,4.76,2022-01-25,Electronics,Midwest,Spot
+526,Mid-Market,5.085,2020-01-03,Apparel,Northeast,Spot
+527,Occasional,7.929,2022-11-22,Electronics,West,Spot
+528,Occasional,10.054,2023-10-05,Electronics,Southeast,Spot
+529,SMB,5.376,2022-07-07,Industrial,Northeast,Spot
+530,Mid-Market,3.775,2024-10-26,Industrial,International,Spot
+531,SMB,6.722,2025-08-21,Food & Beverage,Midwest,Spot
+532,SMB,5.307,2025-01-14,Electronics,Midwest,Spot
+533,Mid-Market,4.658,2019-08-15,Apparel,International,Contract
+534,SMB,7.109,2024-11-14,Retail,Southeast,Spot
+535,Enterprise,2.259,2021-03-23,Food & Beverage,International,Contract
+536,Mid-Market,4.978,2022-01-05,Pharma,West,Contract
+537,SMB,6.623,2021-09-30,Apparel,Midwest,Contract
+538,Mid-Market,5.343,2020-11-22,Retail,Northeast,Spot
+539,Mid-Market,3.875,2024-11-06,Retail,Northeast,Contract
+540,Occasional,9.364,2023-04-03,Electronics,Southeast,Spot
+541,Occasional,7.839,2025-06-12,Retail,Northeast,Spot
+542,SMB,8.28,2025-05-13,Pharma,Northeast,Spot
+543,Occasional,9.744,2021-10-19,Industrial,Midwest,Spot
+544,Occasional,9.957,2023-11-06,Electronics,West,Spot
+545,Mid-Market,4.289,2022-05-08,Food & Beverage,Northeast,Spot
+546,SMB,6.608,2022-04-19,Manufacturing,West,Spot
+547,Mid-Market,2.167,2023-12-07,Retail,International,Spot
+548,Mid-Market,4.041,2023-08-05,Apparel,West,Spot
+549,SMB,5.678,2025-01-29,Electronics,West,Spot
+550,SMB,6.304,2024-02-25,Pharma,West,Spot
+551,SMB,4.987,2023-02-23,Apparel,Northeast,Spot
+552,Mid-Market,4.128,2025-02-16,Automotive,Southeast,Contract
+553,Mid-Market,3.682,2019-09-07,Manufacturing,International,Contract
+554,Occasional,7.57,2024-02-02,Pharma,West,Spot
+555,Enterprise,3.616,2021-08-13,Industrial,West,Contract
+556,Mid-Market,4.749,2021-11-20,Food & Beverage,International,Spot
+557,Mid-Market,4.55,2024-03-18,Retail,Northeast,Spot
+558,SMB,7.087,2020-10-28,Electronics,Southeast,Spot
+559,SMB,7.308,2024-11-21,Automotive,Midwest,Contract
+560,SMB,9.563,2022-05-02,Automotive,Northeast,Spot
+561,Mid-Market,2.567,2021-04-29,Electronics,Midwest,Contract
+562,Mid-Market,4.794,2021-03-10,Manufacturing,West,Spot
+563,Occasional,8.011,2021-10-21,Electronics,Midwest,Spot
+564,SMB,5.854,2025-04-14,Manufacturing,Southeast,Spot
+565,SMB,6.279,2019-09-07,Apparel,West,Spot
+566,SMB,5.909,2022-05-21,Automotive,Northeast,Spot
+567,SMB,6.855,2024-07-26,Retail,West,Spot
+568,Enterprise,2.584,2022-02-23,Apparel,Northeast,Contract
+569,Mid-Market,3.765,2022-10-10,Automotive,West,Contract
+570,SMB,7.058,2021-04-27,Pharma,Midwest,Spot
+571,Mid-Market,5.037,2019-11-28,Automotive,Southeast,Contract
+572,Occasional,5.239,2023-04-06,Retail,Midwest,Spot
+573,SMB,6.536,2025-02-18,Apparel,Northeast,Contract
+574,SMB,7.904,2022-06-20,Manufacturing,Southeast,Spot
+575,Occasional,7.055,2021-11-18,Industrial,West,Spot
+576,SMB,5.86,2019-11-11,Food & Beverage,West,Spot
+577,Occasional,7.612,2025-04-19,Retail,Northeast,Spot
+578,SMB,7.783,2024-10-17,Apparel,West,Spot
+579,Occasional,8.919,2025-01-05,Apparel,West,Spot
+580,Mid-Market,3.446,2021-05-24,Food & Beverage,West,Contract
+581,SMB,7.246,2023-03-03,Electronics,Southeast,Contract
+582,SMB,6.586,2021-11-19,Retail,Northeast,Spot
+583,Mid-Market,4.627,2020-07-25,Industrial,International,Spot
+584,Mid-Market,4.345,2020-05-15,Manufacturing,Southeast,Contract
+585,Occasional,7.287,2021-07-23,Automotive,Southeast,Spot
+586,SMB,6.222,2022-09-09,Pharma,West,Spot
+587,Mid-Market,4.873,2019-10-25,Apparel,Southeast,Spot
+588,Mid-Market,4.712,2023-09-06,Apparel,West,Spot
+589,Mid-Market,4.37,2022-01-19,Automotive,Northeast,Contract
+590,Enterprise,3.114,2024-11-15,Retail,West,Contract
+591,Occasional,7.978,2020-11-09,Industrial,International,Spot
+592,SMB,9.512,2019-05-06,Retail,International,Spot
+593,Mid-Market,3.217,2021-01-29,Industrial,International,Contract
+594,SMB,5.62,2025-06-28,Electronics,West,Spot
+595,Enterprise,2.573,2021-02-23,Automotive,Southeast,Contract
+596,Mid-Market,3.271,2023-09-10,Retail,International,Spot
+597,SMB,6.958,2024-08-15,Food & Beverage,International,Contract
+598,SMB,5.7,2020-11-23,Pharma,Midwest,Spot
+599,Occasional,6.839,2023-04-14,Industrial,Southeast,Spot
+600,SMB,8.743,2020-05-12,Retail,Northeast,Contract
+601,SMB,7.664,2021-05-31,Retail,Midwest,Contract
+602,SMB,5.786,2020-12-21,Apparel,West,Spot
+603,Occasional,9.074,2023-06-26,Retail,Southeast,Spot
+604,SMB,7.215,2024-11-02,Automotive,Southeast,Spot
+605,Occasional,9.481,2020-09-06,Retail,Midwest,Spot
+606,SMB,6.909,2020-12-10,Industrial,Northeast,Spot
+607,Occasional,9.444,2024-06-21,Pharma,International,Contract
+608,Mid-Market,4.075,2022-01-31,Industrial,Southeast,Contract
+609,SMB,5.98,2022-06-03,Manufacturing,Northeast,Contract
+610,SMB,7.51,2023-09-15,Electronics,Northeast,Spot
+611,SMB,7.067,2019-12-02,Food & Beverage,West,Spot
+612,SMB,6.859,2024-10-24,Retail,West,Spot
+613,Occasional,8.82,2021-06-08,Retail,Northeast,Spot
+614,Occasional,6.334,2023-05-23,Electronics,Northeast,Spot
+615,Mid-Market,4.593,2021-11-18,Apparel,Southeast,Contract
+616,SMB,6.55,2024-01-08,Apparel,Northeast,Spot
+617,SMB,7.117,2023-01-29,Retail,West,Spot
+618,Mid-Market,4.053,2020-02-27,Retail,Northeast,Contract
+619,Mid-Market,5.163,2020-04-02,Apparel,Midwest,Contract
+620,Enterprise,2.585,2024-11-06,Electronics,Southeast,Contract
+621,SMB,6.875,2022-06-19,Automotive,Midwest,Spot
+622,SMB,6.671,2020-11-02,Electronics,Southeast,Spot
+623,Occasional,7.808,2019-12-15,Electronics,Northeast,Spot
+624,SMB,5.831,2019-11-09,Manufacturing,Northeast,Spot
+625,Occasional,8.148,2025-02-17,Electronics,Northeast,Spot
+626,Mid-Market,4.349,2025-07-05,Apparel,Northeast,Spot
+627,SMB,8.633,2021-08-16,Food & Beverage,International,Spot
+628,Mid-Market,3.731,2020-05-05,Apparel,Southeast,Spot
+629,SMB,5.339,2021-10-16,Retail,Southeast,Spot
+630,SMB,7.113,2019-11-29,Pharma,Northeast,Spot
+631,Occasional,8.155,2022-08-31,Food & Beverage,West,Spot
+632,SMB,6.216,2023-03-05,Industrial,International,Contract
+633,Enterprise,2.308,2025-07-27,Food & Beverage,West,Contract
+634,Mid-Market,4.35,2021-02-15,Retail,Midwest,Contract
+635,Enterprise,2.66,2020-04-26,Apparel,West,Contract
+636,Mid-Market,4.803,2019-11-21,Manufacturing,Southeast,Contract
+637,SMB,8.711,2021-07-07,Industrial,West,Spot
+638,SMB,5.516,2023-01-03,Food & Beverage,West,Spot
+639,SMB,5.718,2019-06-12,Automotive,Northeast,Contract
+640,Occasional,8.92,2024-01-23,Apparel,Midwest,Spot
+641,SMB,5.436,2022-01-25,Food & Beverage,Southeast,Spot
+642,SMB,6.988,2024-04-15,Pharma,Northeast,Spot
+643,Enterprise,2.759,2022-02-02,Manufacturing,West,Contract
+644,Mid-Market,4.892,2020-01-14,Retail,Northeast,Contract
+645,SMB,4.952,2019-02-22,Automotive,West,Spot
+646,Occasional,11.081,2022-09-17,Industrial,International,Spot
+647,Enterprise,2.208,2022-08-06,Automotive,Midwest,Contract
+648,SMB,6.026,2024-06-04,Electronics,Southeast,Spot
+649,SMB,4.017,2024-11-06,Electronics,Midwest,Contract
+650,Enterprise,2.537,2020-01-28,Electronics,West,Contract
+651,Mid-Market,6.291,2021-02-05,Apparel,Southeast,Spot
+652,Occasional,10.099,2020-05-20,Pharma,Southeast,Spot
+653,SMB,6.889,2019-09-17,Automotive,Midwest,Spot
+654,Mid-Market,3.998,2019-01-06,Industrial,International,Spot
+655,Occasional,7.22,2019-07-20,Food & Beverage,Southeast,Spot
+656,Mid-Market,4.534,2022-07-01,Apparel,Southeast,Contract
+657,Occasional,9.885,2020-01-05,Pharma,International,Spot
+658,Mid-Market,4.984,2020-04-19,Industrial,Northeast,Spot
+659,SMB,6.0,2019-10-14,Electronics,Northeast,Spot
+660,Mid-Market,4.579,2023-10-30,Manufacturing,Midwest,Spot
+661,Mid-Market,4.149,2023-03-28,Food & Beverage,Northeast,Contract
+662,Occasional,9.824,2025-05-31,Pharma,Northeast,Spot
+663,Mid-Market,3.206,2019-09-29,Industrial,Midwest,Contract
+664,Mid-Market,4.14,2020-05-23,Automotive,Midwest,Spot
+665,Mid-Market,3.634,2022-01-14,Retail,Midwest,Spot
+666,SMB,4.814,2023-04-30,Pharma,Southeast,Contract
+667,SMB,7.903,2019-11-13,Manufacturing,Midwest,Spot
+668,Occasional,7.51,2020-05-30,Electronics,Midwest,Spot
+669,Mid-Market,3.046,2021-10-23,Industrial,West,Spot
+670,Mid-Market,3.884,2019-02-13,Industrial,West,Contract
+671,Mid-Market,3.658,2021-08-20,Manufacturing,West,Spot
+672,SMB,5.031,2024-01-22,Manufacturing,West,Spot
+673,Occasional,10.158,2022-07-06,Apparel,West,Spot
+674,SMB,7.556,2021-11-22,Food & Beverage,Northeast,Spot
+675,SMB,5.759,2022-04-03,Food & Beverage,International,Spot
+676,Mid-Market,5.125,2025-04-24,Automotive,West,Contract
+677,Occasional,8.543,2022-06-21,Industrial,Southeast,Spot
+678,SMB,8.522,2022-07-24,Industrial,Northeast,Contract
+679,Mid-Market,5.141,2025-03-16,Automotive,Midwest,Spot
+680,Mid-Market,3.787,2020-01-19,Industrial,Southeast,Spot
+681,Enterprise,2.295,2019-08-22,Apparel,West,Contract
+682,Mid-Market,4.366,2021-12-31,Industrial,Midwest,Contract
+683,Enterprise,3.75,2021-02-14,Pharma,Northeast,Contract
+684,SMB,7.499,2020-05-09,Retail,Southeast,Spot
+685,SMB,5.39,2019-10-18,Automotive,West,Spot
+686,Mid-Market,2.928,2024-11-08,Industrial,Northeast,Spot
+687,Mid-Market,4.155,2023-02-04,Electronics,West,Contract
+688,Occasional,6.544,2023-08-10,Food & Beverage,Southeast,Spot
+689,SMB,5.5,2019-10-15,Pharma,Southeast,Spot
+690,SMB,7.327,2021-04-10,Apparel,Midwest,Contract
+691,Mid-Market,4.959,2023-02-20,Apparel,Southeast,Contract
+692,Occasional,9.528,2022-07-09,Food & Beverage,Midwest,Spot
+693,Mid-Market,5.342,2023-08-20,Automotive,West,Spot
+694,Mid-Market,3.958,2023-06-19,Automotive,Northeast,Contract
+695,Occasional,9.147,2021-10-03,Industrial,Southeast,Spot
+696,SMB,6.285,2024-03-21,Pharma,West,Spot
+697,SMB,6.397,2020-09-24,Retail,West,Spot
+698,SMB,8.127,2019-07-15,Automotive,Midwest,Contract
+699,SMB,5.702,2025-02-02,Retail,West,Spot
+700,Mid-Market,5.547,2019-02-24,Manufacturing,Northeast,Contract
+701,Mid-Market,3.236,2020-11-21,Electronics,Northeast,Contract
+702,Mid-Market,3.477,2019-10-06,Manufacturing,Midwest,Contract
+703,Mid-Market,5.239,2020-07-18,Apparel,West,Contract
+704,Occasional,8.436,2021-08-19,Food & Beverage,West,Spot
+705,Mid-Market,6.104,2019-11-12,Manufacturing,Northeast,Contract
+706,SMB,6.71,2022-02-10,Retail,Midwest,Spot
+707,SMB,7.746,2025-03-08,Manufacturing,West,Spot
+708,SMB,7.571,2019-11-29,Apparel,Northeast,Spot
+709,SMB,6.408,2025-03-06,Automotive,Midwest,Spot
+710,SMB,6.253,2021-09-28,Electronics,Midwest,Spot
+711,Occasional,8.74,2022-12-13,Retail,Northeast,Spot
+712,SMB,4.513,2021-12-11,Pharma,Southeast,Spot
+713,SMB,5.333,2021-02-10,Automotive,Northeast,Spot
+714,Occasional,7.649,2019-09-23,Retail,International,Spot
+715,SMB,6.982,2022-12-15,Automotive,Northeast,Spot
+716,Mid-Market,5.044,2025-02-10,Manufacturing,Northeast,Contract
+717,SMB,6.435,2022-06-22,Electronics,Northeast,Spot
+718,Mid-Market,4.564,2022-12-29,Pharma,Northeast,Contract
+719,SMB,6.69,2023-04-17,Retail,Northeast,Contract
+720,Occasional,9.776,2021-08-04,Electronics,Midwest,Spot
+721,SMB,7.847,2019-10-21,Manufacturing,Northeast,Spot
+722,SMB,5.175,2022-05-19,Manufacturing,Southeast,Contract
+723,Enterprise,2.555,2024-10-16,Automotive,Northeast,Contract
+724,Occasional,8.73,2021-02-04,Manufacturing,Southeast,Spot
+725,Mid-Market,2.624,2024-10-23,Retail,Northeast,Spot
+726,Enterprise,3.373,2024-09-11,Manufacturing,Midwest,Contract
+727,Mid-Market,2.78,2020-08-19,Retail,West,Contract
+728,Enterprise,2.502,2022-11-01,Pharma,West,Contract
+729,SMB,6.317,2023-12-26,Industrial,Northeast,Spot
+730,SMB,6.826,2022-04-20,Manufacturing,West,Spot
+731,Mid-Market,4.716,2023-08-30,Apparel,West,Spot
+732,Enterprise,2.73,2025-01-27,Electronics,Northeast,Spot
+733,Mid-Market,4.278,2023-03-08,Retail,Southeast,Spot
+734,Mid-Market,3.605,2024-08-02,Apparel,West,Contract
+735,Enterprise,1.939,2024-05-04,Manufacturing,Southeast,Contract
+736,SMB,5.755,2024-06-02,Pharma,Southeast,Spot
+737,Mid-Market,4.659,2024-09-06,Pharma,Midwest,Contract
+738,Mid-Market,4.704,2020-07-03,Pharma,Northeast,Contract
+739,Mid-Market,5.45,2019-02-14,Manufacturing,International,Contract
+740,Mid-Market,4.723,2020-01-08,Electronics,Northeast,Contract
+741,Enterprise,2.376,2020-08-30,Apparel,Northeast,Spot
+742,Mid-Market,5.706,2023-08-08,Industrial,Northeast,Spot
+743,Occasional,9.066,2022-05-26,Retail,Southeast,Spot
+744,Enterprise,2.705,2022-02-15,Food & Beverage,West,Contract
+745,SMB,8.318,2019-01-23,Industrial,West,Contract
+746,SMB,7.69,2023-07-23,Electronics,International,Spot
+747,Mid-Market,4.607,2021-06-05,Food & Beverage,Midwest,Contract
+748,SMB,6.948,2024-01-27,Industrial,Southeast,Spot
+749,SMB,8.753,2019-10-02,Industrial,Southeast,Spot
+750,Occasional,9.371,2020-12-20,Apparel,Northeast,Spot
+751,Mid-Market,4.496,2019-05-14,Apparel,International,Spot
+752,Mid-Market,5.558,2020-11-24,Pharma,Midwest,Contract
+753,Mid-Market,3.719,2025-02-26,Electronics,Southeast,Spot
+754,SMB,4.801,2022-04-10,Industrial,Midwest,Contract
+755,SMB,6.591,2021-12-06,Retail,West,Spot
+756,Mid-Market,7.133,2020-10-28,Retail,Northeast,Contract
+757,Mid-Market,4.938,2020-10-06,Pharma,West,Contract
+758,Occasional,6.953,2023-06-13,Automotive,West,Spot
+759,Enterprise,3.393,2025-07-26,Automotive,West,Contract
+760,SMB,7.04,2023-12-24,Apparel,Northeast,Contract
+761,SMB,5.503,2023-11-30,Food & Beverage,Northeast,Spot
+762,Mid-Market,4.943,2022-02-23,Electronics,Midwest,Contract
+763,Enterprise,2.711,2019-08-29,Food & Beverage,West,Contract
+764,Mid-Market,5.073,2023-10-29,Electronics,International,Spot
+765,Occasional,7.369,2024-05-23,Food & Beverage,Midwest,Spot
+766,Enterprise,3.292,2022-05-27,Retail,Northeast,Contract
+767,Mid-Market,6.289,2019-08-11,Electronics,Northeast,Spot
+768,Enterprise,2.92,2023-10-02,Industrial,Midwest,Contract
+769,Mid-Market,5.313,2025-02-20,Apparel,Northeast,Contract
+770,SMB,6.961,2020-07-01,Manufacturing,Midwest,Spot
+771,Mid-Market,3.155,2020-01-24,Electronics,West,Contract
+772,SMB,5.272,2023-12-05,Electronics,Southeast,Spot
+773,SMB,7.429,2021-03-19,Electronics,Southeast,Contract
+774,Occasional,5.264,2023-10-08,Apparel,Northeast,Spot
+775,Enterprise,3.414,2023-09-09,Industrial,Southeast,Contract
+776,Occasional,9.704,2020-10-11,Apparel,West,Spot
+777,SMB,7.869,2019-04-13,Food & Beverage,Southeast,Contract
+778,Mid-Market,5.863,2022-09-15,Manufacturing,Northeast,Contract
+779,SMB,6.927,2021-09-19,Manufacturing,Northeast,Spot
+780,Occasional,6.86,2024-09-13,Automotive,Northeast,Spot
+781,Mid-Market,4.293,2021-05-21,Apparel,Midwest,Contract
+782,Occasional,9.012,2020-08-30,Pharma,Midwest,Spot
+783,SMB,4.377,2024-09-25,Pharma,Midwest,Spot
+784,SMB,5.44,2023-11-28,Automotive,Midwest,Spot
+785,Occasional,9.394,2023-02-14,Automotive,Northeast,Spot
+786,Mid-Market,4.696,2025-05-11,Retail,Midwest,Spot
+787,SMB,7.278,2024-03-21,Food & Beverage,Northeast,Spot
+788,Mid-Market,3.449,2024-10-10,Retail,International,Contract
+789,SMB,6.625,2024-04-29,Food & Beverage,Northeast,Spot
+790,SMB,3.367,2021-09-04,Apparel,Southeast,Spot
+791,Mid-Market,5.074,2019-06-01,Manufacturing,Northeast,Contract
+792,Mid-Market,4.014,2023-01-18,Manufacturing,West,Spot
+793,Mid-Market,4.69,2024-02-06,Food & Beverage,Northeast,Contract
+794,Enterprise,2.57,2025-08-11,Pharma,International,Contract
+795,Enterprise,3.795,2023-07-18,Apparel,Northeast,Spot
+796,Mid-Market,4.344,2022-10-16,Retail,West,Contract
+797,Enterprise,2.357,2022-11-02,Manufacturing,Midwest,Contract
+798,Mid-Market,6.333,2019-10-08,Automotive,Southeast,Spot
+799,SMB,8.091,2019-01-18,Apparel,Northeast,Spot
+800,SMB,6.764,2019-04-21,Industrial,Southeast,Spot
+801,SMB,5.617,2025-01-12,Automotive,West,Spot
+802,Mid-Market,6.384,2024-04-08,Automotive,West,Contract
+803,Occasional,9.764,2020-09-25,Pharma,Northeast,Spot
+804,SMB,7.794,2021-10-28,Industrial,Southeast,Spot
+805,Mid-Market,4.642,2022-03-23,Food & Beverage,Northeast,Contract
+806,Mid-Market,4.658,2020-08-23,Industrial,Northeast,Spot
+807,SMB,5.787,2021-10-26,Food & Beverage,Midwest,Spot
+808,Mid-Market,4.264,2021-04-26,Food & Beverage,Southeast,Spot
+809,SMB,5.774,2023-08-19,Apparel,Northeast,Spot
+810,Occasional,6.874,2024-01-19,Food & Beverage,West,Spot
+811,Enterprise,2.217,2019-08-28,Manufacturing,West,Contract
+812,Enterprise,1.995,2022-02-06,Industrial,West,Contract
+813,Occasional,8.696,2025-08-10,Food & Beverage,Northeast,Spot
+814,SMB,7.03,2024-10-15,Industrial,International,Spot
+815,Mid-Market,5.595,2024-04-16,Food & Beverage,Midwest,Spot
+816,Occasional,11.472,2023-11-25,Industrial,Midwest,Spot
+817,Occasional,11.543,2019-01-11,Pharma,Northeast,Spot
+818,SMB,8.737,2025-06-29,Automotive,West,Contract
+819,SMB,8.548,2023-11-26,Automotive,Midwest,Spot
+820,Mid-Market,4.304,2024-12-03,Manufacturing,West,Spot
+821,Enterprise,3.766,2025-01-22,Automotive,Midwest,Contract
+822,SMB,7.032,2020-09-11,Industrial,West,Spot
+823,Mid-Market,4.221,2019-02-03,Apparel,West,Spot
+824,SMB,7.155,2023-05-24,Industrial,International,Spot
+825,Occasional,10.38,2022-01-22,Automotive,Northeast,Spot
+826,Enterprise,3.01,2019-02-20,Apparel,Northeast,Contract
+827,SMB,7.55,2020-10-21,Food & Beverage,West,Spot
+828,Mid-Market,5.481,2025-08-10,Automotive,Midwest,Spot
+829,Occasional,9.34,2021-06-03,Manufacturing,Midwest,Spot
+830,Mid-Market,4.116,2020-09-27,Pharma,West,Spot
+831,SMB,5.092,2023-05-13,Automotive,Midwest,Spot
+832,SMB,7.373,2023-06-07,Industrial,West,Spot
+833,Mid-Market,4.566,2021-03-19,Electronics,Southeast,Contract
+834,SMB,5.719,2024-08-29,Retail,West,Contract
+835,SMB,6.982,2022-11-14,Electronics,Northeast,Spot
+836,SMB,6.327,2020-01-26,Automotive,Midwest,Spot
+837,SMB,7.201,2021-03-02,Pharma,West,Spot
+838,Occasional,7.192,2024-08-26,Retail,Southeast,Spot
+839,Mid-Market,3.177,2019-08-06,Retail,Southeast,Contract
+840,SMB,6.742,2019-01-30,Electronics,Southeast,Spot
+841,Enterprise,2.433,2023-05-18,Electronics,Midwest,Contract
+842,SMB,2.912,2021-12-12,Manufacturing,Southeast,Spot
+843,SMB,6.815,2020-09-07,Food & Beverage,Northeast,Spot
+844,Mid-Market,5.234,2022-02-23,Food & Beverage,West,Spot
+845,Mid-Market,6.347,2020-03-23,Manufacturing,Northeast,Spot
+846,Occasional,9.95,2021-06-29,Manufacturing,Midwest,Spot
+847,Mid-Market,5.249,2020-07-23,Apparel,Midwest,Contract
+848,SMB,7.371,2022-11-28,Industrial,Northeast,Spot
+849,Mid-Market,5.916,2023-06-29,Industrial,Northeast,Spot
+850,Occasional,8.547,2025-02-05,Pharma,International,Spot
+851,Mid-Market,3.839,2019-06-14,Retail,West,Spot
+852,Mid-Market,4.813,2021-03-07,Industrial,Northeast,Contract
+853,Occasional,9.697,2020-10-05,Industrial,West,Spot
+854,Occasional,7.787,2022-11-11,Electronics,Midwest,Spot
+855,Mid-Market,3.751,2022-07-22,Food & Beverage,Northeast,Spot
+856,SMB,7.135,2024-11-06,Retail,West,Spot
+857,SMB,6.477,2025-02-15,Automotive,Midwest,Spot
+858,Occasional,8.523,2024-02-26,Automotive,Northeast,Spot
+859,Mid-Market,4.395,2020-04-29,Retail,West,Spot
+860,SMB,8.571,2019-04-10,Apparel,Southeast,Spot
+861,SMB,6.974,2024-12-29,Food & Beverage,Southeast,Spot
+862,SMB,7.125,2025-04-14,Pharma,Southeast,Spot
+863,SMB,7.853,2020-09-01,Manufacturing,West,Spot
+864,SMB,7.035,2019-04-24,Automotive,West,Spot
+865,Mid-Market,5.295,2023-07-16,Food & Beverage,International,Spot
+866,Occasional,9.063,2022-12-04,Automotive,Northeast,Spot
+867,Occasional,9.194,2024-12-04,Manufacturing,West,Spot
+868,SMB,5.522,2022-11-01,Pharma,Midwest,Spot
+869,Mid-Market,4.692,2024-01-26,Electronics,Southeast,Contract
+870,Mid-Market,3.329,2024-03-29,Industrial,Northeast,Contract
+871,SMB,3.674,2019-01-24,Pharma,West,Spot
+872,Enterprise,3.225,2019-12-28,Apparel,Southeast,Contract
+873,Occasional,9.59,2024-03-14,Retail,Midwest,Spot
+874,Mid-Market,3.416,2020-03-12,Apparel,Midwest,Spot
+875,SMB,6.027,2020-05-16,Retail,Northeast,Spot
+876,Occasional,7.873,2024-01-06,Electronics,International,Spot
+877,Mid-Market,3.357,2020-05-12,Manufacturing,West,Contract
+878,Mid-Market,5.042,2019-12-31,Retail,Midwest,Contract
+879,SMB,7.513,2019-02-02,Pharma,West,Spot
+880,SMB,6.176,2022-02-17,Manufacturing,Midwest,Spot
+881,Mid-Market,6.458,2023-03-31,Pharma,West,Contract
+882,SMB,7.561,2023-11-17,Automotive,Northeast,Spot
+883,Occasional,6.651,2025-01-14,Manufacturing,Southeast,Spot
+884,SMB,6.778,2023-05-05,Apparel,Southeast,Spot
+885,Mid-Market,5.826,2024-01-16,Electronics,Southeast,Contract
+886,Mid-Market,2.894,2020-05-27,Electronics,Southeast,Spot
+887,Mid-Market,5.879,2021-04-08,Pharma,Northeast,Spot
+888,Mid-Market,5.443,2021-01-10,Apparel,International,Spot
+889,Mid-Market,3.209,2019-06-08,Apparel,Northeast,Contract
+890,SMB,8.146,2025-06-17,Manufacturing,Northeast,Spot
+891,Mid-Market,4.327,2020-08-10,Pharma,Southeast,Spot
+892,Occasional,11.4,2021-12-28,Electronics,Midwest,Spot
+893,Mid-Market,5.586,2021-05-19,Electronics,Northeast,Contract
+894,Mid-Market,5.095,2019-04-19,Industrial,Midwest,Contract
+895,SMB,6.246,2025-01-08,Retail,West,Contract
+896,Occasional,12.783,2020-06-18,Food & Beverage,Northeast,Spot
+897,Mid-Market,3.422,2019-09-02,Food & Beverage,International,Spot
+898,Mid-Market,5.15,2021-04-13,Manufacturing,Southeast,Spot
+899,Mid-Market,2.676,2019-12-17,Automotive,Midwest,Contract
+900,SMB,7.161,2025-08-30,Food & Beverage,Northeast,Contract
+901,SMB,7.207,2020-04-05,Apparel,West,Spot
+902,Mid-Market,4.399,2021-01-07,Food & Beverage,West,Contract
+903,Enterprise,2.944,2020-10-22,Industrial,Northeast,Contract
+904,SMB,8.402,2019-03-06,Apparel,Northeast,Spot
+905,Occasional,9.516,2019-02-01,Electronics,Southeast,Spot
+906,SMB,4.552,2022-06-02,Industrial,Northeast,Contract
+907,SMB,6.05,2020-07-20,Automotive,International,Spot
+908,Mid-Market,5.624,2019-07-23,Pharma,Midwest,Spot
+909,Mid-Market,4.617,2020-12-10,Retail,Midwest,Contract
+910,Mid-Market,4.151,2020-10-29,Pharma,International,Spot
+911,SMB,7.618,2021-10-29,Apparel,West,Spot
+912,Occasional,6.682,2025-08-13,Electronics,West,Contract
+913,Occasional,7.563,2021-01-17,Manufacturing,Southeast,Spot
+914,Occasional,9.615,2023-09-12,Pharma,Southeast,Spot
+915,Occasional,10.946,2024-02-15,Automotive,Southeast,Spot
+916,Occasional,6.859,2019-05-04,Electronics,Southeast,Spot
+917,Enterprise,3.583,2022-05-05,Food & Beverage,Southeast,Contract
+918,Mid-Market,5.4,2021-12-28,Retail,Northeast,Contract
+919,Mid-Market,5.477,2022-05-21,Apparel,Southeast,Spot
+920,SMB,8.455,2020-02-22,Automotive,Southeast,Spot
+921,Mid-Market,5.779,2022-02-06,Automotive,Southeast,Spot
+922,Occasional,8.601,2019-10-27,Food & Beverage,Northeast,Spot
+923,SMB,6.888,2025-04-22,Retail,Southeast,Spot
+924,SMB,6.249,2022-11-30,Food & Beverage,Midwest,Spot
+925,Mid-Market,5.387,2019-03-26,Industrial,West,Contract
+926,Mid-Market,5.573,2022-05-16,Retail,West,Spot
+927,Mid-Market,5.26,2025-03-05,Manufacturing,Northeast,Spot
+928,Occasional,9.113,2023-12-14,Automotive,Northeast,Spot
+929,SMB,7.509,2020-10-26,Pharma,Southeast,Spot
+930,SMB,7.642,2024-12-12,Manufacturing,Northeast,Spot
+931,Mid-Market,4.839,2020-03-27,Retail,Southeast,Spot
+932,Mid-Market,4.681,2020-08-23,Food & Beverage,International,Contract
+933,Mid-Market,4.386,2020-01-13,Pharma,Northeast,Spot
+934,SMB,6.168,2025-02-25,Automotive,Southeast,Spot
+935,SMB,6.996,2023-10-12,Industrial,West,Spot
+936,Mid-Market,3.509,2022-06-15,Food & Beverage,Midwest,Spot
+937,Occasional,10.183,2023-06-15,Food & Beverage,Northeast,Spot
+938,Mid-Market,3.74,2020-09-22,Industrial,Northeast,Contract
+939,Occasional,8.25,2019-06-22,Automotive,International,Spot
+940,Mid-Market,4.346,2024-08-21,Manufacturing,Northeast,Contract
+941,Mid-Market,4.817,2025-06-05,Apparel,Midwest,Spot
+942,Occasional,6.298,2019-03-28,Apparel,West,Spot
+943,Mid-Market,5.897,2019-05-06,Manufacturing,Southeast,Contract
+944,Mid-Market,4.562,2022-09-24,Industrial,West,Contract
+945,SMB,8.017,2019-04-15,Electronics,Northeast,Spot
+946,Mid-Market,5.503,2023-10-24,Pharma,Southeast,Contract
+947,SMB,8.869,2025-04-20,Food & Beverage,Southeast,Spot
+948,Occasional,9.794,2020-11-12,Apparel,International,Spot
+949,Occasional,10.6,2020-12-17,Industrial,Northeast,Spot
+950,Mid-Market,5.571,2024-10-03,Food & Beverage,Northeast,Contract
+951,SMB,7.491,2021-05-17,Food & Beverage,International,Spot
+952,Mid-Market,4.392,2020-08-08,Automotive,Northeast,Contract
+953,Mid-Market,5.135,2019-07-25,Industrial,West,Contract
+954,Mid-Market,4.381,2024-08-07,Industrial,Midwest,Contract
+955,Occasional,8.668,2025-03-04,Automotive,Midwest,Contract
+956,Occasional,9.448,2019-07-11,Apparel,West,Spot
+957,SMB,6.653,2024-05-09,Automotive,West,Contract
+958,SMB,6.535,2020-01-25,Industrial,Northeast,Contract
+959,SMB,7.269,2019-12-05,Retail,International,Contract
+960,SMB,6.461,2021-07-16,Pharma,International,Spot
+961,SMB,6.828,2021-11-29,Retail,West,Spot
+962,SMB,5.331,2024-09-10,Pharma,Midwest,Spot
+963,Mid-Market,5.79,2023-08-31,Food & Beverage,Midwest,Contract
+964,Mid-Market,5.172,2019-12-19,Electronics,Midwest,Spot
+965,Occasional,8.041,2022-11-23,Industrial,Northeast,Spot
+966,SMB,8.156,2024-11-01,Apparel,Midwest,Spot
+967,Occasional,7.447,2023-06-01,Pharma,Midwest,Spot
+968,Mid-Market,3.529,2020-07-13,Industrial,Midwest,Spot
+969,SMB,5.232,2019-11-10,Retail,Southeast,Spot
+970,Mid-Market,4.745,2022-01-06,Apparel,Midwest,Spot
+971,Mid-Market,6.083,2022-02-23,Manufacturing,Midwest,Spot
+972,Enterprise,1.826,2021-05-08,Manufacturing,Southeast,Contract
+973,Mid-Market,4.437,2019-09-24,Manufacturing,International,Spot
+974,Occasional,10.442,2019-10-15,Pharma,West,Spot
+975,Mid-Market,5.003,2022-07-12,Apparel,Northeast,Contract
+976,SMB,6.081,2025-04-18,Automotive,Northeast,Spot
+977,SMB,6.717,2022-12-26,Food & Beverage,West,Contract
+978,Mid-Market,5.091,2021-12-02,Industrial,Southeast,Contract
+979,SMB,8.989,2025-03-17,Electronics,West,Spot
+980,Mid-Market,3.667,2023-08-08,Manufacturing,Northeast,Contract
+981,Occasional,9.42,2023-10-15,Retail,Northeast,Contract
+982,SMB,6.093,2022-11-01,Manufacturing,Southeast,Spot
+983,SMB,5.801,2024-02-01,Food & Beverage,West,Spot
+984,SMB,5.939,2022-05-06,Food & Beverage,International,Spot
+985,Mid-Market,5.06,2023-02-23,Automotive,West,Contract
+986,Occasional,9.585,2023-02-10,Manufacturing,Midwest,Spot
+987,Mid-Market,3.346,2024-01-07,Electronics,West,Spot
+988,Enterprise,2.467,2024-12-27,Industrial,Northeast,Spot
+989,Mid-Market,4.037,2020-12-17,Retail,Midwest,Contract
+990,SMB,8.591,2023-08-30,Food & Beverage,International,Contract
+991,SMB,3.225,2019-03-19,Manufacturing,Southeast,Spot
+992,SMB,5.397,2022-07-20,Pharma,International,Spot
+993,SMB,9.878,2024-12-28,Industrial,Northeast,Contract
+994,Mid-Market,5.568,2023-04-21,Manufacturing,Northeast,Spot
+995,Occasional,11.203,2020-10-13,Electronics,Midwest,Spot
+996,SMB,7.309,2023-01-16,Food & Beverage,International,Contract
+997,SMB,5.273,2021-05-21,Automotive,Southeast,Spot
+998,Enterprise,2.369,2021-11-20,Industrial,West,Contract
+999,Occasional,7.112,2020-07-09,Retail,Northeast,Contract
+1000,Mid-Market,4.921,2023-03-02,Food & Beverage,West,Spot
+1001,Enterprise,1.613,2020-04-27,Automotive,Midwest,Contract
+1002,SMB,6.55,2021-12-16,Retail,Northeast,Spot
+1003,Mid-Market,4.326,2025-04-06,Automotive,West,Spot
+1004,Mid-Market,5.002,2024-01-19,Manufacturing,West,Spot
+1005,SMB,6.681,2021-10-05,Pharma,Midwest,Spot
+1006,Mid-Market,4.546,2025-06-17,Industrial,Northeast,Contract
+1007,Occasional,7.917,2019-02-03,Apparel,Northeast,Spot
+1008,Mid-Market,4.611,2025-05-26,Industrial,International,Spot
+1009,SMB,7.615,2021-05-07,Pharma,Midwest,Spot
+1010,SMB,8.807,2024-06-21,Manufacturing,West,Spot
+1011,SMB,7.066,2025-04-26,Apparel,West,Spot
+1012,SMB,5.952,2023-01-05,Pharma,West,Contract
+1013,SMB,7.545,2023-01-26,Electronics,Northeast,Spot
+1014,Occasional,9.053,2023-12-30,Retail,Midwest,Spot
+1015,Mid-Market,5.191,2020-08-06,Apparel,West,Contract
+1016,Mid-Market,3.945,2020-03-09,Pharma,Northeast,Spot
+1017,SMB,5.762,2021-04-16,Automotive,Northeast,Spot
+1018,Occasional,7.897,2022-03-12,Manufacturing,Midwest,Spot
+1019,Enterprise,3.13,2023-12-14,Pharma,West,Contract
+1020,SMB,5.36,2020-09-18,Automotive,West,Spot
+1021,Occasional,10.053,2022-10-07,Industrial,Northeast,Spot
+1022,SMB,4.488,2019-01-09,Industrial,International,Contract
+1023,Occasional,8.5,2019-03-17,Manufacturing,Northeast,Spot
+1024,SMB,4.722,2025-06-12,Manufacturing,Northeast,Spot
+1025,SMB,5.524,2024-09-01,Pharma,International,Contract
+1026,Mid-Market,4.636,2024-10-04,Food & Beverage,West,Contract
+1027,Occasional,7.212,2021-03-11,Manufacturing,International,Spot
+1028,Mid-Market,4.319,2022-06-04,Retail,West,Spot
+1029,SMB,5.187,2023-07-01,Manufacturing,Midwest,Spot
+1030,Mid-Market,3.173,2020-09-10,Electronics,Southeast,Spot
+1031,SMB,6.976,2023-12-18,Apparel,Southeast,Spot
+1032,SMB,5.161,2023-08-15,Retail,International,Spot
+1033,SMB,2.828,2021-09-18,Retail,West,Spot
+1034,Occasional,8.905,2021-11-24,Electronics,Southeast,Spot
+1035,Mid-Market,3.772,2021-01-18,Automotive,Southeast,Contract
+1036,SMB,5.347,2024-05-10,Industrial,Southeast,Contract
+1037,Mid-Market,6.011,2025-07-31,Food & Beverage,Southeast,Contract
+1038,Mid-Market,4.946,2025-08-30,Retail,West,Contract
+1039,SMB,6.034,2024-02-22,Retail,Northeast,Contract
+1040,Mid-Market,3.409,2021-04-30,Automotive,Southeast,Spot
+1041,Mid-Market,3.214,2024-03-16,Food & Beverage,International,Contract
+1042,SMB,5.873,2020-08-18,Retail,Midwest,Spot
+1043,SMB,8.423,2024-12-23,Automotive,Southeast,Spot
+1044,SMB,5.864,2020-10-13,Pharma,Southeast,Spot
+1045,Enterprise,2.465,2021-09-07,Electronics,Northeast,Contract
+1046,Mid-Market,4.499,2019-08-16,Food & Beverage,Northeast,Contract
+1047,Mid-Market,6.005,2019-07-18,Manufacturing,Northeast,Contract
+1048,SMB,7.657,2021-08-17,Industrial,Northeast,Spot
+1049,Occasional,9.073,2022-09-01,Automotive,Northeast,Spot
+1050,Mid-Market,4.432,2019-02-12,Manufacturing,Southeast,Contract
+1051,SMB,6.577,2024-08-22,Apparel,Northeast,Spot
+1052,Mid-Market,5.776,2019-10-06,Manufacturing,International,Spot
+1053,Mid-Market,4.917,2025-08-28,Food & Beverage,Northeast,Spot
+1054,Mid-Market,5.024,2020-10-23,Apparel,Southeast,Contract
+1055,Mid-Market,3.398,2021-07-11,Retail,West,Spot
+1056,SMB,6.549,2020-01-25,Apparel,Northeast,Spot
+1057,Occasional,10.295,2024-06-30,Manufacturing,Midwest,Spot
+1058,Mid-Market,5.444,2023-11-18,Apparel,West,Contract
+1059,SMB,5.598,2019-07-11,Food & Beverage,Midwest,Contract
+1060,SMB,6.529,2019-09-15,Retail,Northeast,Spot
+1061,Occasional,9.429,2023-01-23,Automotive,West,Spot
+1062,SMB,5.682,2024-10-09,Electronics,West,Spot
+1063,Mid-Market,4.299,2019-09-25,Industrial,Southeast,Contract
+1064,SMB,6.804,2020-06-22,Automotive,Northeast,Spot
+1065,Mid-Market,5.377,2022-08-20,Manufacturing,Northeast,Spot
+1066,Occasional,9.538,2019-09-22,Pharma,West,Contract
+1067,Mid-Market,3.867,2021-01-11,Electronics,Southeast,Contract
+1068,SMB,6.317,2019-01-25,Pharma,Northeast,Spot
+1069,Enterprise,2.97,2022-04-30,Pharma,Midwest,Contract
+1070,Mid-Market,4.759,2023-10-08,Electronics,International,Contract
+1071,Occasional,9.312,2021-09-30,Apparel,Northeast,Spot
+1072,SMB,5.466,2020-09-16,Electronics,Northeast,Contract
+1073,SMB,7.79,2021-10-30,Industrial,Southeast,Spot
+1074,Occasional,8.499,2022-05-25,Industrial,West,Spot
+1075,Occasional,7.654,2020-02-08,Manufacturing,Midwest,Spot
+1076,Mid-Market,4.917,2019-09-29,Apparel,West,Spot
+1077,SMB,7.112,2020-03-18,Industrial,Northeast,Spot
+1078,SMB,6.062,2025-07-27,Manufacturing,Southeast,Spot
+1079,SMB,6.775,2023-10-27,Apparel,Southeast,Spot
+1080,Mid-Market,4.461,2019-11-02,Industrial,Southeast,Spot
+1081,Mid-Market,4.964,2021-01-03,Manufacturing,Midwest,Contract
+1082,Occasional,9.262,2021-09-30,Pharma,West,Spot
+1083,Occasional,8.267,2020-03-17,Automotive,Southeast,Spot
+1084,Occasional,11.504,2024-09-04,Electronics,West,Contract
+1085,Occasional,10.947,2025-04-09,Manufacturing,Northeast,Contract
+1086,SMB,6.499,2020-08-19,Food & Beverage,Midwest,Spot
+1087,SMB,5.559,2019-02-10,Electronics,Southeast,Spot
+1088,SMB,6.685,2020-10-12,Apparel,Midwest,Contract
+1089,SMB,5.855,2022-11-19,Electronics,Northeast,Spot
+1090,SMB,5.466,2024-05-22,Food & Beverage,International,Spot
+1091,Mid-Market,4.36,2021-04-06,Industrial,International,Contract
+1092,SMB,4.653,2020-10-27,Pharma,West,Spot
+1093,Mid-Market,4.016,2020-08-28,Industrial,West,Contract
+1094,Mid-Market,6.045,2019-01-07,Apparel,Northeast,Contract
+1095,SMB,6.17,2019-02-04,Industrial,Midwest,Spot
+1096,Mid-Market,5.544,2021-11-07,Manufacturing,Southeast,Contract
+1097,Mid-Market,3.915,2023-02-12,Industrial,West,Spot
+1098,SMB,7.28,2019-01-31,Industrial,Northeast,Spot
+1099,Occasional,9.813,2020-05-02,Retail,Northeast,Spot
+1100,Mid-Market,5.112,2025-01-24,Electronics,West,Contract
+1101,Enterprise,3.78,2025-08-07,Food & Beverage,Northeast,Contract
+1102,Mid-Market,3.932,2023-04-12,Food & Beverage,West,Contract
+1103,SMB,5.766,2022-06-24,Automotive,Southeast,Spot
+1104,Occasional,9.406,2022-11-20,Apparel,West,Spot
+1105,Mid-Market,3.534,2021-06-21,Manufacturing,West,Contract
+1106,SMB,9.625,2020-05-05,Pharma,Midwest,Spot
+1107,Mid-Market,5.53,2021-07-04,Industrial,Northeast,Contract
+1108,Mid-Market,3.066,2023-09-01,Food & Beverage,Northeast,Contract
+1109,Occasional,8.659,2023-06-02,Industrial,Northeast,Spot
+1110,Mid-Market,5.434,2023-07-08,Apparel,Northeast,Contract
+1111,Mid-Market,4.373,2023-01-22,Industrial,Midwest,Contract
+1112,Mid-Market,4.41,2019-05-28,Industrial,Southeast,Contract
+1113,SMB,7.663,2023-03-06,Retail,Southeast,Contract
+1114,Occasional,6.782,2024-11-14,Automotive,Northeast,Spot
+1115,Occasional,8.454,2023-04-30,Manufacturing,International,Spot
+1116,Enterprise,2.423,2022-11-11,Automotive,Northeast,Spot
+1117,Mid-Market,4.969,2020-06-29,Automotive,Southeast,Contract
+1118,SMB,8.165,2024-04-13,Electronics,Midwest,Spot
+1119,Mid-Market,5.123,2022-01-04,Retail,Northeast,Contract
+1120,Occasional,8.962,2020-10-02,Food & Beverage,International,Spot
+1121,SMB,7.554,2022-04-07,Electronics,Northeast,Spot
+1122,Mid-Market,3.856,2019-10-25,Pharma,West,Spot
+1123,Occasional,9.167,2025-03-05,Retail,Midwest,Contract
+1124,Mid-Market,5.246,2023-09-07,Retail,West,Contract
+1125,Mid-Market,4.702,2021-03-06,Food & Beverage,Midwest,Spot
+1126,SMB,8.823,2024-04-17,Automotive,West,Contract
+1127,SMB,5.656,2019-05-12,Electronics,Southeast,Spot
+1128,SMB,3.527,2021-07-28,Electronics,Midwest,Spot
+1129,SMB,6.065,2023-05-06,Manufacturing,West,Spot
+1130,Occasional,9.551,2019-02-27,Electronics,Midwest,Spot
+1131,Occasional,10.274,2023-09-22,Electronics,Midwest,Spot
+1132,SMB,7.27,2024-06-15,Electronics,Northeast,Spot
+1133,Mid-Market,3.47,2022-12-17,Electronics,Southeast,Contract
+1134,SMB,6.782,2020-05-16,Electronics,Southeast,Spot
+1135,Occasional,7.693,2023-12-30,Apparel,Northeast,Spot
+1136,Mid-Market,4.447,2021-04-05,Electronics,Southeast,Contract
+1137,SMB,6.931,2023-11-27,Automotive,Northeast,Spot
+1138,Mid-Market,5.843,2023-03-10,Pharma,Midwest,Contract
+1139,Enterprise,2.389,2019-08-16,Apparel,West,Contract
+1140,SMB,8.185,2019-09-01,Pharma,Midwest,Contract
+1141,Mid-Market,6.109,2019-02-06,Industrial,West,Spot
+1142,SMB,7.058,2019-06-25,Electronics,Northeast,Spot
+1143,Occasional,7.707,2020-12-30,Industrial,Northeast,Spot
+1144,SMB,7.559,2019-03-04,Manufacturing,West,Spot
+1145,Mid-Market,5.246,2025-04-04,Manufacturing,West,Spot
+1146,Mid-Market,3.529,2025-02-10,Automotive,West,Spot
+1147,SMB,5.473,2020-02-25,Industrial,West,Spot
+1148,SMB,5.286,2021-01-28,Retail,West,Spot
+1149,SMB,8.537,2023-12-13,Pharma,West,Spot
+1150,Occasional,11.121,2023-05-28,Pharma,West,Spot
+1151,Mid-Market,5.042,2022-11-17,Manufacturing,West,Spot
+1152,Occasional,10.034,2025-08-05,Pharma,Northeast,Spot
+1153,Mid-Market,5.366,2023-03-14,Apparel,Northeast,Contract
+1154,Mid-Market,5.253,2023-06-19,Pharma,Southeast,Spot
+1155,SMB,6.721,2022-05-07,Pharma,Midwest,Spot
+1156,Enterprise,2.659,2022-07-02,Industrial,West,Contract
+1157,Enterprise,3.094,2020-12-09,Manufacturing,Southeast,Contract
+1158,Enterprise,2.317,2022-06-22,Pharma,Southeast,Contract
+1159,SMB,5.852,2025-02-13,Electronics,West,Spot
+1160,SMB,5.854,2021-07-06,Industrial,Southeast,Spot
+1161,Enterprise,2.285,2019-11-21,Electronics,West,Contract
+1162,SMB,5.821,2022-12-31,Automotive,Northeast,Spot
+1163,SMB,5.749,2024-03-26,Apparel,Southeast,Spot
+1164,Mid-Market,5.306,2025-05-23,Manufacturing,Southeast,Contract
+1165,Mid-Market,4.927,2022-08-13,Automotive,Southeast,Contract
+1166,Occasional,8.175,2024-04-02,Manufacturing,Northeast,Spot
+1167,SMB,5.06,2020-09-01,Electronics,Northeast,Spot
+1168,SMB,4.799,2021-10-29,Electronics,Southeast,Contract
+1169,SMB,6.366,2021-10-17,Apparel,Southeast,Spot
+1170,Mid-Market,4.535,2021-03-20,Food & Beverage,West,Spot
+1171,Mid-Market,4.052,2023-10-10,Pharma,Northeast,Spot
+1172,SMB,5.888,2024-11-21,Pharma,Southeast,Spot
+1173,Mid-Market,2.892,2021-03-06,Manufacturing,Northeast,Spot
+1174,SMB,7.929,2019-11-27,Manufacturing,International,Contract
+1175,SMB,6.952,2024-07-02,Electronics,West,Spot
+1176,SMB,6.918,2024-08-30,Manufacturing,International,Contract
+1177,SMB,5.708,2025-03-26,Industrial,International,Spot
+1178,Mid-Market,4.906,2020-09-13,Food & Beverage,Southeast,Contract
+1179,Mid-Market,4.767,2023-10-17,Food & Beverage,West,Spot
+1180,Mid-Market,5.102,2023-10-09,Apparel,Southeast,Contract
+1181,SMB,6.455,2024-04-07,Automotive,West,Spot
+1182,Mid-Market,3.396,2024-05-17,Apparel,Southeast,Spot
+1183,Mid-Market,5.181,2025-05-08,Pharma,Southeast,Contract
+1184,Mid-Market,6.449,2022-03-07,Industrial,International,Spot
+1185,Mid-Market,4.671,2019-07-04,Industrial,West,Contract
+1186,SMB,7.033,2020-04-13,Manufacturing,International,Contract
+1187,Mid-Market,4.545,2024-11-28,Manufacturing,Northeast,Contract
+1188,Occasional,8.628,2024-08-19,Food & Beverage,Southeast,Spot
+1189,Mid-Market,4.878,2019-01-27,Automotive,Southeast,Contract
+1190,SMB,7.459,2021-06-13,Industrial,Southeast,Spot
+1191,SMB,6.487,2020-08-20,Apparel,Midwest,Spot
+1192,Mid-Market,6.429,2021-02-19,Apparel,Southeast,Contract
+1193,Occasional,8.636,2023-04-05,Manufacturing,West,Spot
+1194,Occasional,8.851,2022-05-26,Pharma,Northeast,Spot
+1195,Occasional,9.556,2022-03-16,Manufacturing,West,Spot
+1196,Mid-Market,3.679,2021-11-25,Pharma,West,Spot
+1197,Mid-Market,4.783,2023-04-12,Manufacturing,Midwest,Spot
+1198,SMB,7.895,2023-07-22,Retail,Southeast,Spot
+1199,Mid-Market,3.88,2019-04-16,Industrial,Northeast,Spot
+1200,SMB,6.61,2019-12-01,Industrial,Northeast,Spot
+1201,SMB,7.551,2021-04-10,Apparel,West,Spot
+1202,SMB,6.012,2021-11-26,Apparel,Midwest,Spot
+1203,SMB,4.425,2025-08-22,Manufacturing,Northeast,Spot
+1204,SMB,6.922,2024-12-11,Pharma,International,Spot
+1205,Enterprise,3.129,2023-04-29,Apparel,West,Contract
+1206,Enterprise,2.789,2019-03-29,Pharma,West,Contract
+1207,SMB,7.47,2019-09-03,Electronics,Southeast,Spot
+1208,SMB,7.29,2022-01-18,Food & Beverage,International,Spot
+1209,Mid-Market,4.108,2022-11-30,Automotive,Northeast,Spot
+1210,Mid-Market,4.555,2023-05-28,Electronics,Northeast,Spot
+1211,SMB,7.107,2019-12-12,Industrial,West,Spot
+1212,SMB,6.182,2024-12-01,Automotive,West,Spot
+1213,SMB,5.632,2022-04-16,Industrial,Midwest,Spot
+1214,Mid-Market,5.813,2022-12-16,Pharma,Northeast,Spot
+1215,Mid-Market,6.221,2019-04-06,Manufacturing,Southeast,Spot
+1216,SMB,7.262,2024-06-30,Retail,West,Spot
+1217,Mid-Market,5.003,2022-08-15,Pharma,West,Spot
+1218,SMB,7.112,2020-06-26,Food & Beverage,Southeast,Contract
+1219,SMB,5.927,2021-02-15,Retail,Northeast,Contract
+1220,Enterprise,1.578,2021-05-09,Industrial,West,Contract
+1221,Enterprise,1.987,2019-03-07,Industrial,West,Contract
+1222,Mid-Market,4.261,2025-04-13,Electronics,Southeast,Contract
+1223,Occasional,12.856,2024-05-09,Apparel,Midwest,Spot
+1224,SMB,7.931,2024-11-27,Food & Beverage,International,Spot
+1225,Mid-Market,6.843,2021-05-11,Food & Beverage,Southeast,Spot
+1226,Occasional,9.104,2022-09-20,Pharma,Midwest,Spot
+1227,SMB,5.541,2022-01-20,Food & Beverage,Midwest,Spot
+1228,SMB,5.9,2022-03-03,Automotive,Midwest,Spot
+1229,Occasional,9.86,2022-12-05,Manufacturing,West,Spot
+1230,Enterprise,3.351,2022-01-03,Apparel,Midwest,Contract
+1231,Mid-Market,4.215,2024-02-26,Industrial,Midwest,Spot
+1232,SMB,8.564,2019-05-24,Automotive,Northeast,Contract
+1233,Mid-Market,4.086,2020-04-14,Retail,West,Contract
+1234,SMB,7.642,2024-12-12,Retail,Northeast,Spot
+1235,Mid-Market,3.003,2024-11-18,Apparel,Northeast,Spot
+1236,Mid-Market,5.856,2024-06-15,Industrial,Midwest,Spot
+1237,Mid-Market,5.471,2021-06-16,Automotive,Midwest,Contract
+1238,Mid-Market,6.776,2022-01-15,Industrial,International,Spot
+1239,Mid-Market,3.349,2019-03-03,Manufacturing,West,Contract
+1240,Mid-Market,5.912,2020-11-11,Pharma,West,Contract
+1241,Occasional,6.102,2023-11-04,Apparel,Southeast,Spot
+1242,Mid-Market,4.663,2021-04-15,Pharma,Midwest,Contract
+1243,Mid-Market,5.325,2022-03-15,Automotive,International,Spot
+1244,Enterprise,2.801,2019-10-27,Manufacturing,Southeast,Contract
+1245,Mid-Market,3.117,2022-04-23,Food & Beverage,West,Contract
+1246,Mid-Market,5.921,2023-10-24,Food & Beverage,Midwest,Contract
+1247,SMB,6.17,2022-10-25,Industrial,Northeast,Spot
+1248,Mid-Market,5.308,2022-09-17,Manufacturing,Midwest,Spot
+1249,Occasional,8.024,2025-02-05,Electronics,Northeast,Spot
+1250,Occasional,10.766,2020-07-24,Retail,Northeast,Spot
+1251,Mid-Market,4.565,2020-12-30,Manufacturing,Northeast,Spot
+1252,Mid-Market,5.181,2023-02-26,Industrial,Northeast,Contract
+1253,Mid-Market,3.911,2022-03-15,Automotive,Southeast,Contract
+1254,SMB,6.945,2025-07-12,Electronics,West,Spot
+1255,Mid-Market,4.079,2019-05-26,Apparel,Southeast,Contract
+1256,Occasional,9.444,2019-10-26,Pharma,West,Spot
+1257,SMB,6.786,2021-04-12,Industrial,Midwest,Spot
+1258,SMB,3.305,2022-01-21,Electronics,Northeast,Spot
+1259,SMB,5.512,2024-12-08,Industrial,Northeast,Spot
+1260,Occasional,1.777,2022-04-18,Electronics,International,Spot
+1261,Enterprise,2.219,2021-11-30,Apparel,Midwest,Contract
+1262,Mid-Market,4.183,2020-02-11,Food & Beverage,International,Spot
+1263,Mid-Market,2.933,2021-11-23,Apparel,Southeast,Spot
+1264,Occasional,9.878,2022-07-18,Electronics,West,Spot
+1265,SMB,6.539,2022-11-22,Automotive,West,Contract
+1266,SMB,6.172,2023-01-15,Apparel,International,Contract
+1267,Mid-Market,5.376,2021-11-12,Electronics,Northeast,Contract
+1268,Occasional,11.869,2020-01-19,Industrial,International,Spot
+1269,SMB,6.897,2020-01-07,Apparel,Southeast,Contract
+1270,SMB,7.955,2020-01-12,Food & Beverage,West,Spot
+1271,Occasional,5.607,2023-02-15,Manufacturing,Midwest,Spot
+1272,Mid-Market,5.672,2024-09-16,Industrial,Midwest,Spot
+1273,Mid-Market,3.969,2024-11-20,Automotive,Southeast,Spot
+1274,SMB,6.214,2021-01-28,Apparel,West,Spot
+1275,Mid-Market,4.913,2019-07-13,Automotive,Southeast,Spot
+1276,Mid-Market,4.361,2023-03-15,Pharma,Midwest,Spot
+1277,Mid-Market,4.895,2019-04-04,Manufacturing,Midwest,Spot
+1278,Mid-Market,4.035,2023-03-07,Manufacturing,West,Spot
+1279,Occasional,11.231,2021-07-21,Retail,Midwest,Spot
+1280,SMB,5.331,2024-08-05,Retail,West,Spot
+1281,Mid-Market,3.805,2023-03-03,Apparel,Midwest,Contract
+1282,Mid-Market,5.547,2023-12-07,Automotive,Midwest,Contract
+1283,SMB,6.99,2021-09-14,Manufacturing,West,Spot
+1284,SMB,6.208,2024-08-08,Pharma,West,Contract
+1285,Occasional,4.365,2022-07-02,Retail,West,Spot
+1286,Occasional,10.301,2023-03-03,Food & Beverage,Midwest,Contract
+1287,Mid-Market,4.543,2021-05-28,Automotive,Northeast,Contract
+1288,Mid-Market,6.42,2021-12-30,Automotive,West,Spot
+1289,SMB,6.413,2024-08-07,Industrial,Northeast,Spot
+1290,SMB,6.25,2021-08-16,Electronics,Northeast,Spot
+1291,SMB,9.29,2019-02-22,Industrial,West,Spot
+1292,SMB,3.911,2021-07-11,Automotive,Southeast,Spot
+1293,SMB,6.134,2021-08-12,Electronics,Midwest,Spot
+1294,Mid-Market,4.642,2021-10-15,Electronics,International,Spot
+1295,Mid-Market,3.767,2019-06-22,Retail,Northeast,Contract
+1296,Mid-Market,5.704,2019-11-11,Industrial,Northeast,Contract
+1297,Mid-Market,5.168,2021-02-28,Manufacturing,Northeast,Contract
+1298,Mid-Market,5.254,2021-10-29,Electronics,Southeast,Spot
+1299,SMB,6.596,2019-03-12,Food & Beverage,West,Spot
+1300,Mid-Market,5.672,2021-08-06,Manufacturing,West,Spot
+1301,Mid-Market,4.012,2021-02-18,Automotive,Midwest,Contract
+1302,SMB,5.663,2019-03-26,Apparel,Southeast,Spot
+1303,SMB,7.68,2020-09-01,Manufacturing,Midwest,Spot
+1304,Mid-Market,4.485,2020-10-31,Manufacturing,Northeast,Spot
+1305,SMB,7.576,2019-12-16,Retail,West,Spot
+1306,Occasional,8.786,2024-01-05,Industrial,Midwest,Spot
+1307,SMB,6.543,2019-06-26,Food & Beverage,Northeast,Spot
+1308,SMB,6.275,2022-11-08,Apparel,West,Contract
+1309,Enterprise,2.515,2023-06-09,Manufacturing,West,Contract
+1310,Occasional,5.04,2024-05-17,Manufacturing,Southeast,Spot
+1311,Mid-Market,4.446,2022-08-21,Pharma,Midwest,Contract
+1312,Occasional,9.514,2022-08-14,Manufacturing,Midwest,Spot
+1313,SMB,6.466,2024-01-27,Pharma,Northeast,Spot
+1314,Enterprise,2.607,2024-09-10,Industrial,Northeast,Spot
+1315,Enterprise,2.968,2020-05-28,Electronics,West,Contract
+1316,SMB,6.474,2024-04-22,Pharma,International,Spot
+1317,SMB,6.506,2022-01-30,Industrial,Midwest,Spot
+1318,Enterprise,1.921,2019-08-28,Industrial,Midwest,Contract
+1319,SMB,6.374,2023-01-31,Retail,Midwest,Contract
+1320,Occasional,10.641,2025-07-07,Retail,Southeast,Spot
+1321,SMB,6.903,2019-12-09,Industrial,Northeast,Contract
+1322,SMB,7.504,2019-02-05,Industrial,Southeast,Spot
+1323,Enterprise,2.18,2025-02-09,Electronics,International,Contract
+1324,SMB,5.124,2022-12-24,Pharma,West,Spot
+1325,Mid-Market,3.438,2020-06-17,Pharma,International,Contract
+1326,Occasional,9.382,2024-04-13,Apparel,Northeast,Spot
+1327,Mid-Market,4.363,2021-08-16,Automotive,Midwest,Contract
+1328,SMB,5.339,2021-03-19,Electronics,Midwest,Spot
+1329,Mid-Market,5.803,2020-12-06,Industrial,Northeast,Contract
+1330,Mid-Market,4.814,2022-12-28,Retail,Northeast,Contract
+1331,SMB,4.502,2019-11-24,Retail,West,Contract
+1332,SMB,7.64,2021-05-31,Industrial,West,Spot
+1333,SMB,6.9,2021-01-12,Manufacturing,Midwest,Contract
+1334,Occasional,9.736,2019-05-28,Industrial,Southeast,Spot
+1335,Occasional,8.141,2024-02-02,Electronics,Midwest,Spot
+1336,Occasional,5.822,2019-01-21,Electronics,Northeast,Spot
+1337,Mid-Market,3.389,2025-05-25,Retail,Northeast,Spot
+1338,SMB,7.206,2019-08-19,Industrial,Midwest,Spot
+1339,Occasional,9.907,2021-05-22,Electronics,Southeast,Spot
+1340,Mid-Market,3.2,2019-08-28,Manufacturing,International,Contract
+1341,Mid-Market,6.098,2021-06-12,Food & Beverage,Midwest,Spot
+1342,SMB,4.885,2023-01-27,Manufacturing,Northeast,Spot
+1343,SMB,8.742,2019-08-02,Automotive,Northeast,Spot
+1344,SMB,5.869,2022-07-04,Retail,West,Spot
+1345,Occasional,11.6,2024-02-23,Food & Beverage,Northeast,Spot
+1346,SMB,6.802,2022-01-14,Food & Beverage,Northeast,Spot
+1347,Mid-Market,4.519,2019-10-01,Retail,Southeast,Spot
+1348,Mid-Market,4.017,2023-08-12,Retail,Southeast,Contract
+1349,Mid-Market,4.353,2020-03-30,Pharma,Midwest,Contract
+1350,Mid-Market,3.27,2019-02-10,Food & Beverage,Midwest,Contract
+1351,SMB,7.625,2021-11-29,Manufacturing,Northeast,Spot
+1352,Occasional,10.607,2020-10-21,Manufacturing,West,Spot
+1353,Mid-Market,5.881,2019-03-11,Automotive,Southeast,Contract
+1354,Mid-Market,4.246,2024-03-07,Apparel,Midwest,Spot
+1355,Occasional,5.619,2022-12-31,Pharma,Northeast,Spot
+1356,Enterprise,2.736,2025-01-24,Automotive,Midwest,Contract
+1357,SMB,5.416,2022-03-15,Retail,Southeast,Spot
+1358,SMB,5.944,2021-12-03,Apparel,Midwest,Spot
+1359,SMB,6.815,2024-08-13,Automotive,Southeast,Spot
+1360,Mid-Market,5.831,2019-07-18,Manufacturing,International,Contract
+1361,SMB,10.029,2021-05-30,Pharma,Northeast,Spot
+1362,Mid-Market,4.646,2024-04-28,Automotive,International,Contract
+1363,SMB,6.961,2020-12-13,Pharma,International,Spot
+1364,Enterprise,2.55,2024-11-25,Manufacturing,Southeast,Contract
+1365,SMB,8.528,2020-11-22,Apparel,Southeast,Spot
+1366,SMB,8.047,2021-10-04,Automotive,Southeast,Contract
+1367,Mid-Market,5.887,2024-12-25,Retail,International,Contract
+1368,Mid-Market,4.831,2020-08-15,Pharma,Midwest,Spot
+1369,Mid-Market,5.368,2025-06-15,Pharma,Midwest,Contract
+1370,Mid-Market,5.247,2019-04-18,Electronics,Northeast,Contract
+1371,Mid-Market,5.161,2020-10-09,Retail,West,Spot
+1372,Occasional,6.376,2022-12-10,Retail,Northeast,Spot
+1373,Mid-Market,4.913,2022-12-17,Automotive,Northeast,Spot
+1374,SMB,7.042,2025-01-24,Automotive,Southeast,Contract
+1375,Occasional,7.446,2025-05-26,Food & Beverage,Midwest,Spot
+1376,Mid-Market,4.39,2023-07-09,Industrial,West,Spot
+1377,SMB,5.413,2023-05-26,Industrial,West,Spot
+1378,Occasional,6.251,2021-02-11,Apparel,Northeast,Spot
+1379,SMB,7.872,2024-05-15,Pharma,Southeast,Spot
+1380,Mid-Market,6.324,2023-04-15,Industrial,West,Spot
+1381,SMB,4.802,2019-02-28,Pharma,Midwest,Contract
+1382,Enterprise,2.886,2024-07-19,Industrial,Northeast,Contract
+1383,SMB,8.521,2021-05-25,Industrial,Southeast,Spot
+1384,Occasional,8.871,2022-03-04,Manufacturing,Midwest,Spot
+1385,Occasional,9.429,2022-03-29,Apparel,International,Spot
+1386,Enterprise,1.985,2024-06-19,Apparel,West,Contract
+1387,SMB,6.84,2020-10-14,Automotive,Northeast,Spot
+1388,Mid-Market,3.784,2021-08-12,Electronics,West,Contract
+1389,Occasional,6.512,2019-04-06,Automotive,Southeast,Spot
+1390,Enterprise,2.779,2021-04-28,Food & Beverage,West,Contract
+1391,Occasional,10.043,2019-08-04,Food & Beverage,Southeast,Spot
+1392,Occasional,9.762,2022-11-20,Manufacturing,Northeast,Spot
+1393,Mid-Market,4.604,2024-12-14,Electronics,Midwest,Contract
+1394,Enterprise,3.146,2022-02-05,Industrial,Southeast,Contract
+1395,Occasional,7.923,2025-01-29,Apparel,Northeast,Spot
+1396,Mid-Market,4.613,2025-07-07,Apparel,Midwest,Spot
+1397,SMB,3.42,2019-05-12,Industrial,West,Contract
+1398,Occasional,8.524,2022-06-11,Electronics,West,Spot
+1399,SMB,6.191,2022-07-10,Apparel,Southeast,Spot
+1400,Mid-Market,4.962,2021-07-26,Electronics,Northeast,Spot
+1401,SMB,7.385,2024-07-15,Automotive,Midwest,Spot
+1402,Enterprise,2.843,2021-08-19,Food & Beverage,Southeast,Contract
+1403,Occasional,5.68,2019-05-15,Automotive,Northeast,Spot
+1404,Mid-Market,4.213,2022-08-27,Apparel,West,Spot
+1405,Mid-Market,4.883,2020-05-06,Automotive,International,Contract
+1406,Mid-Market,4.448,2021-05-14,Industrial,Northeast,Contract
+1407,Occasional,8.268,2022-05-07,Automotive,West,Spot
+1408,Mid-Market,3.176,2023-10-27,Electronics,Midwest,Contract
+1409,Occasional,8.812,2020-11-08,Pharma,Southeast,Spot
+1410,SMB,6.316,2021-07-15,Food & Beverage,Midwest,Spot
+1411,Occasional,9.07,2019-06-15,Retail,Northeast,Spot
+1412,Occasional,9.406,2021-07-24,Pharma,Northeast,Spot
+1413,Occasional,9.191,2022-11-13,Food & Beverage,International,Spot
+1414,Occasional,8.377,2023-02-11,Food & Beverage,Midwest,Spot
+1415,Mid-Market,4.609,2020-12-15,Retail,Southeast,Contract
+1416,SMB,7.458,2019-05-29,Pharma,Southeast,Spot
+1417,SMB,5.58,2022-11-06,Pharma,International,Spot
+1418,SMB,5.033,2023-05-15,Retail,Southeast,Spot
+1419,Occasional,9.258,2019-07-27,Apparel,International,Spot
+1420,Occasional,10.403,2022-05-14,Manufacturing,West,Spot
+1421,SMB,6.514,2019-08-20,Manufacturing,Southeast,Spot
+1422,SMB,6.638,2022-01-08,Food & Beverage,West,Spot
+1423,SMB,6.182,2023-04-10,Food & Beverage,West,Contract
+1424,Mid-Market,3.609,2023-10-18,Industrial,West,Spot
+1425,Mid-Market,3.039,2023-10-05,Retail,Southeast,Spot
+1426,Mid-Market,4.723,2024-01-21,Electronics,Northeast,Contract
+1427,Mid-Market,5.039,2020-08-10,Apparel,Northeast,Spot
+1428,Enterprise,2.67,2024-08-22,Manufacturing,Midwest,Contract
+1429,SMB,8.073,2021-05-01,Industrial,West,Contract
+1430,SMB,5.58,2021-07-01,Apparel,West,Spot
+1431,Occasional,8.647,2024-04-01,Industrial,Midwest,Spot
+1432,SMB,6.976,2021-03-07,Industrial,Northeast,Spot
+1433,Enterprise,2.552,2019-07-02,Retail,Northeast,Contract
+1434,Mid-Market,5.074,2023-10-06,Food & Beverage,West,Spot
+1435,Mid-Market,5.11,2023-06-01,Apparel,Midwest,Contract
+1436,Occasional,9.308,2022-11-17,Retail,West,Spot
+1437,Mid-Market,2.861,2019-12-15,Food & Beverage,Northeast,Spot
+1438,SMB,6.682,2023-03-19,Apparel,Southeast,Spot
+1439,Occasional,8.502,2020-04-28,Automotive,International,Spot
+1440,Occasional,7.765,2022-09-14,Food & Beverage,Northeast,Spot
+1441,Mid-Market,3.375,2022-05-21,Automotive,Northeast,Contract
+1442,Enterprise,2.183,2024-02-25,Apparel,Midwest,Contract
+1443,Mid-Market,6.376,2025-07-05,Retail,Midwest,Contract
+1444,Enterprise,2.564,2020-04-07,Electronics,International,Contract
+1445,Mid-Market,3.658,2019-10-07,Industrial,International,Spot
+1446,SMB,4.732,2022-09-15,Retail,West,Spot
+1447,Occasional,9.637,2025-05-07,Retail,Northeast,Spot
+1448,SMB,5.017,2020-01-20,Electronics,Midwest,Spot
+1449,SMB,6.614,2022-04-01,Industrial,West,Spot
+1450,Mid-Market,5.15,2021-09-18,Apparel,Southeast,Contract
+1451,SMB,8.977,2021-02-13,Manufacturing,International,Spot
+1452,SMB,7.295,2023-06-05,Food & Beverage,Midwest,Contract
+1453,Occasional,7.912,2020-12-20,Industrial,Northeast,Spot
+1454,Occasional,9.418,2022-04-15,Manufacturing,Midwest,Spot
+1455,Mid-Market,3.982,2024-08-20,Pharma,West,Spot
+1456,Mid-Market,4.672,2021-07-13,Food & Beverage,Northeast,Contract
+1457,Mid-Market,4.03,2019-02-21,Automotive,Southeast,Contract
+1458,SMB,4.529,2024-11-24,Automotive,West,Spot
+1459,Occasional,8.845,2020-10-30,Automotive,Northeast,Spot
+1460,Mid-Market,5.105,2024-02-25,Retail,Southeast,Contract
+1461,SMB,2.867,2024-02-01,Food & Beverage,West,Spot
+1462,SMB,7.48,2022-07-05,Apparel,West,Spot
+1463,Mid-Market,4.723,2019-08-02,Food & Beverage,Midwest,Contract
+1464,Mid-Market,4.197,2025-05-02,Apparel,International,Spot
+1465,SMB,6.485,2023-07-16,Apparel,International,Contract
+1466,SMB,7.97,2021-10-30,Electronics,Midwest,Spot
+1467,SMB,5.543,2024-09-10,Retail,Northeast,Contract
+1468,Mid-Market,3.655,2024-04-02,Industrial,West,Contract
+1469,SMB,7.02,2024-01-26,Automotive,Southeast,Contract
+1470,Mid-Market,4.841,2020-02-13,Industrial,West,Spot
+1471,Occasional,8.314,2023-03-21,Electronics,Midwest,Spot
+1472,Mid-Market,3.509,2020-11-26,Electronics,Southeast,Contract
+1473,Mid-Market,4.985,2019-07-11,Electronics,Midwest,Contract
+1474,SMB,7.615,2021-04-03,Retail,Midwest,Spot
+1475,SMB,6.063,2019-09-11,Manufacturing,International,Contract
+1476,SMB,6.089,2019-09-15,Electronics,Northeast,Spot
+1477,SMB,6.63,2023-11-06,Industrial,International,Contract
+1478,Occasional,8.275,2022-05-06,Manufacturing,Northeast,Spot
+1479,SMB,7.251,2021-08-26,Pharma,West,Spot
+1480,SMB,6.583,2020-04-13,Pharma,International,Contract
+1481,Mid-Market,6.964,2024-02-21,Electronics,Southeast,Contract
+1482,Enterprise,3.23,2023-03-25,Industrial,Northeast,Spot
+1483,SMB,7.769,2022-11-26,Retail,West,Spot
+1484,Mid-Market,5.815,2020-04-07,Automotive,West,Spot
+1485,SMB,6.046,2019-10-28,Apparel,Southeast,Contract
+1486,Enterprise,2.54,2019-10-28,Electronics,Midwest,Contract
+1487,Occasional,7.987,2019-03-02,Automotive,West,Spot
+1488,SMB,5.006,2025-06-17,Food & Beverage,Northeast,Spot
+1489,Occasional,6.167,2021-06-14,Industrial,Midwest,Spot
+1490,SMB,8.972,2023-05-22,Retail,Southeast,Spot
+1491,Enterprise,2.155,2025-07-19,Retail,Northeast,Contract
+1492,SMB,5.874,2025-03-30,Pharma,West,Contract
+1493,SMB,5.918,2021-02-19,Industrial,Southeast,Spot
+1494,SMB,6.521,2022-04-07,Retail,International,Spot
+1495,Mid-Market,5.247,2022-02-01,Automotive,Midwest,Contract
+1496,SMB,6.681,2019-03-23,Industrial,Midwest,Contract
+1497,Occasional,9.413,2024-02-14,Food & Beverage,Southeast,Spot
+1498,SMB,6.136,2022-10-30,Automotive,Southeast,Spot
+1499,Mid-Market,4.523,2021-06-23,Automotive,West,Contract
+1500,SMB,6.579,2022-09-21,Manufacturing,West,Spot
+1501,SMB,6.552,2023-11-26,Automotive,West,Spot
+1502,Occasional,9.17,2019-02-06,Apparel,Southeast,Spot
+1503,Mid-Market,2.855,2023-04-23,Retail,Southeast,Spot
+1504,Mid-Market,3.41,2024-09-28,Pharma,Northeast,Contract
+1505,SMB,6.81,2023-11-04,Apparel,West,Spot
+1506,SMB,3.771,2023-02-18,Automotive,Southeast,Spot
+1507,SMB,8.857,2019-08-09,Automotive,Midwest,Spot
+1508,SMB,6.423,2023-12-19,Food & Beverage,Midwest,Spot
+1509,Mid-Market,5.755,2024-01-02,Electronics,Southeast,Contract
+1510,SMB,7.297,2022-04-17,Manufacturing,West,Spot
+1511,Mid-Market,3.889,2022-11-19,Retail,Midwest,Contract
+1512,Mid-Market,3.971,2023-02-14,Apparel,International,Spot
+1513,SMB,4.946,2019-10-22,Industrial,Northeast,Spot
+1514,SMB,6.035,2020-09-18,Retail,Midwest,Spot
+1515,Occasional,10.159,2024-04-13,Apparel,Northeast,Spot
+1516,Mid-Market,4.451,2025-06-29,Pharma,West,Spot
+1517,Mid-Market,3.644,2020-10-19,Manufacturing,Midwest,Spot
+1518,Occasional,7.95,2021-09-02,Manufacturing,Southeast,Spot
+1519,Mid-Market,3.496,2025-02-06,Electronics,West,Spot
+1520,Mid-Market,4.555,2020-01-31,Apparel,Southeast,Contract
+1521,Mid-Market,3.798,2020-09-27,Electronics,Northeast,Contract
+1522,SMB,5.793,2019-05-17,Automotive,Midwest,Spot
+1523,Occasional,11.833,2020-07-25,Electronics,Northeast,Spot
+1524,SMB,8.364,2023-03-30,Retail,West,Spot
+1525,SMB,5.897,2021-04-27,Retail,West,Spot
+1526,Mid-Market,3.933,2025-07-22,Food & Beverage,West,Contract
+1527,Mid-Market,3.897,2024-12-10,Food & Beverage,West,Contract
+1528,SMB,7.51,2024-12-21,Apparel,West,Spot
+1529,Mid-Market,5.07,2023-11-04,Food & Beverage,Southeast,Contract
+1530,Mid-Market,4.391,2023-09-06,Manufacturing,Northeast,Spot
+1531,Mid-Market,4.439,2022-05-26,Manufacturing,Southeast,Contract
+1532,Mid-Market,5.137,2025-08-09,Pharma,International,Spot
+1533,SMB,5.819,2019-08-21,Electronics,International,Spot
+1534,SMB,6.057,2023-10-27,Apparel,West,Spot
+1535,Enterprise,2.354,2019-12-08,Industrial,Northeast,Spot
+1536,SMB,6.305,2021-04-06,Electronics,Northeast,Spot
+1537,SMB,8.141,2020-09-14,Pharma,West,Spot
+1538,SMB,4.332,2023-01-03,Automotive,Northeast,Spot
+1539,SMB,5.021,2024-03-31,Manufacturing,Midwest,Spot
+1540,SMB,4.263,2019-07-14,Pharma,Southeast,Contract
+1541,SMB,5.295,2023-01-05,Electronics,Southeast,Contract
+1542,Mid-Market,4.472,2020-06-23,Apparel,West,Spot
+1543,Mid-Market,4.35,2019-07-07,Apparel,International,Contract
+1544,Mid-Market,5.023,2021-10-13,Manufacturing,West,Spot
+1545,SMB,5.626,2022-11-16,Manufacturing,Midwest,Spot
+1546,Mid-Market,5.201,2020-05-06,Retail,Southeast,Spot
+1547,Mid-Market,4.468,2021-08-07,Retail,International,Spot
+1548,SMB,4.663,2025-05-10,Retail,Midwest,Spot
+1549,Mid-Market,4.673,2021-04-24,Apparel,Midwest,Contract
+1550,Mid-Market,3.896,2025-08-21,Industrial,West,Spot
+1551,Mid-Market,3.825,2024-07-24,Food & Beverage,Northeast,Spot
+1552,SMB,5.719,2021-06-22,Industrial,Northeast,Spot
+1553,Mid-Market,5.292,2022-11-05,Apparel,West,Spot
+1554,Mid-Market,5.0,2023-09-23,Automotive,Midwest,Contract
+1555,Mid-Market,5.01,2022-02-05,Apparel,Northeast,Contract
+1556,SMB,4.182,2021-09-19,Manufacturing,Southeast,Spot
+1557,Occasional,8.192,2021-03-13,Pharma,International,Spot
+1558,SMB,5.378,2019-12-06,Pharma,Midwest,Contract
+1559,SMB,8.041,2019-03-02,Apparel,Midwest,Spot
+1560,Occasional,7.4,2021-03-31,Automotive,Northeast,Spot
+1561,Occasional,7.21,2024-04-21,Retail,International,Contract
+1562,SMB,7.084,2020-07-22,Apparel,West,Spot
+1563,Occasional,6.026,2020-03-13,Automotive,Midwest,Spot
+1564,Occasional,11.252,2021-03-09,Retail,Southeast,Spot
+1565,SMB,6.825,2022-12-29,Food & Beverage,West,Contract
+1566,SMB,5.397,2020-06-07,Industrial,West,Spot
+1567,Mid-Market,4.853,2020-06-20,Retail,West,Contract
+1568,Enterprise,2.7,2019-10-01,Manufacturing,International,Contract
+1569,SMB,4.757,2021-03-19,Automotive,Midwest,Spot
+1570,SMB,5.233,2020-06-13,Manufacturing,Southeast,Spot
+1571,Mid-Market,4.642,2024-07-16,Apparel,Midwest,Spot
+1572,SMB,6.548,2025-01-14,Industrial,West,Spot
+1573,SMB,7.642,2021-06-21,Food & Beverage,Southeast,Contract
+1574,Occasional,10.994,2019-07-27,Food & Beverage,Northeast,Spot
+1575,Mid-Market,5.227,2019-08-01,Food & Beverage,West,Spot
+1576,Mid-Market,5.442,2021-03-01,Electronics,Southeast,Contract
+1577,SMB,7.683,2022-02-02,Food & Beverage,West,Contract
+1578,Occasional,9.761,2022-07-10,Pharma,Northeast,Spot
+1579,Occasional,7.366,2021-01-10,Industrial,Southeast,Spot
+1580,Occasional,11.698,2021-05-13,Industrial,Southeast,Spot
+1581,Occasional,8.237,2020-11-21,Automotive,West,Spot
+1582,Mid-Market,5.42,2022-06-14,Retail,West,Contract
+1583,Mid-Market,4.509,2023-08-24,Electronics,Southeast,Spot
+1584,Mid-Market,5.848,2019-04-16,Automotive,Midwest,Contract
+1585,SMB,7.357,2022-03-11,Pharma,Northeast,Spot
+1586,Occasional,8.37,2023-04-29,Electronics,West,Spot
+1587,Mid-Market,4.806,2023-06-26,Electronics,International,Spot
+1588,SMB,5.715,2022-10-04,Retail,West,Spot
+1589,Mid-Market,5.169,2022-07-02,Electronics,Northeast,Spot
+1590,Mid-Market,4.854,2023-07-17,Food & Beverage,Midwest,Contract
+1591,Mid-Market,4.822,2021-07-10,Food & Beverage,Southeast,Spot
+1592,Enterprise,2.413,2022-10-13,Pharma,Northeast,Spot
+1593,Occasional,11.1,2021-02-16,Electronics,Northeast,Spot
+1594,Mid-Market,3.938,2021-12-02,Manufacturing,Northeast,Spot
+1595,Occasional,9.854,2019-10-30,Industrial,Northeast,Spot
+1596,SMB,6.629,2021-05-02,Food & Beverage,West,Spot
+1597,Mid-Market,5.231,2019-12-12,Electronics,Southeast,Contract
+1598,Mid-Market,7.161,2020-07-05,Apparel,West,Contract
+1599,SMB,6.214,2021-10-18,Pharma,International,Spot
+1600,Mid-Market,4.263,2022-05-02,Pharma,Midwest,Spot
+1601,Occasional,12.322,2025-04-12,Manufacturing,Midwest,Spot
+1602,Mid-Market,4.664,2019-03-05,Apparel,West,Contract
+1603,SMB,6.359,2024-12-27,Manufacturing,Northeast,Spot
+1604,SMB,9.045,2021-03-10,Automotive,Southeast,Contract
+1605,Mid-Market,4.198,2023-10-30,Food & Beverage,Midwest,Contract
+1606,Mid-Market,4.161,2023-07-09,Food & Beverage,West,Contract
+1607,Occasional,9.198,2025-06-22,Food & Beverage,West,Contract
+1608,Mid-Market,5.99,2019-09-22,Food & Beverage,West,Spot
+1609,Mid-Market,3.994,2025-06-13,Apparel,West,Contract
+1610,SMB,4.486,2019-06-03,Food & Beverage,Midwest,Contract
+1611,Mid-Market,4.173,2024-11-06,Manufacturing,West,Contract
+1612,SMB,6.318,2023-05-08,Pharma,West,Spot
+1613,SMB,8.054,2022-03-19,Electronics,Midwest,Spot
+1614,Mid-Market,3.171,2021-08-26,Retail,International,Contract
+1615,Occasional,8.165,2019-08-16,Automotive,West,Contract
+1616,Mid-Market,3.918,2024-05-06,Electronics,Midwest,Spot
+1617,Enterprise,2.843,2023-11-08,Pharma,Northeast,Contract
+1618,SMB,4.841,2025-04-01,Manufacturing,Northeast,Spot
+1619,Occasional,7.821,2023-11-14,Electronics,West,Spot
+1620,Enterprise,2.861,2025-05-19,Food & Beverage,Northeast,Contract
+1621,Mid-Market,3.062,2024-11-29,Manufacturing,Midwest,Contract
+1622,SMB,5.828,2021-11-02,Industrial,Midwest,Spot
+1623,SMB,5.965,2023-09-10,Electronics,West,Spot
+1624,Mid-Market,5.169,2020-10-05,Pharma,West,Contract
+1625,Mid-Market,7.12,2024-04-20,Pharma,West,Spot
+1626,SMB,6.332,2023-01-21,Food & Beverage,Southeast,Spot
+1627,Mid-Market,4.27,2021-12-08,Pharma,Northeast,Contract
+1628,Mid-Market,3.1,2023-03-10,Pharma,West,Contract
+1629,Mid-Market,5.41,2020-11-05,Retail,Northeast,Contract
+1630,Mid-Market,3.946,2023-02-24,Apparel,Midwest,Spot
+1631,SMB,4.685,2022-03-02,Retail,International,Contract
+1632,Occasional,5.845,2021-02-22,Food & Beverage,Midwest,Spot
+1633,SMB,7.314,2025-07-03,Electronics,Midwest,Spot
+1634,SMB,7.4,2019-06-05,Food & Beverage,West,Contract
+1635,Occasional,8.354,2024-01-19,Retail,West,Spot
+1636,Mid-Market,5.769,2020-05-26,Apparel,Southeast,Spot
+1637,Mid-Market,4.346,2020-06-25,Food & Beverage,Midwest,Spot
+1638,Occasional,10.631,2020-01-12,Retail,Northeast,Spot
+1639,Mid-Market,4.031,2019-09-07,Retail,Midwest,Spot
+1640,SMB,7.21,2019-10-29,Pharma,Southeast,Contract
+1641,SMB,5.556,2024-07-20,Apparel,Midwest,Spot
+1642,Mid-Market,4.44,2025-03-05,Pharma,West,Contract
+1643,SMB,6.704,2022-11-24,Apparel,Northeast,Spot
+1644,Mid-Market,5.282,2019-02-03,Automotive,Midwest,Contract
+1645,Mid-Market,4.395,2024-10-06,Automotive,Northeast,Contract
+1646,SMB,5.521,2023-01-05,Industrial,Southeast,Spot
+1647,Mid-Market,4.153,2022-06-22,Industrial,Northeast,Spot
+1648,SMB,6.201,2025-04-26,Automotive,Northeast,Spot
+1649,Occasional,9.758,2021-09-24,Food & Beverage,International,Spot
+1650,SMB,9.184,2021-05-26,Pharma,International,Spot
+1651,Mid-Market,4.421,2024-03-13,Pharma,West,Contract
+1652,Mid-Market,3.455,2022-07-07,Manufacturing,Midwest,Spot
+1653,Mid-Market,4.957,2023-10-12,Apparel,West,Contract
+1654,Mid-Market,2.992,2023-08-22,Pharma,West,Spot
+1655,Occasional,8.832,2024-08-06,Pharma,Midwest,Spot
+1656,Mid-Market,4.2,2021-02-11,Automotive,Northeast,Contract
+1657,Mid-Market,5.283,2019-06-25,Apparel,West,Contract
+1658,Occasional,7.208,2022-03-09,Industrial,International,Spot
+1659,Mid-Market,4.873,2023-04-26,Industrial,Southeast,Spot
+1660,Enterprise,3.044,2024-06-12,Automotive,Midwest,Contract
+1661,Mid-Market,5.131,2020-10-12,Electronics,Southeast,Contract
+1662,SMB,6.715,2023-12-20,Manufacturing,Southeast,Spot
+1663,SMB,5.175,2024-07-19,Electronics,West,Spot
+1664,Mid-Market,4.541,2024-05-22,Apparel,Southeast,Spot
+1665,Occasional,9.163,2024-05-21,Automotive,International,Spot
+1666,Occasional,10.421,2025-08-01,Industrial,West,Spot
+1667,Occasional,9.489,2023-05-29,Apparel,Northeast,Spot
+1668,Mid-Market,5.653,2021-06-20,Apparel,West,Spot
+1669,Enterprise,3.312,2021-11-28,Industrial,West,Contract
+1670,Occasional,9.067,2023-12-25,Apparel,Midwest,Spot
+1671,Mid-Market,5.432,2020-07-29,Manufacturing,Midwest,Spot
+1672,SMB,6.816,2023-01-07,Pharma,West,Spot
+1673,SMB,4.978,2022-10-26,Electronics,Southeast,Contract
+1674,Mid-Market,5.002,2023-06-12,Apparel,Northeast,Spot
+1675,SMB,5.161,2021-10-22,Apparel,Southeast,Spot
+1676,Occasional,7.525,2023-12-07,Electronics,Southeast,Spot
+1677,SMB,5.351,2019-06-23,Electronics,West,Spot
+1678,SMB,6.067,2023-12-31,Retail,Northeast,Contract
+1679,Occasional,10.187,2024-05-30,Electronics,Midwest,Spot
+1680,SMB,7.724,2024-11-26,Automotive,Midwest,Spot
+1681,SMB,7.294,2025-02-24,Apparel,West,Spot
+1682,SMB,7.228,2021-04-30,Industrial,Midwest,Spot
+1683,SMB,5.281,2019-04-23,Industrial,International,Contract
+1684,Mid-Market,5.435,2023-05-11,Automotive,International,Contract
+1685,Mid-Market,5.275,2019-08-08,Manufacturing,Northeast,Contract
+1686,Mid-Market,4.204,2020-11-13,Electronics,West,Contract
+1687,SMB,5.95,2023-09-07,Retail,Northeast,Spot
+1688,SMB,6.926,2022-12-18,Retail,West,Spot
+1689,SMB,5.846,2023-01-17,Manufacturing,Midwest,Spot
+1690,Mid-Market,3.39,2024-01-04,Electronics,Southeast,Spot
+1691,SMB,6.266,2020-02-06,Retail,Southeast,Spot
+1692,Occasional,3.789,2024-04-10,Automotive,Southeast,Spot
+1693,Mid-Market,4.978,2022-11-29,Pharma,West,Contract
+1694,SMB,7.13,2021-10-20,Apparel,West,Spot
+1695,SMB,6.181,2022-02-03,Apparel,Northeast,Spot
+1696,SMB,6.871,2022-05-23,Industrial,Southeast,Spot
+1697,Mid-Market,5.091,2022-09-02,Manufacturing,Southeast,Spot
+1698,SMB,8.511,2021-03-23,Electronics,Midwest,Spot
+1699,Occasional,9.413,2020-06-27,Electronics,Northeast,Spot
+1700,SMB,6.394,2020-02-16,Pharma,Southeast,Spot
+1701,Occasional,12.913,2021-04-09,Pharma,West,Spot
+1702,Occasional,6.387,2020-09-26,Automotive,Midwest,Spot
+1703,Mid-Market,5.581,2022-06-10,Pharma,West,Contract
+1704,SMB,8.015,2025-01-30,Manufacturing,Midwest,Spot
+1705,SMB,7.271,2019-09-21,Pharma,Midwest,Spot
+1706,Occasional,8.414,2021-01-22,Industrial,Midwest,Spot
+1707,Mid-Market,3.757,2019-04-30,Pharma,Southeast,Spot
+1708,Mid-Market,3.784,2025-07-01,Pharma,Southeast,Contract
+1709,Occasional,8.787,2023-09-03,Manufacturing,International,Spot
+1710,Mid-Market,5.014,2020-08-10,Retail,West,Spot
+1711,SMB,4.839,2021-10-05,Manufacturing,West,Spot
+1712,Mid-Market,4.536,2023-10-27,Retail,Northeast,Contract
+1713,Occasional,8.06,2025-05-21,Food & Beverage,Northeast,Spot
+1714,Occasional,10.458,2022-10-29,Industrial,Northeast,Spot
+1715,Mid-Market,2.903,2020-10-21,Food & Beverage,International,Contract
+1716,SMB,5.277,2023-08-24,Apparel,West,Spot
+1717,Mid-Market,4.938,2023-07-28,Automotive,Midwest,Contract
+1718,SMB,5.6,2023-04-18,Automotive,International,Spot
+1719,SMB,5.574,2019-04-22,Apparel,Northeast,Spot
+1720,SMB,6.492,2023-09-17,Automotive,Midwest,Spot
+1721,Enterprise,3.098,2019-02-17,Electronics,Northeast,Contract
+1722,Mid-Market,2.933,2025-01-14,Food & Beverage,Southeast,Contract
+1723,SMB,7.338,2024-11-17,Food & Beverage,International,Contract
+1724,SMB,8.106,2022-10-04,Automotive,West,Spot
+1725,SMB,6.97,2023-04-23,Food & Beverage,Northeast,Spot
+1726,Enterprise,2.133,2019-06-15,Industrial,Southeast,Contract
+1727,Mid-Market,3.749,2024-10-30,Manufacturing,Midwest,Contract
+1728,Occasional,9.556,2020-10-21,Manufacturing,Northeast,Spot
+1729,Enterprise,2.148,2020-09-30,Apparel,Midwest,Contract
+1730,Mid-Market,5.817,2023-09-21,Automotive,Midwest,Contract
+1731,Occasional,9.044,2025-04-05,Apparel,Southeast,Contract
+1732,Enterprise,2.562,2022-04-18,Electronics,Southeast,Contract
+1733,SMB,6.065,2022-05-20,Retail,Northeast,Spot
+1734,Mid-Market,6.242,2022-08-28,Electronics,International,Spot
+1735,Occasional,10.076,2020-12-09,Food & Beverage,Southeast,Spot
+1736,SMB,4.101,2022-12-23,Food & Beverage,Midwest,Spot
+1737,Occasional,8.827,2025-05-28,Industrial,Southeast,Spot
+1738,Mid-Market,3.506,2021-07-20,Automotive,West,Spot
+1739,SMB,6.685,2024-02-26,Automotive,Northeast,Spot
+1740,SMB,6.631,2024-02-28,Retail,Northeast,Spot
+1741,Mid-Market,4.304,2024-09-02,Manufacturing,West,Contract
+1742,Mid-Market,4.638,2023-10-28,Food & Beverage,West,Spot
+1743,Enterprise,2.374,2025-02-21,Pharma,Southeast,Contract
+1744,Occasional,13.888,2023-10-06,Apparel,Southeast,Spot
+1745,SMB,6.82,2025-07-04,Electronics,International,Spot
+1746,SMB,9.127,2023-10-08,Retail,Northeast,Spot
+1747,SMB,8.089,2024-07-30,Electronics,Northeast,Spot
+1748,SMB,7.542,2024-12-08,Automotive,Southeast,Spot
+1749,SMB,5.446,2025-07-22,Industrial,Southeast,Contract
+1750,SMB,5.984,2022-12-20,Industrial,Midwest,Spot
+1751,SMB,6.486,2023-09-26,Pharma,West,Spot
+1752,Mid-Market,6.203,2025-06-12,Retail,Midwest,Spot
+1753,Occasional,9.042,2021-07-14,Industrial,Midwest,Spot
+1754,SMB,5.67,2019-10-18,Manufacturing,Southeast,Contract
+1755,Mid-Market,4.156,2024-11-23,Electronics,West,Contract
+1756,SMB,7.201,2023-03-19,Industrial,Northeast,Contract
+1757,Mid-Market,4.171,2021-11-09,Pharma,Southeast,Contract
+1758,Occasional,9.112,2023-10-12,Manufacturing,West,Spot
+1759,Occasional,6.063,2019-03-21,Pharma,Southeast,Spot
+1760,Occasional,7.93,2022-03-08,Retail,Northeast,Spot
+1761,Mid-Market,5.994,2020-10-08,Electronics,Southeast,Spot
+1762,Mid-Market,4.263,2020-12-02,Industrial,West,Contract
+1763,Mid-Market,5.25,2025-06-18,Electronics,Northeast,Contract
+1764,Mid-Market,3.271,2022-09-01,Industrial,West,Contract
+1765,Mid-Market,4.446,2019-12-08,Pharma,West,Contract
+1766,Enterprise,2.031,2021-06-07,Apparel,Midwest,Contract
+1767,Occasional,10.636,2020-08-13,Apparel,Southeast,Spot
+1768,Enterprise,2.379,2025-01-22,Pharma,West,Contract
+1769,Mid-Market,3.106,2020-12-10,Retail,Northeast,Spot
+1770,SMB,7.028,2021-05-18,Industrial,International,Contract
+1771,SMB,5.294,2021-03-24,Food & Beverage,West,Spot
+1772,SMB,8.036,2020-03-03,Apparel,Northeast,Spot
+1773,SMB,6.723,2024-03-14,Pharma,West,Spot
+1774,Occasional,6.663,2022-11-04,Apparel,Midwest,Spot
+1775,SMB,4.525,2021-11-30,Electronics,Southeast,Spot
+1776,SMB,6.538,2021-08-22,Automotive,Southeast,Spot
+1777,SMB,6.937,2023-06-12,Manufacturing,Midwest,Spot
+1778,SMB,7.767,2019-08-22,Apparel,West,Spot
+1779,Mid-Market,3.65,2025-03-18,Pharma,West,Contract
+1780,SMB,6.195,2022-10-07,Pharma,Southeast,Spot
+1781,Mid-Market,5.355,2020-07-08,Retail,Midwest,Spot
+1782,SMB,7.594,2022-08-02,Food & Beverage,West,Spot
+1783,Mid-Market,4.555,2024-09-05,Retail,West,Contract
+1784,Mid-Market,4.313,2020-02-26,Pharma,Midwest,Spot
+1785,Mid-Market,3.926,2022-06-29,Apparel,Southeast,Contract
+1786,Occasional,5.348,2022-12-26,Pharma,West,Spot
+1787,Mid-Market,4.401,2024-05-26,Automotive,Southeast,Contract
+1788,SMB,6.825,2022-10-13,Electronics,Northeast,Spot
+1789,Occasional,8.852,2023-11-29,Electronics,Midwest,Spot
+1790,Enterprise,2.363,2024-02-27,Food & Beverage,Southeast,Contract
+1791,SMB,5.022,2024-12-09,Manufacturing,Northeast,Spot
+1792,Mid-Market,4.871,2021-05-30,Automotive,Northeast,Spot
+1793,Mid-Market,5.485,2023-09-10,Automotive,West,Contract
+1794,SMB,4.902,2020-08-28,Food & Beverage,International,Spot
+1795,Occasional,10.993,2024-08-17,Automotive,Southeast,Spot
+1796,Mid-Market,2.237,2025-05-05,Retail,Northeast,Contract
+1797,SMB,7.947,2020-12-17,Manufacturing,West,Spot
+1798,Mid-Market,3.851,2022-09-28,Electronics,Southeast,Spot
+1799,SMB,8.035,2024-06-25,Food & Beverage,International,Spot
+1800,SMB,6.987,2019-03-08,Manufacturing,Midwest,Spot
+1801,SMB,8.395,2023-09-13,Pharma,Northeast,Contract
+1802,SMB,7.868,2024-06-21,Automotive,Midwest,Spot
+1803,Mid-Market,4.743,2024-10-22,Food & Beverage,Southeast,Spot
+1804,SMB,7.42,2020-04-24,Food & Beverage,West,Spot
+1805,SMB,5.506,2024-01-18,Retail,Northeast,Spot
+1806,SMB,8.678,2024-03-28,Electronics,West,Contract
+1807,Enterprise,2.264,2019-01-07,Automotive,West,Contract
+1808,SMB,7.244,2023-09-14,Automotive,West,Spot
+1809,Mid-Market,4.511,2023-03-05,Retail,West,Contract
+1810,Mid-Market,4.963,2025-06-17,Retail,Northeast,Spot
+1811,Mid-Market,4.841,2019-04-15,Automotive,Midwest,Spot
+1812,SMB,6.137,2025-06-09,Manufacturing,West,Spot
+1813,SMB,5.798,2022-10-23,Pharma,Southeast,Spot
+1814,Mid-Market,4.326,2020-10-30,Automotive,Northeast,Contract
+1815,SMB,6.908,2021-08-01,Automotive,Southeast,Spot
+1816,SMB,4.595,2024-02-10,Pharma,Southeast,Spot
+1817,SMB,7.44,2025-08-22,Food & Beverage,West,Spot
+1818,SMB,5.456,2021-02-10,Automotive,Midwest,Spot
+1819,SMB,7.045,2025-07-23,Apparel,West,Contract
+1820,SMB,5.974,2023-03-13,Automotive,International,Spot
+1821,Occasional,8.868,2020-04-12,Pharma,Southeast,Spot
+1822,SMB,6.283,2022-12-26,Industrial,West,Spot
+1823,SMB,5.692,2024-05-06,Automotive,Northeast,Spot
+1824,SMB,6.407,2019-05-13,Retail,Northeast,Spot
+1825,SMB,8.867,2019-07-12,Electronics,Northeast,Spot
+1826,Enterprise,2.442,2019-01-13,Automotive,Southeast,Contract
+1827,SMB,8.262,2022-10-20,Retail,Southeast,Spot
+1828,SMB,7.025,2019-05-21,Apparel,Midwest,Spot
+1829,Occasional,8.262,2025-03-19,Electronics,Southeast,Spot
+1830,SMB,6.57,2019-11-08,Manufacturing,Northeast,Spot
+1831,SMB,7.613,2019-06-24,Pharma,West,Spot
+1832,Occasional,5.826,2020-09-19,Industrial,Northeast,Spot
+1833,SMB,7.956,2024-02-02,Industrial,West,Spot
+1834,Mid-Market,4.126,2025-01-17,Food & Beverage,International,Contract
+1835,Mid-Market,4.379,2020-09-03,Retail,West,Spot
+1836,Mid-Market,5.634,2022-06-16,Industrial,Midwest,Contract
+1837,Enterprise,3.189,2024-02-28,Industrial,Midwest,Spot
+1838,SMB,5.604,2024-04-24,Pharma,Midwest,Contract
+1839,SMB,6.507,2020-01-08,Apparel,International,Spot
+1840,SMB,4.414,2024-08-03,Pharma,International,Spot
+1841,Enterprise,2.7,2024-10-12,Retail,Southeast,Contract
+1842,SMB,7.948,2023-11-25,Manufacturing,Midwest,Spot
+1843,Mid-Market,3.941,2022-07-07,Manufacturing,West,Contract
+1844,Occasional,9.524,2021-08-11,Industrial,Northeast,Spot
+1845,Mid-Market,4.543,2024-12-05,Retail,Midwest,Spot
+1846,SMB,9.078,2024-10-04,Pharma,Midwest,Spot
+1847,Mid-Market,4.765,2022-06-15,Electronics,West,Contract
+1848,SMB,6.696,2023-12-12,Retail,Southeast,Spot
+1849,Mid-Market,6.004,2021-08-31,Industrial,Southeast,Spot
+1850,SMB,4.05,2023-12-15,Retail,Northeast,Spot
+1851,Mid-Market,4.33,2019-08-06,Automotive,Midwest,Contract
+1852,Occasional,9.858,2025-01-04,Automotive,International,Spot
+1853,SMB,7.331,2022-06-09,Automotive,West,Spot
+1854,SMB,5.515,2022-12-28,Manufacturing,Southeast,Spot
+1855,Occasional,5.949,2020-04-06,Industrial,Southeast,Spot
+1856,Occasional,10.615,2022-07-11,Pharma,West,Spot
+1857,Mid-Market,5.463,2019-01-08,Food & Beverage,West,Spot
+1858,Mid-Market,5.709,2024-12-07,Apparel,Midwest,Contract
+1859,Mid-Market,4.543,2023-12-29,Electronics,Southeast,Spot
+1860,Mid-Market,4.41,2022-01-11,Electronics,Northeast,Contract
+1861,SMB,5.804,2024-07-28,Electronics,West,Spot
+1862,Occasional,10.025,2024-05-30,Pharma,Midwest,Spot
+1863,Occasional,10.612,2019-10-17,Pharma,Southeast,Spot
+1864,SMB,7.352,2019-05-12,Manufacturing,International,Spot
+1865,SMB,6.905,2020-09-09,Manufacturing,Midwest,Spot
+1866,Occasional,9.734,2019-01-04,Industrial,International,Spot
+1867,Occasional,9.846,2022-10-27,Pharma,Midwest,Spot
+1868,Mid-Market,4.304,2022-07-10,Automotive,Southeast,Contract
+1869,SMB,6.014,2022-08-02,Electronics,International,Contract
+1870,Occasional,9.633,2019-06-29,Electronics,International,Spot
+1871,Mid-Market,4.37,2025-02-13,Electronics,International,Spot
+1872,SMB,5.82,2025-07-05,Pharma,West,Contract
+1873,Occasional,10.19,2022-12-08,Automotive,Midwest,Spot
+1874,Occasional,5.89,2019-01-14,Pharma,Northeast,Spot
+1875,Occasional,6.398,2021-08-22,Electronics,Southeast,Spot
+1876,SMB,6.751,2023-10-15,Industrial,International,Spot
+1877,Mid-Market,5.369,2023-12-29,Pharma,Southeast,Spot
+1878,Mid-Market,4.808,2020-08-15,Food & Beverage,West,Spot
+1879,SMB,6.109,2024-06-26,Retail,International,Spot
+1880,SMB,5.269,2025-06-13,Pharma,International,Spot
+1881,SMB,6.201,2022-05-23,Pharma,International,Spot
+1882,SMB,7.008,2021-07-18,Industrial,Midwest,Spot
+1883,Mid-Market,4.812,2022-07-05,Manufacturing,Midwest,Spot
+1884,SMB,6.386,2019-03-08,Manufacturing,International,Contract
+1885,Mid-Market,3.587,2022-06-28,Industrial,Northeast,Spot
+1886,Mid-Market,3.729,2019-03-07,Pharma,Northeast,Contract
+1887,Mid-Market,6.529,2019-03-26,Retail,International,Spot
+1888,Mid-Market,4.44,2022-09-09,Retail,West,Contract
+1889,Occasional,7.622,2022-05-28,Food & Beverage,Midwest,Spot
+1890,SMB,4.904,2025-07-30,Pharma,Northeast,Spot
+1891,Mid-Market,3.903,2022-05-21,Manufacturing,Midwest,Contract
+1892,SMB,7.787,2025-07-13,Electronics,International,Spot
+1893,SMB,3.313,2024-05-19,Apparel,Midwest,Spot
+1894,Enterprise,3.836,2021-04-01,Industrial,Southeast,Contract
+1895,Mid-Market,5.888,2025-03-05,Food & Beverage,Midwest,Spot
+1896,Mid-Market,4.854,2022-03-21,Food & Beverage,West,Contract
+1897,SMB,6.064,2022-12-19,Electronics,International,Contract
+1898,Mid-Market,5.12,2019-09-02,Manufacturing,Southeast,Contract
+1899,Enterprise,2.685,2020-06-01,Retail,Midwest,Contract
+1900,Enterprise,2.455,2022-06-25,Automotive,Southeast,Contract
+1901,SMB,5.856,2020-10-22,Retail,Southeast,Spot
+1902,Enterprise,2.602,2022-12-31,Automotive,Northeast,Spot
+1903,Occasional,8.592,2019-07-14,Manufacturing,Midwest,Spot
+1904,Mid-Market,4.476,2020-09-03,Apparel,Midwest,Spot
+1905,SMB,6.778,2023-06-08,Industrial,Southeast,Spot
+1906,SMB,7.274,2023-01-30,Apparel,Southeast,Spot
+1907,SMB,7.952,2025-07-23,Apparel,Northeast,Spot
+1908,Enterprise,2.728,2024-12-30,Electronics,Northeast,Contract
+1909,SMB,5.745,2024-05-27,Pharma,West,Spot
+1910,Occasional,9.421,2019-01-03,Apparel,Northeast,Spot
+1911,Enterprise,2.818,2023-01-07,Food & Beverage,Northeast,Contract
+1912,Mid-Market,4.313,2020-07-11,Retail,International,Spot
+1913,Occasional,9.319,2020-10-11,Industrial,Southeast,Spot
+1914,SMB,7.304,2020-05-26,Manufacturing,West,Spot
+1915,Mid-Market,4.447,2022-01-15,Industrial,Midwest,Spot
+1916,Mid-Market,3.356,2019-10-29,Industrial,West,Contract
+1917,SMB,6.835,2022-07-18,Retail,Midwest,Spot
+1918,SMB,4.546,2020-02-09,Apparel,Northeast,Spot
+1919,SMB,8.881,2022-05-03,Apparel,West,Spot
+1920,Occasional,10.587,2023-03-05,Manufacturing,West,Spot
+1921,SMB,4.873,2020-03-13,Automotive,Southeast,Spot
+1922,Mid-Market,4.521,2019-09-08,Retail,West,Contract
+1923,SMB,7.103,2024-05-17,Manufacturing,Midwest,Spot
+1924,Mid-Market,4.866,2023-12-04,Industrial,International,Contract
+1925,Mid-Market,6.265,2020-09-28,Apparel,West,Spot
+1926,Enterprise,3.638,2024-11-29,Retail,Northeast,Contract
+1927,Mid-Market,4.677,2020-06-22,Manufacturing,West,Spot
+1928,SMB,7.068,2025-03-06,Electronics,International,Spot
+1929,Enterprise,2.177,2019-10-03,Retail,West,Contract
+1930,SMB,6.931,2023-05-27,Manufacturing,Northeast,Spot
+1931,SMB,6.007,2019-02-16,Pharma,West,Spot
+1932,SMB,7.593,2020-04-25,Retail,Midwest,Spot
+1933,SMB,4.728,2021-09-12,Electronics,Southeast,Spot
+1934,SMB,6.521,2019-07-27,Electronics,West,Spot
+1935,SMB,5.923,2022-01-17,Industrial,Midwest,Spot
+1936,Mid-Market,2.499,2020-07-18,Industrial,West,Contract
+1937,SMB,5.787,2019-08-29,Automotive,West,Spot
+1938,SMB,7.114,2025-05-31,Electronics,Southeast,Spot
+1939,Mid-Market,4.515,2025-07-18,Pharma,International,Spot
+1940,Enterprise,3.03,2025-06-01,Pharma,Midwest,Contract
+1941,Mid-Market,7.066,2020-01-11,Automotive,Midwest,Contract
+1942,SMB,7.893,2021-07-18,Apparel,Southeast,Spot
+1943,Mid-Market,5.38,2021-03-08,Industrial,Northeast,Contract
+1944,Mid-Market,3.87,2021-03-04,Pharma,West,Spot
+1945,SMB,6.188,2021-10-11,Industrial,Southeast,Spot
+1946,Occasional,10.638,2022-05-26,Apparel,International,Spot
+1947,Mid-Market,5.132,2022-03-27,Apparel,International,Spot
+1948,Occasional,7.404,2020-12-11,Apparel,West,Spot
+1949,Enterprise,2.704,2025-07-13,Electronics,Southeast,Contract
+1950,Occasional,9.182,2025-07-13,Pharma,West,Spot
+1951,Occasional,7.443,2021-03-17,Electronics,Northeast,Spot
+1952,Enterprise,1.814,2020-06-22,Apparel,West,Contract
+1953,SMB,7.537,2022-07-21,Electronics,Midwest,Spot
+1954,Occasional,8.499,2021-06-17,Automotive,International,Spot
+1955,Occasional,9.315,2025-07-31,Pharma,Southeast,Spot
+1956,Occasional,3.346,2021-11-11,Apparel,Southeast,Spot
+1957,SMB,6.66,2019-04-07,Manufacturing,International,Spot
+1958,Enterprise,2.985,2019-11-01,Automotive,Midwest,Contract
+1959,Occasional,12.658,2019-07-01,Automotive,West,Spot
+1960,SMB,5.529,2021-07-21,Manufacturing,International,Spot
+1961,SMB,6.29,2021-02-09,Electronics,Midwest,Spot
+1962,Mid-Market,3.932,2024-09-17,Apparel,Southeast,Contract
+1963,SMB,6.241,2024-12-08,Automotive,Midwest,Spot
+1964,Mid-Market,3.382,2019-12-08,Apparel,West,Contract
+1965,SMB,5.764,2025-04-19,Food & Beverage,International,Spot
+1966,Enterprise,3.234,2022-11-23,Electronics,Southeast,Contract
+1967,SMB,7.114,2021-01-17,Industrial,West,Spot
+1968,Occasional,9.706,2021-09-17,Automotive,Southeast,Spot
+1969,SMB,6.882,2021-12-10,Industrial,Midwest,Spot
+1970,SMB,4.691,2020-02-20,Electronics,West,Spot
+1971,Mid-Market,4.286,2024-10-13,Food & Beverage,West,Spot
+1972,Occasional,7.847,2019-01-31,Manufacturing,Southeast,Spot
+1973,SMB,4.618,2019-06-19,Industrial,Southeast,Spot
+1974,Mid-Market,4.682,2020-10-27,Automotive,Southeast,Contract
+1975,Mid-Market,2.915,2019-12-16,Manufacturing,Northeast,Contract
+1976,Mid-Market,3.566,2019-05-31,Manufacturing,Southeast,Spot
+1977,SMB,7.11,2021-07-22,Pharma,West,Spot
+1978,Occasional,11.884,2021-07-06,Food & Beverage,Southeast,Spot
+1979,SMB,5.622,2019-11-02,Food & Beverage,Southeast,Spot
+1980,Mid-Market,4.609,2024-05-26,Electronics,West,Contract
+1981,Occasional,8.244,2024-11-19,Apparel,Northeast,Spot
+1982,Mid-Market,4.233,2023-10-19,Industrial,Southeast,Contract
+1983,Occasional,9.012,2022-06-25,Industrial,International,Spot
+1984,Mid-Market,4.955,2025-04-25,Food & Beverage,Northeast,Contract
+1985,SMB,6.962,2021-05-03,Automotive,Southeast,Contract
+1986,Occasional,8.021,2021-11-05,Apparel,Midwest,Spot
+1987,Mid-Market,3.507,2019-02-06,Manufacturing,Northeast,Spot
+1988,SMB,7.537,2023-09-20,Automotive,Southeast,Spot
+1989,Occasional,11.443,2019-08-14,Electronics,Northeast,Spot
+1990,Mid-Market,5.243,2023-06-09,Apparel,Southeast,Spot
+1991,Mid-Market,3.535,2024-03-20,Apparel,West,Spot
+1992,SMB,5.075,2020-06-12,Industrial,Southeast,Spot
+1993,Mid-Market,6.078,2023-01-30,Industrial,Southeast,Spot
+1994,Enterprise,2.171,2021-01-09,Automotive,Southeast,Contract
+1995,SMB,4.906,2021-08-27,Pharma,International,Spot
+1996,SMB,8.609,2022-07-14,Food & Beverage,Northeast,Spot
+1997,Mid-Market,3.056,2020-08-30,Food & Beverage,West,Contract
+1998,Mid-Market,3.617,2024-04-23,Industrial,Southeast,Spot
+1999,Occasional,8.632,2021-08-18,Manufacturing,International,Spot
+2000,SMB,7.022,2022-01-29,Pharma,Southeast,Spot
+2001,Occasional,9.039,2024-06-06,Apparel,Northeast,Spot
+2002,SMB,6.097,2020-07-08,Retail,Midwest,Spot
+2003,Occasional,10.726,2022-01-06,Apparel,Northeast,Spot
+2004,SMB,5.479,2025-08-16,Electronics,West,Spot
+2005,Mid-Market,4.976,2021-08-31,Electronics,Midwest,Contract
+2006,Occasional,9.736,2019-10-09,Pharma,West,Spot
+2007,SMB,5.987,2020-11-23,Retail,Northeast,Spot
+2008,Mid-Market,6.098,2025-05-16,Manufacturing,West,Contract
+2009,Mid-Market,4.884,2024-01-23,Food & Beverage,Southeast,Spot
+2010,SMB,5.171,2024-05-24,Pharma,International,Spot
+2011,Enterprise,2.596,2020-09-09,Retail,West,Contract
+2012,Mid-Market,5.107,2024-08-04,Electronics,Midwest,Contract
+2013,Mid-Market,4.616,2021-08-15,Electronics,West,Contract
+2014,SMB,7.66,2024-04-19,Pharma,Midwest,Contract
+2015,Mid-Market,3.676,2024-11-14,Electronics,Midwest,Contract
+2016,SMB,5.668,2020-05-21,Retail,Northeast,Spot
+2017,Mid-Market,4.159,2025-04-04,Pharma,West,Spot
+2018,Enterprise,1.737,2023-03-21,Automotive,Southeast,Contract
+2019,SMB,7.912,2023-11-15,Pharma,Northeast,Contract
+2020,Mid-Market,3.509,2024-01-17,Electronics,West,Contract
+2021,SMB,6.119,2020-02-15,Food & Beverage,Northeast,Spot
+2022,Mid-Market,3.449,2023-12-21,Manufacturing,West,Contract
+2023,Enterprise,1.971,2020-06-02,Manufacturing,Northeast,Spot
+2024,Mid-Market,4.962,2020-10-23,Food & Beverage,Southeast,Contract
+2025,SMB,5.348,2019-10-11,Pharma,West,Contract
+2026,Mid-Market,3.589,2020-03-17,Food & Beverage,Northeast,Contract
+2027,SMB,6.088,2025-07-11,Industrial,West,Spot
+2028,Mid-Market,4.888,2021-03-09,Apparel,Midwest,Spot
+2029,SMB,3.451,2021-07-31,Retail,West,Spot
+2030,SMB,6.455,2022-03-14,Pharma,Northeast,Spot
+2031,Enterprise,3.124,2023-10-03,Pharma,West,Contract
+2032,SMB,6.396,2022-10-29,Retail,Southeast,Spot
+2033,Mid-Market,3.428,2022-07-29,Food & Beverage,Southeast,Contract
+2034,Mid-Market,4.867,2024-07-30,Automotive,Southeast,Spot
+2035,Mid-Market,4.16,2022-04-22,Electronics,Southeast,Spot
+2036,SMB,7.59,2024-02-16,Food & Beverage,Midwest,Spot
+2037,Occasional,8.713,2025-01-27,Manufacturing,Northeast,Spot
+2038,Enterprise,2.367,2023-07-05,Retail,Southeast,Contract
+2039,SMB,4.336,2019-03-28,Electronics,Midwest,Spot
+2040,SMB,7.994,2020-10-03,Automotive,Midwest,Contract
+2041,Mid-Market,5.866,2023-02-13,Industrial,Northeast,Spot
+2042,SMB,7.585,2022-03-12,Apparel,Southeast,Contract
+2043,SMB,8.102,2020-11-24,Automotive,Southeast,Spot
+2044,Occasional,10.577,2021-03-27,Apparel,West,Spot
+2045,Occasional,12.862,2019-07-10,Apparel,International,Spot
+2046,Enterprise,2.046,2020-07-26,Food & Beverage,Midwest,Contract
+2047,SMB,6.537,2024-03-21,Retail,West,Spot
+2048,SMB,7.817,2019-01-25,Food & Beverage,Northeast,Spot
+2049,Mid-Market,4.891,2024-07-30,Automotive,International,Spot
+2050,Mid-Market,5.712,2021-04-06,Pharma,Southeast,Spot
+2051,Occasional,9.308,2024-05-21,Automotive,Southeast,Spot
+2052,Enterprise,2.715,2020-09-15,Retail,Northeast,Contract
+2053,SMB,4.835,2024-07-11,Manufacturing,Northeast,Spot
+2054,Occasional,8.987,2022-10-24,Electronics,West,Spot
+2055,Mid-Market,3.92,2024-09-04,Electronics,Southeast,Spot
+2056,SMB,7.456,2019-06-01,Industrial,Southeast,Spot
+2057,Occasional,9.073,2024-04-25,Food & Beverage,Northeast,Spot
+2058,SMB,5.675,2020-10-20,Apparel,International,Spot
+2059,Mid-Market,4.651,2021-05-23,Apparel,West,Spot
+2060,Enterprise,2.339,2019-04-20,Food & Beverage,International,Contract
+2061,Occasional,10.897,2025-05-12,Industrial,West,Spot
+2062,Mid-Market,3.717,2023-04-11,Manufacturing,International,Spot
+2063,SMB,4.618,2025-07-16,Retail,Midwest,Spot
+2064,Mid-Market,4.228,2022-10-15,Apparel,Northeast,Spot
+2065,Mid-Market,4.364,2020-01-21,Apparel,Southeast,Contract
+2066,Occasional,7.841,2021-04-01,Electronics,Southeast,Spot
+2067,SMB,5.251,2021-12-07,Automotive,West,Spot
+2068,Occasional,8.355,2019-12-25,Manufacturing,Northeast,Spot
+2069,Mid-Market,3.947,2025-03-18,Electronics,Northeast,Spot
+2070,SMB,6.607,2025-05-21,Manufacturing,West,Spot
+2071,Occasional,6.34,2022-10-04,Manufacturing,Northeast,Spot
+2072,SMB,5.611,2022-11-23,Apparel,Northeast,Spot
+2073,Mid-Market,3.506,2023-09-10,Apparel,Northeast,Spot
+2074,Occasional,6.906,2023-07-12,Apparel,West,Spot
+2075,Mid-Market,3.328,2019-06-02,Automotive,Northeast,Contract
+2076,SMB,7.051,2022-07-17,Retail,Northeast,Spot
+2077,Occasional,7.972,2024-03-07,Pharma,Northeast,Spot
+2078,Mid-Market,2.494,2024-05-17,Retail,West,Contract
+2079,Mid-Market,3.649,2022-12-22,Industrial,Northeast,Contract
+2080,Enterprise,2.365,2024-12-22,Apparel,Northeast,Contract
+2081,Mid-Market,5.165,2022-11-28,Automotive,International,Spot
+2082,Mid-Market,3.161,2021-07-20,Pharma,West,Spot
+2083,SMB,4.43,2021-12-13,Food & Beverage,Northeast,Spot
+2084,Mid-Market,3.369,2023-08-08,Apparel,Southeast,Spot
+2085,SMB,4.047,2024-11-28,Automotive,Northeast,Spot
+2086,Mid-Market,6.212,2020-07-13,Manufacturing,West,Spot
+2087,Mid-Market,4.027,2020-12-15,Automotive,Southeast,Spot
+2088,Mid-Market,4.889,2023-05-07,Apparel,International,Spot
+2089,SMB,8.247,2024-02-03,Retail,West,Contract
+2090,SMB,7.685,2021-08-29,Industrial,Midwest,Spot
+2091,Mid-Market,5.178,2023-04-16,Manufacturing,Northeast,Spot
+2092,Occasional,8.711,2019-01-17,Pharma,West,Spot
+2093,SMB,5.341,2020-12-11,Manufacturing,West,Spot
+2094,Mid-Market,5.196,2025-05-15,Manufacturing,West,Spot
+2095,Occasional,11.631,2022-11-04,Apparel,Northeast,Spot
+2096,Mid-Market,3.23,2024-10-15,Apparel,West,Contract
+2097,Enterprise,2.97,2020-06-13,Apparel,West,Contract
+2098,SMB,6.596,2020-12-09,Electronics,International,Spot
+2099,Mid-Market,4.392,2025-07-01,Automotive,Midwest,Contract
+2100,Mid-Market,3.144,2025-08-26,Retail,Midwest,Contract
+2101,SMB,7.823,2024-11-05,Automotive,Southeast,Spot
+2102,Mid-Market,6.802,2021-02-11,Electronics,West,Spot
+2103,SMB,7.103,2024-05-05,Pharma,International,Spot
+2104,Occasional,9.658,2022-01-22,Industrial,Midwest,Spot
+2105,SMB,6.778,2024-08-16,Electronics,Northeast,Spot
+2106,SMB,7.914,2024-09-03,Food & Beverage,Northeast,Spot
+2107,SMB,5.723,2021-11-24,Automotive,Midwest,Spot
+2108,Occasional,7.341,2021-01-11,Automotive,West,Spot
+2109,Mid-Market,3.165,2025-07-01,Manufacturing,Northeast,Spot
+2110,Mid-Market,3.657,2022-01-02,Pharma,Southeast,Contract
+2111,SMB,6.637,2021-11-17,Electronics,International,Spot
+2112,SMB,6.579,2023-06-09,Pharma,Midwest,Spot
+2113,Mid-Market,3.663,2025-03-30,Food & Beverage,Northeast,Spot
+2114,SMB,6.273,2019-11-14,Retail,Southeast,Spot
+2115,Enterprise,2.019,2025-07-25,Industrial,Southeast,Contract
+2116,Occasional,7.635,2021-10-25,Apparel,Northeast,Spot
+2117,Mid-Market,3.253,2019-03-04,Food & Beverage,West,Spot
+2118,Enterprise,2.147,2021-01-23,Retail,Midwest,Spot
+2119,Mid-Market,5.817,2022-01-31,Retail,Midwest,Spot
+2120,Mid-Market,6.78,2023-07-06,Food & Beverage,Midwest,Spot
+2121,Mid-Market,4.172,2022-10-11,Apparel,Northeast,Contract
+2122,Enterprise,2.677,2019-11-28,Electronics,Northeast,Contract
+2123,Mid-Market,3.412,2022-04-03,Apparel,Northeast,Spot
+2124,Mid-Market,2.587,2020-07-20,Food & Beverage,Northeast,Spot
+2125,Mid-Market,4.38,2020-10-18,Retail,West,Contract
+2126,Mid-Market,4.315,2023-09-29,Pharma,Northeast,Spot
+2127,Mid-Market,4.014,2024-05-10,Manufacturing,West,Spot
+2128,Mid-Market,4.799,2020-01-16,Retail,Northeast,Spot
+2129,Mid-Market,4.956,2023-01-06,Manufacturing,Northeast,Spot
+2130,Enterprise,3.085,2021-10-24,Electronics,Northeast,Contract
+2131,Mid-Market,4.891,2021-03-30,Pharma,Midwest,Spot
+2132,SMB,6.132,2023-10-02,Industrial,Midwest,Spot
+2133,Occasional,11.0,2020-08-28,Manufacturing,West,Spot
+2134,Occasional,10.603,2024-02-07,Retail,Northeast,Spot
+2135,SMB,6.687,2021-09-02,Manufacturing,Midwest,Spot
+2136,SMB,6.641,2019-08-20,Electronics,West,Spot
+2137,Mid-Market,4.315,2024-04-13,Manufacturing,Southeast,Contract
+2138,SMB,5.342,2024-09-05,Electronics,Northeast,Spot
+2139,SMB,7.562,2022-10-03,Industrial,Northeast,Spot
+2140,Occasional,8.845,2023-10-29,Food & Beverage,Northeast,Spot
+2141,Occasional,8.092,2019-12-26,Apparel,West,Spot
+2142,SMB,5.428,2021-04-06,Apparel,Southeast,Spot
+2143,SMB,6.338,2021-05-02,Manufacturing,Midwest,Spot
+2144,SMB,6.246,2024-02-03,Manufacturing,West,Contract
+2145,Mid-Market,3.609,2021-05-07,Food & Beverage,Southeast,Contract
+2146,Occasional,10.6,2023-11-09,Food & Beverage,Midwest,Spot
+2147,Mid-Market,5.199,2021-01-17,Retail,Northeast,Spot
+2148,Occasional,7.211,2023-01-03,Apparel,Midwest,Spot
+2149,SMB,7.03,2020-05-25,Electronics,Northeast,Spot
+2150,Mid-Market,4.611,2022-09-21,Electronics,Southeast,Spot
+2151,SMB,4.057,2019-07-16,Pharma,Southeast,Contract
+2152,Enterprise,3.219,2023-11-25,Industrial,West,Contract
+2153,SMB,7.669,2019-03-12,Automotive,West,Spot
+2154,SMB,5.788,2025-08-30,Industrial,West,Spot
+2155,SMB,8.064,2024-08-04,Food & Beverage,Northeast,Spot
+2156,Occasional,9.427,2022-11-09,Retail,International,Spot
+2157,Mid-Market,5.4,2025-01-23,Manufacturing,Northeast,Spot
+2158,Mid-Market,5.311,2024-05-23,Electronics,West,Contract
+2159,Mid-Market,3.32,2019-12-14,Electronics,West,Contract
+2160,Enterprise,2.267,2023-12-18,Manufacturing,Midwest,Contract
+2161,SMB,6.026,2021-07-07,Manufacturing,Southeast,Spot
+2162,Mid-Market,3.309,2024-09-14,Manufacturing,West,Spot
+2163,Mid-Market,3.92,2024-10-04,Apparel,West,Spot
+2164,Mid-Market,3.649,2025-05-13,Food & Beverage,Northeast,Contract
+2165,Occasional,12.436,2022-01-03,Retail,West,Spot
+2166,Mid-Market,5.28,2020-04-15,Pharma,Northeast,Contract
+2167,Occasional,9.129,2019-11-01,Automotive,Midwest,Spot
+2168,Mid-Market,4.916,2020-02-07,Food & Beverage,Midwest,Contract
+2169,Mid-Market,5.589,2025-08-12,Electronics,West,Contract
+2170,SMB,6.541,2022-11-28,Electronics,Midwest,Spot
+2171,Mid-Market,4.957,2021-05-06,Food & Beverage,Northeast,Spot
+2172,Mid-Market,4.788,2021-12-30,Electronics,Midwest,Contract
+2173,SMB,8.897,2020-02-25,Industrial,Southeast,Contract
+2174,Mid-Market,5.68,2022-10-21,Industrial,Midwest,Contract
+2175,Mid-Market,5.023,2021-11-02,Electronics,Midwest,Spot
+2176,SMB,6.267,2024-04-27,Industrial,West,Spot
+2177,Mid-Market,4.661,2019-02-21,Automotive,Southeast,Spot
+2178,SMB,8.087,2025-03-18,Retail,Northeast,Contract
+2179,Mid-Market,5.932,2019-05-28,Food & Beverage,Midwest,Spot
+2180,Occasional,7.559,2021-10-13,Apparel,Northeast,Spot
+2181,SMB,6.647,2021-04-09,Food & Beverage,Northeast,Contract
+2182,Occasional,9.457,2023-10-15,Food & Beverage,Southeast,Spot
+2183,Occasional,8.048,2023-05-22,Food & Beverage,Midwest,Spot
+2184,Mid-Market,4.704,2020-04-24,Apparel,Southeast,Spot
+2185,SMB,7.099,2022-04-09,Electronics,Midwest,Spot
+2186,Mid-Market,4.326,2022-07-25,Pharma,West,Spot
+2187,SMB,6.684,2022-02-03,Manufacturing,Midwest,Spot
+2188,SMB,7.617,2019-02-23,Industrial,Southeast,Contract
+2189,Mid-Market,3.846,2020-03-09,Retail,Northeast,Spot
+2190,Occasional,6.569,2022-05-11,Retail,Northeast,Spot
+2191,Mid-Market,5.233,2020-09-26,Retail,Midwest,Spot
+2192,SMB,5.777,2022-08-20,Electronics,West,Spot
+2193,SMB,5.419,2020-02-03,Pharma,Northeast,Spot
+2194,Enterprise,3.069,2023-11-26,Industrial,Northeast,Contract
+2195,SMB,5.834,2020-04-03,Food & Beverage,Southeast,Spot
+2196,SMB,6.72,2023-05-01,Manufacturing,Southeast,Spot
+2197,Enterprise,2.208,2024-07-30,Electronics,International,Spot
+2198,SMB,6.335,2021-05-22,Manufacturing,Northeast,Spot
+2199,Mid-Market,5.713,2019-12-06,Food & Beverage,Northeast,Contract
+2200,SMB,7.452,2019-01-14,Apparel,Southeast,Spot
+2201,Mid-Market,4.554,2021-05-27,Retail,Northeast,Spot
+2202,Occasional,9.922,2019-10-09,Automotive,Northeast,Spot
+2203,Occasional,10.589,2024-11-17,Manufacturing,Southeast,Spot
+2204,Mid-Market,5.777,2025-06-27,Apparel,Southeast,Contract
+2205,Mid-Market,2.827,2025-07-15,Automotive,Northeast,Contract
+2206,SMB,8.166,2025-02-23,Automotive,Midwest,Contract
+2207,SMB,5.429,2022-11-29,Apparel,Midwest,Spot
+2208,SMB,5.719,2021-03-02,Apparel,Northeast,Spot
+2209,Mid-Market,4.55,2021-12-23,Manufacturing,West,Contract
+2210,Mid-Market,4.564,2020-09-22,Manufacturing,Southeast,Contract
+2211,Occasional,8.303,2024-08-07,Food & Beverage,International,Spot
+2212,SMB,4.877,2021-11-28,Pharma,International,Contract
+2213,Occasional,8.196,2021-07-26,Pharma,Southeast,Spot
+2214,SMB,9.036,2023-08-08,Automotive,Northeast,Spot
+2215,Occasional,7.261,2021-06-29,Electronics,West,Spot
+2216,Mid-Market,3.946,2021-05-18,Automotive,Southeast,Contract
+2217,Mid-Market,6.745,2020-07-07,Food & Beverage,Northeast,Spot
+2218,Occasional,8.56,2019-06-13,Manufacturing,Midwest,Spot
+2219,Occasional,7.9,2019-04-03,Apparel,Midwest,Spot
+2220,Mid-Market,4.54,2021-09-07,Manufacturing,West,Spot
+2221,Mid-Market,4.233,2025-08-20,Food & Beverage,West,Contract
+2222,SMB,6.966,2020-09-26,Automotive,West,Spot
+2223,Mid-Market,4.623,2023-04-11,Automotive,West,Contract
+2224,Mid-Market,2.797,2021-03-02,Electronics,Midwest,Spot
+2225,Occasional,7.182,2021-01-07,Manufacturing,Midwest,Spot
+2226,Mid-Market,3.916,2020-02-01,Retail,International,Spot
+2227,SMB,7.176,2022-10-03,Retail,International,Spot
+2228,Enterprise,3.513,2023-05-24,Automotive,West,Contract
+2229,Enterprise,2.033,2021-05-02,Automotive,West,Spot
+2230,SMB,4.992,2022-07-06,Pharma,Midwest,Spot
+2231,Mid-Market,5.485,2022-03-05,Pharma,Southeast,Contract
+2232,SMB,6.599,2020-10-21,Electronics,West,Spot
+2233,Mid-Market,4.034,2023-08-12,Manufacturing,Northeast,Contract
+2234,Occasional,11.827,2022-09-10,Retail,Northeast,Spot
+2235,SMB,7.211,2019-06-10,Apparel,Southeast,Contract
+2236,Occasional,9.546,2022-04-14,Retail,Midwest,Spot
+2237,Mid-Market,3.854,2021-08-06,Retail,Midwest,Spot
+2238,Mid-Market,5.779,2024-04-22,Automotive,Northeast,Contract
+2239,Mid-Market,5.806,2021-01-16,Pharma,Northeast,Spot
+2240,SMB,6.297,2025-05-16,Food & Beverage,Northeast,Contract
+2241,Mid-Market,5.065,2023-02-06,Manufacturing,Southeast,Spot
+2242,Enterprise,3.264,2019-11-15,Manufacturing,Northeast,Contract
+2243,Mid-Market,4.19,2021-09-09,Food & Beverage,West,Spot
+2244,Mid-Market,4.384,2024-11-22,Electronics,Southeast,Contract
+2245,Mid-Market,3.876,2020-09-11,Pharma,Southeast,Spot
+2246,Mid-Market,3.705,2023-09-13,Manufacturing,Southeast,Spot
+2247,Mid-Market,3.66,2024-03-22,Manufacturing,Midwest,Spot
+2248,SMB,7.891,2023-08-14,Retail,West,Spot
+2249,Mid-Market,4.044,2019-08-09,Food & Beverage,Northeast,Contract
+2250,Mid-Market,3.669,2021-06-30,Electronics,Southeast,Spot
+2251,SMB,9.374,2021-04-27,Manufacturing,West,Spot
+2252,SMB,5.464,2021-04-17,Pharma,Northeast,Contract
+2253,Mid-Market,3.193,2024-11-10,Food & Beverage,West,Spot
+2254,SMB,5.373,2019-01-14,Manufacturing,International,Contract
+2255,Occasional,9.716,2022-08-05,Apparel,Midwest,Spot
+2256,SMB,5.547,2025-07-19,Electronics,International,Spot
+2257,Occasional,10.213,2024-11-01,Electronics,Southeast,Spot
+2258,SMB,8.527,2023-01-16,Food & Beverage,Southeast,Contract
+2259,Enterprise,2.272,2025-08-26,Manufacturing,Northeast,Contract
+2260,Mid-Market,4.797,2021-09-06,Food & Beverage,Northeast,Contract
+2261,SMB,7.851,2023-01-28,Pharma,Southeast,Spot
+2262,Occasional,10.034,2022-08-17,Manufacturing,Midwest,Spot
+2263,SMB,6.437,2019-04-26,Pharma,Midwest,Spot
+2264,Mid-Market,4.811,2019-04-09,Retail,Northeast,Contract
+2265,SMB,6.644,2024-12-23,Pharma,Midwest,Spot
+2266,Mid-Market,6.131,2020-02-27,Retail,Northeast,Contract
+2267,SMB,5.62,2021-05-14,Manufacturing,Southeast,Spot
+2268,SMB,7.668,2023-02-26,Electronics,Northeast,Spot
+2269,SMB,6.144,2022-11-02,Pharma,West,Spot
+2270,Occasional,8.139,2022-06-06,Apparel,Midwest,Spot
+2271,SMB,6.288,2025-07-12,Food & Beverage,West,Contract
+2272,SMB,7.331,2024-03-31,Manufacturing,Northeast,Spot
+2273,SMB,6.374,2025-04-12,Food & Beverage,Southeast,Spot
+2274,Occasional,9.236,2023-05-24,Automotive,International,Spot
+2275,Occasional,8.37,2025-07-12,Retail,Northeast,Contract
+2276,Enterprise,3.607,2023-01-04,Apparel,Southeast,Contract
+2277,SMB,6.318,2022-08-12,Food & Beverage,Northeast,Spot
+2278,Mid-Market,3.998,2024-06-08,Retail,Northeast,Contract
+2279,Occasional,9.502,2024-10-16,Apparel,Midwest,Spot
+2280,SMB,6.613,2019-06-16,Retail,Northeast,Spot
+2281,Mid-Market,4.866,2025-01-26,Electronics,Midwest,Contract
+2282,Mid-Market,4.881,2023-08-10,Manufacturing,International,Spot
+2283,Mid-Market,4.372,2024-12-25,Pharma,Northeast,Contract
+2284,SMB,7.554,2023-10-09,Retail,Northeast,Spot
+2285,Mid-Market,5.27,2025-03-07,Retail,West,Contract
+2286,Mid-Market,5.298,2020-11-01,Pharma,Midwest,Contract
+2287,Occasional,9.347,2020-04-01,Industrial,West,Spot
+2288,SMB,8.576,2020-04-21,Retail,Southeast,Spot
+2289,Mid-Market,4.895,2020-09-06,Food & Beverage,Midwest,Contract
+2290,Mid-Market,4.37,2020-06-04,Automotive,International,Spot
+2291,Occasional,8.188,2021-12-11,Electronics,Northeast,Spot
+2292,SMB,7.303,2020-04-27,Food & Beverage,West,Spot
+2293,SMB,7.564,2020-01-21,Automotive,Midwest,Spot
+2294,Mid-Market,4.278,2022-06-29,Apparel,West,Spot
+2295,Mid-Market,3.369,2024-04-15,Electronics,Northeast,Spot
+2296,Enterprise,2.896,2019-11-27,Automotive,Southeast,Contract
+2297,SMB,6.36,2022-05-30,Apparel,Northeast,Spot
+2298,Enterprise,2.092,2023-05-25,Pharma,International,Contract
+2299,Enterprise,2.339,2023-09-15,Food & Beverage,Northeast,Contract
+2300,SMB,5.751,2019-09-13,Industrial,Northeast,Spot
+2301,Occasional,6.673,2023-11-22,Automotive,West,Spot
+2302,SMB,7.385,2019-03-07,Industrial,Southeast,Spot
+2303,SMB,6.805,2020-07-30,Apparel,Midwest,Spot
+2304,SMB,4.893,2021-02-16,Electronics,Southeast,Spot
+2305,SMB,6.206,2024-09-08,Retail,Midwest,Spot
+2306,Mid-Market,3.875,2020-04-12,Manufacturing,Northeast,Contract
+2307,SMB,6.501,2024-03-20,Industrial,Southeast,Spot
+2308,SMB,5.987,2025-08-04,Electronics,Midwest,Contract
+2309,SMB,8.378,2025-05-26,Retail,Southeast,Contract
+2310,Occasional,9.034,2021-01-07,Manufacturing,Southeast,Spot
+2311,Occasional,8.473,2019-08-22,Retail,Northeast,Spot
+2312,Enterprise,2.991,2020-06-24,Pharma,West,Contract
+2313,Mid-Market,4.04,2024-02-16,Pharma,Northeast,Contract
+2314,Mid-Market,3.588,2020-04-24,Food & Beverage,Southeast,Contract
+2315,Mid-Market,4.996,2023-04-22,Apparel,Southeast,Spot
+2316,Mid-Market,5.677,2021-06-29,Food & Beverage,Southeast,Contract
+2317,Mid-Market,3.783,2024-02-11,Industrial,West,Contract
+2318,SMB,7.176,2023-01-15,Automotive,Southeast,Spot
+2319,SMB,8.248,2022-11-26,Retail,West,Spot
+2320,Occasional,5.775,2024-03-19,Electronics,West,Spot
+2321,Enterprise,3.126,2025-05-14,Automotive,West,Contract
+2322,Enterprise,2.565,2021-06-06,Pharma,West,Contract
+2323,Mid-Market,4.855,2022-07-11,Automotive,Northeast,Contract
+2324,Mid-Market,3.669,2023-03-05,Electronics,International,Spot
+2325,Mid-Market,4.326,2024-06-27,Retail,West,Contract
+2326,Occasional,9.612,2022-03-19,Automotive,Midwest,Spot
+2327,Mid-Market,3.979,2021-07-01,Automotive,Northeast,Spot
+2328,Mid-Market,5.142,2024-08-23,Apparel,Northeast,Spot
+2329,SMB,6.916,2025-05-10,Food & Beverage,Midwest,Spot
+2330,SMB,6.698,2022-10-17,Retail,Southeast,Spot
+2331,SMB,5.476,2019-09-10,Apparel,West,Spot
+2332,Mid-Market,3.989,2020-12-06,Apparel,Southeast,Spot
+2333,SMB,6.614,2022-02-01,Apparel,Midwest,Spot
+2334,Mid-Market,5.51,2023-09-10,Manufacturing,Northeast,Spot
+2335,Mid-Market,4.379,2023-06-19,Apparel,Northeast,Contract
+2336,SMB,6.616,2024-06-19,Apparel,Northeast,Contract
+2337,Occasional,10.345,2019-03-15,Automotive,West,Spot
+2338,Mid-Market,4.015,2022-02-07,Pharma,Midwest,Spot
+2339,SMB,4.959,2023-09-04,Apparel,International,Contract
+2340,Enterprise,2.622,2025-07-31,Food & Beverage,West,Contract
+2341,Mid-Market,3.472,2019-12-13,Apparel,West,Spot
+2342,Enterprise,2.979,2024-11-10,Apparel,Midwest,Contract
+2343,SMB,5.953,2019-01-19,Automotive,West,Spot
+2344,Mid-Market,4.828,2020-04-24,Automotive,International,Contract
+2345,SMB,6.212,2024-08-24,Retail,West,Spot
+2346,Enterprise,2.666,2024-03-30,Automotive,Northeast,Contract
+2347,Occasional,12.845,2025-06-26,Automotive,Midwest,Spot
+2348,Occasional,8.174,2023-01-03,Pharma,Northeast,Spot
+2349,Mid-Market,5.406,2023-02-08,Pharma,Northeast,Contract
+2350,Enterprise,1.953,2022-07-26,Apparel,West,Contract
+2351,Enterprise,2.194,2022-05-31,Food & Beverage,West,Contract
+2352,Occasional,7.938,2022-06-05,Food & Beverage,Northeast,Spot
+2353,Mid-Market,4.846,2020-12-13,Automotive,Northeast,Contract
+2354,SMB,7.096,2024-09-09,Automotive,West,Spot
+2355,Mid-Market,6.615,2021-05-18,Manufacturing,Northeast,Contract
+2356,SMB,7.154,2023-01-27,Automotive,Northeast,Spot
+2357,SMB,5.902,2023-06-18,Electronics,West,Spot
+2358,SMB,7.163,2022-08-02,Manufacturing,West,Spot
+2359,Occasional,7.025,2023-01-28,Industrial,Midwest,Spot
+2360,Mid-Market,5.887,2019-04-29,Manufacturing,Midwest,Spot
+2361,Occasional,9.134,2021-02-08,Manufacturing,Southeast,Spot
+2362,Enterprise,2.718,2021-12-27,Electronics,Northeast,Contract
+2363,SMB,6.382,2021-08-17,Food & Beverage,West,Spot
+2364,Occasional,9.124,2025-01-20,Manufacturing,West,Spot
+2365,SMB,3.156,2024-12-24,Manufacturing,Southeast,Spot
+2366,SMB,6.018,2023-09-30,Food & Beverage,Southeast,Spot
+2367,Mid-Market,4.323,2021-05-07,Manufacturing,Southeast,Contract
+2368,Mid-Market,4.314,2019-05-05,Manufacturing,Northeast,Contract
+2369,Mid-Market,5.023,2024-01-13,Industrial,Southeast,Spot
+2370,SMB,7.895,2024-11-22,Pharma,Northeast,Spot
+2371,SMB,4.582,2022-04-07,Retail,West,Spot
+2372,Mid-Market,3.846,2024-07-05,Retail,Southeast,Spot
+2373,Mid-Market,5.65,2025-03-16,Automotive,West,Spot
+2374,Mid-Market,4.925,2022-08-24,Electronics,Midwest,Spot
+2375,Mid-Market,4.831,2020-05-25,Manufacturing,West,Spot
+2376,Mid-Market,5.218,2019-02-24,Apparel,International,Spot
+2377,Occasional,7.502,2024-01-18,Automotive,Southeast,Spot
+2378,SMB,6.735,2022-10-01,Food & Beverage,Northeast,Spot
+2379,Mid-Market,6.151,2020-01-10,Apparel,West,Spot
+2380,SMB,8.502,2019-05-13,Food & Beverage,Northeast,Spot
+2381,Occasional,8.52,2025-06-18,Retail,Northeast,Spot
+2382,Mid-Market,4.754,2021-02-19,Automotive,Northeast,Contract
+2383,Mid-Market,4.498,2021-03-07,Industrial,West,Spot
+2384,Enterprise,3.208,2023-03-12,Industrial,Northeast,Contract
+2385,Enterprise,3.408,2021-06-06,Retail,Midwest,Contract
+2386,SMB,5.687,2025-01-31,Pharma,Southeast,Spot
+2387,Occasional,5.634,2023-07-17,Pharma,Midwest,Spot
+2388,Enterprise,2.99,2021-05-21,Retail,Southeast,Contract
+2389,SMB,6.603,2020-10-11,Industrial,West,Spot
+2390,Enterprise,2.744,2024-09-25,Retail,West,Contract
+2391,SMB,5.035,2022-12-11,Electronics,Southeast,Contract
+2392,SMB,8.553,2025-02-14,Industrial,Southeast,Spot
+2393,Mid-Market,5.958,2021-04-20,Pharma,West,Contract
+2394,Enterprise,2.974,2019-02-21,Apparel,West,Spot
+2395,SMB,6.5,2024-12-29,Food & Beverage,Southeast,Spot
+2396,Occasional,10.282,2020-08-06,Automotive,Southeast,Contract
+2397,Mid-Market,5.471,2024-08-20,Retail,Northeast,Contract
+2398,Mid-Market,4.311,2023-09-25,Apparel,Northeast,Contract
+2399,Mid-Market,4.605,2020-07-18,Retail,Northeast,Contract
+2400,SMB,6.656,2024-01-17,Manufacturing,Northeast,Spot
+2401,SMB,8.225,2019-07-18,Pharma,Northeast,Spot
+2402,SMB,7.394,2021-08-13,Food & Beverage,West,Spot
+2403,SMB,5.549,2021-05-18,Manufacturing,West,Contract
+2404,Occasional,7.567,2023-05-19,Automotive,West,Spot
+2405,SMB,5.823,2022-07-25,Electronics,Midwest,Spot
+2406,Mid-Market,4.776,2023-01-30,Automotive,Midwest,Spot
+2407,SMB,7.194,2022-03-05,Retail,Northeast,Spot
+2408,Mid-Market,4.926,2023-12-07,Manufacturing,West,Contract
+2409,Mid-Market,3.379,2020-01-25,Electronics,Southeast,Contract
+2410,Occasional,8.745,2023-10-16,Pharma,Midwest,Spot
+2411,SMB,5.851,2019-05-02,Food & Beverage,International,Contract
+2412,Occasional,6.517,2019-07-29,Manufacturing,West,Spot
+2413,Mid-Market,3.212,2023-10-29,Pharma,Northeast,Contract
+2414,SMB,4.059,2020-01-21,Industrial,West,Contract
+2415,SMB,6.536,2024-02-19,Manufacturing,Northeast,Spot
+2416,Mid-Market,3.801,2019-11-20,Electronics,Northeast,Spot
+2417,Mid-Market,3.732,2019-12-24,Food & Beverage,Northeast,Spot
+2418,SMB,4.824,2025-03-20,Apparel,Northeast,Spot
+2419,Enterprise,2.267,2020-03-07,Manufacturing,West,Contract
+2420,Occasional,7.868,2025-02-02,Manufacturing,Southeast,Spot
+2421,Mid-Market,4.021,2021-04-27,Manufacturing,Northeast,Spot
+2422,Mid-Market,5.171,2024-04-25,Pharma,International,Contract
+2423,SMB,8.54,2025-04-06,Retail,Midwest,Spot
+2424,Mid-Market,4.448,2019-10-12,Apparel,Southeast,Spot
+2425,Occasional,8.353,2021-03-15,Food & Beverage,Midwest,Spot
+2426,SMB,6.812,2022-10-30,Electronics,Midwest,Spot
+2427,Enterprise,2.523,2024-10-08,Automotive,Midwest,Contract
+2428,SMB,5.514,2020-03-31,Automotive,Midwest,Spot
+2429,SMB,5.762,2020-03-30,Automotive,West,Spot
+2430,SMB,4.333,2021-06-16,Industrial,Southeast,Spot
+2431,SMB,5.281,2020-05-13,Manufacturing,Midwest,Spot
+2432,SMB,7.82,2020-10-12,Automotive,Northeast,Contract
+2433,SMB,9.278,2019-11-13,Manufacturing,West,Spot
+2434,Mid-Market,4.777,2024-07-11,Electronics,Southeast,Spot
+2435,SMB,7.472,2024-04-23,Pharma,Southeast,Spot
+2436,Occasional,8.782,2019-12-18,Apparel,International,Spot
+2437,SMB,6.49,2022-07-30,Pharma,Midwest,Spot
+2438,SMB,6.082,2023-04-23,Pharma,Northeast,Spot
+2439,SMB,5.452,2023-03-09,Food & Beverage,Southeast,Spot
+2440,SMB,9.072,2025-07-23,Pharma,Southeast,Spot
+2441,Occasional,9.568,2023-04-11,Food & Beverage,International,Spot
+2442,Mid-Market,3.498,2023-07-31,Food & Beverage,Southeast,Contract
+2443,Mid-Market,4.185,2019-03-22,Pharma,Northeast,Contract
+2444,SMB,6.374,2019-07-12,Pharma,Midwest,Spot
+2445,SMB,9.139,2023-02-16,Electronics,Southeast,Spot
+2446,SMB,8.272,2025-01-19,Manufacturing,Northeast,Spot
+2447,Enterprise,2.188,2021-08-29,Electronics,West,Contract
+2448,Mid-Market,5.129,2023-04-15,Food & Beverage,Northeast,Spot
+2449,SMB,4.511,2020-05-26,Manufacturing,West,Spot
+2450,SMB,5.801,2022-01-16,Manufacturing,West,Spot
+2451,SMB,5.797,2024-01-04,Industrial,Northeast,Spot
+2452,SMB,6.504,2023-05-26,Electronics,West,Spot
+2453,SMB,6.528,2019-10-06,Apparel,West,Spot
+2454,SMB,10.195,2024-11-10,Manufacturing,Midwest,Contract
+2455,SMB,5.307,2025-03-07,Industrial,Midwest,Spot
+2456,SMB,6.875,2022-03-07,Manufacturing,Northeast,Contract
+2457,SMB,7.34,2021-04-09,Food & Beverage,Northeast,Spot
+2458,Mid-Market,5.135,2022-07-17,Automotive,West,Contract
+2459,Mid-Market,3.948,2024-05-05,Manufacturing,Northeast,Spot
+2460,SMB,6.598,2022-01-06,Pharma,Southeast,Spot
+2461,Occasional,11.103,2019-03-15,Automotive,Midwest,Spot
+2462,SMB,6.732,2019-06-26,Retail,Northeast,Spot
+2463,Mid-Market,4.745,2024-05-30,Retail,West,Spot
+2464,SMB,5.346,2024-03-31,Automotive,West,Spot
+2465,Mid-Market,6.579,2024-02-23,Electronics,West,Spot
+2466,SMB,6.728,2019-11-04,Industrial,Northeast,Spot
+2467,SMB,7.214,2020-02-20,Industrial,Southeast,Spot
+2468,SMB,6.993,2021-08-18,Industrial,West,Spot
+2469,SMB,7.284,2020-07-16,Industrial,Southeast,Contract
+2470,Mid-Market,4.584,2021-07-30,Automotive,West,Spot
+2471,SMB,8.295,2022-09-21,Food & Beverage,Midwest,Spot
+2472,Occasional,9.972,2020-11-12,Industrial,Southeast,Contract
+2473,SMB,7.724,2019-10-28,Electronics,Southeast,Contract
+2474,SMB,6.686,2021-09-07,Pharma,Midwest,Contract
+2475,Mid-Market,3.976,2023-10-26,Retail,Northeast,Contract
+2476,Enterprise,1.976,2023-02-13,Industrial,West,Contract
+2477,Mid-Market,4.444,2021-02-21,Pharma,Midwest,Contract
+2478,Mid-Market,4.683,2021-01-28,Industrial,Northeast,Spot
+2479,Mid-Market,4.464,2022-11-22,Electronics,West,Spot
+2480,Occasional,10.339,2020-02-25,Electronics,Southeast,Spot
+2481,SMB,5.194,2024-07-22,Pharma,Northeast,Contract
+2482,Mid-Market,4.572,2024-10-17,Automotive,International,Spot
+2483,Mid-Market,3.301,2019-03-03,Pharma,West,Contract
+2484,Mid-Market,3.734,2025-06-21,Automotive,Midwest,Contract
+2485,SMB,5.88,2019-02-27,Manufacturing,West,Spot
+2486,Mid-Market,4.466,2022-01-21,Automotive,Midwest,Spot
+2487,SMB,6.336,2023-06-13,Apparel,Southeast,Spot
+2488,SMB,6.903,2021-03-07,Industrial,Northeast,Spot
+2489,Mid-Market,4.451,2020-05-10,Retail,Northeast,Spot
+2490,SMB,6.026,2019-04-26,Food & Beverage,Southeast,Spot
+2491,Occasional,11.114,2023-11-07,Retail,Southeast,Spot
+2492,Mid-Market,4.09,2019-03-31,Food & Beverage,West,Contract
+2493,Enterprise,2.767,2022-03-25,Automotive,Southeast,Contract
+2494,Occasional,9.712,2021-08-14,Apparel,Midwest,Spot
+2495,Occasional,8.741,2025-06-14,Automotive,West,Spot
+2496,SMB,5.477,2025-03-15,Apparel,International,Spot
+2497,SMB,5.174,2024-06-13,Industrial,Southeast,Spot
+2498,Mid-Market,4.441,2023-11-15,Industrial,International,Contract
+2499,SMB,4.619,2022-08-14,Pharma,West,Spot
+2500,SMB,6.318,2021-04-30,Industrial,Northeast,Spot
+2501,Enterprise,2.693,2020-02-10,Retail,Southeast,Contract
+2502,SMB,4.836,2025-06-15,Apparel,Northeast,Contract
+2503,Occasional,10.415,2021-07-26,Pharma,West,Spot
+2504,SMB,5.399,2021-11-10,Industrial,Midwest,Spot
+2505,Mid-Market,4.655,2019-12-10,Pharma,Midwest,Spot
+2506,Enterprise,2.944,2020-11-04,Manufacturing,West,Contract
+2507,Occasional,10.517,2023-03-26,Apparel,Southeast,Spot
+2508,Occasional,9.838,2021-11-04,Industrial,Southeast,Spot
+2509,SMB,6.127,2022-11-27,Retail,West,Spot
+2510,SMB,4.997,2020-05-30,Retail,International,Spot
+2511,SMB,7.056,2019-07-19,Apparel,West,Spot
+2512,Mid-Market,5.4,2024-11-26,Pharma,Northeast,Contract
+2513,Mid-Market,4.511,2021-11-18,Pharma,Northeast,Spot
+2514,Mid-Market,4.959,2021-05-29,Retail,Northeast,Contract
+2515,Mid-Market,4.113,2020-11-27,Pharma,Southeast,Spot
+2516,Occasional,6.473,2023-05-22,Pharma,Northeast,Spot
+2517,Mid-Market,5.115,2022-10-03,Automotive,International,Spot
+2518,Mid-Market,4.938,2021-08-05,Food & Beverage,West,Spot
+2519,SMB,7.488,2025-03-16,Electronics,Southeast,Contract
+2520,Mid-Market,5.379,2025-01-04,Retail,Southeast,Spot
+2521,Mid-Market,5.242,2020-04-28,Pharma,Southeast,Contract
+2522,SMB,5.941,2023-04-14,Apparel,Midwest,Spot
+2523,Mid-Market,5.13,2025-06-15,Electronics,West,Contract
+2524,SMB,6.076,2022-04-03,Apparel,Northeast,Spot
+2525,Occasional,7.454,2019-03-15,Industrial,West,Spot
+2526,Mid-Market,4.511,2019-11-18,Manufacturing,Northeast,Spot
+2527,Occasional,8.36,2023-06-14,Pharma,Southeast,Spot
+2528,Occasional,10.047,2025-01-05,Apparel,International,Spot
+2529,SMB,7.245,2019-11-09,Retail,Northeast,Spot
+2530,SMB,5.743,2022-08-24,Manufacturing,Northeast,Spot
+2531,SMB,5.661,2022-04-24,Food & Beverage,Midwest,Spot
+2532,SMB,8.036,2020-11-25,Manufacturing,Southeast,Spot
+2533,SMB,7.661,2023-03-19,Electronics,Northeast,Spot
+2534,Enterprise,2.873,2024-11-07,Manufacturing,Northeast,Spot
+2535,Occasional,8.766,2020-08-05,Industrial,Northeast,Contract
+2536,SMB,7.322,2019-05-13,Pharma,Midwest,Spot
+2537,SMB,7.711,2021-05-24,Electronics,Northeast,Spot
+2538,Mid-Market,4.82,2021-02-03,Automotive,West,Contract
+2539,Enterprise,2.721,2023-11-06,Retail,West,Contract
+2540,SMB,4.227,2022-07-31,Pharma,Northeast,Contract
+2541,SMB,8.225,2019-02-13,Apparel,Southeast,Spot
+2542,SMB,7.07,2021-04-07,Automotive,Northeast,Spot
+2543,Mid-Market,5.557,2023-11-25,Manufacturing,Southeast,Contract
+2544,Mid-Market,4.013,2022-03-06,Pharma,Northeast,Contract
+2545,SMB,7.813,2022-10-02,Automotive,West,Spot
+2546,Mid-Market,4.034,2020-10-05,Automotive,Southeast,Contract
+2547,Occasional,10.619,2021-02-16,Manufacturing,Midwest,Spot
+2548,Mid-Market,4.763,2019-11-13,Industrial,West,Spot
+2549,Mid-Market,4.974,2019-07-18,Electronics,West,Spot
+2550,Mid-Market,3.858,2019-03-31,Food & Beverage,Southeast,Contract
+2551,SMB,7.065,2023-03-01,Manufacturing,Northeast,Spot
+2552,SMB,6.659,2020-01-19,Manufacturing,International,Spot
+2553,SMB,6.27,2022-10-29,Electronics,Southeast,Spot
+2554,Occasional,10.904,2025-05-09,Manufacturing,West,Spot
+2555,Mid-Market,4.533,2023-08-25,Apparel,West,Contract
+2556,SMB,7.041,2022-11-02,Pharma,Midwest,Contract
+2557,Enterprise,2.878,2019-10-12,Food & Beverage,Northeast,Contract
+2558,Mid-Market,4.515,2022-04-05,Pharma,Northeast,Spot
+2559,SMB,6.226,2024-12-10,Pharma,Midwest,Contract
+2560,Enterprise,2.579,2021-07-24,Manufacturing,Midwest,Contract
+2561,SMB,7.641,2024-07-04,Electronics,West,Spot
+2562,SMB,4.696,2023-09-22,Industrial,West,Spot
+2563,SMB,5.95,2020-10-11,Retail,International,Spot
+2564,SMB,9.054,2019-12-10,Industrial,International,Spot
+2565,SMB,5.849,2019-02-11,Industrial,West,Spot
+2566,Mid-Market,2.606,2020-11-03,Electronics,Northeast,Spot
+2567,Enterprise,2.806,2021-03-21,Electronics,Southeast,Contract
+2568,Mid-Market,4.402,2023-05-17,Manufacturing,Midwest,Spot
+2569,SMB,6.314,2022-10-26,Pharma,Midwest,Contract
+2570,Occasional,10.719,2022-03-12,Manufacturing,Northeast,Spot
+2571,Enterprise,2.237,2023-10-27,Automotive,Midwest,Contract
+2572,SMB,5.541,2024-02-19,Food & Beverage,Southeast,Spot
+2573,SMB,7.003,2023-10-04,Industrial,Southeast,Spot
+2574,SMB,5.716,2024-12-24,Automotive,West,Spot
+2575,SMB,6.377,2021-05-25,Food & Beverage,Southeast,Spot
+2576,SMB,7.619,2024-06-27,Pharma,Midwest,Contract
+2577,SMB,5.761,2021-10-21,Retail,Midwest,Spot
+2578,Occasional,10.729,2020-03-24,Retail,Midwest,Spot
+2579,Mid-Market,4.458,2019-12-21,Pharma,Northeast,Contract
+2580,Occasional,7.141,2019-08-11,Food & Beverage,Midwest,Spot
+2581,Enterprise,2.785,2025-05-15,Food & Beverage,Southeast,Spot
+2582,Occasional,9.572,2020-02-17,Retail,Midwest,Spot
+2583,Enterprise,2.934,2024-07-26,Automotive,Northeast,Contract
+2584,Mid-Market,4.456,2024-03-22,Food & Beverage,International,Contract
+2585,Enterprise,2.265,2021-12-05,Food & Beverage,West,Contract
+2586,SMB,7.546,2025-02-03,Food & Beverage,Southeast,Spot
+2587,Mid-Market,5.874,2025-01-20,Food & Beverage,Southeast,Spot
+2588,Mid-Market,3.506,2025-03-03,Apparel,Southeast,Contract
+2589,SMB,7.587,2022-04-24,Automotive,West,Contract
+2590,Mid-Market,3.858,2020-12-27,Pharma,Midwest,Contract
+2591,SMB,7.866,2019-04-17,Manufacturing,West,Contract
+2592,Occasional,7.828,2024-08-08,Automotive,West,Spot
+2593,SMB,6.769,2024-10-26,Electronics,Southeast,Contract
+2594,Mid-Market,2.249,2022-07-29,Retail,West,Contract
+2595,Mid-Market,4.167,2019-06-22,Retail,Southeast,Contract
+2596,Occasional,6.161,2024-06-26,Automotive,Midwest,Spot
+2597,Mid-Market,4.244,2020-12-27,Food & Beverage,Midwest,Contract
+2598,Mid-Market,4.141,2022-08-28,Retail,West,Contract
+2599,Occasional,8.34,2023-05-25,Automotive,Northeast,Spot
+2600,Occasional,10.92,2019-12-22,Electronics,Northeast,Spot
+2601,Mid-Market,5.597,2019-06-02,Industrial,Southeast,Spot
+2602,SMB,10.49,2019-07-12,Industrial,International,Spot
+2603,SMB,7.865,2025-05-24,Retail,Midwest,Contract
+2604,SMB,6.99,2025-05-19,Apparel,Southeast,Spot
+2605,Enterprise,2.626,2021-11-05,Pharma,Southeast,Spot
+2606,Mid-Market,5.375,2021-11-02,Manufacturing,Southeast,Spot
+2607,SMB,5.549,2021-09-17,Electronics,West,Spot
+2608,Mid-Market,4.67,2021-05-03,Food & Beverage,International,Spot
+2609,SMB,6.484,2022-08-17,Manufacturing,West,Spot
+2610,Mid-Market,4.266,2021-05-17,Apparel,West,Spot
+2611,Occasional,9.537,2023-02-09,Electronics,Northeast,Spot
+2612,SMB,8.312,2021-07-11,Industrial,Southeast,Spot
+2613,SMB,8.651,2023-03-14,Automotive,Midwest,Spot
+2614,SMB,8.374,2025-04-20,Apparel,Midwest,Spot
+2615,Mid-Market,5.524,2020-05-16,Retail,Northeast,Spot
+2616,SMB,7.542,2019-06-02,Retail,West,Contract
+2617,Mid-Market,4.582,2022-07-06,Manufacturing,Northeast,Spot
+2618,Occasional,12.028,2019-10-17,Food & Beverage,Southeast,Spot
+2619,SMB,5.093,2020-07-17,Automotive,Southeast,Spot
+2620,Occasional,9.084,2024-04-06,Manufacturing,West,Spot
+2621,Occasional,12.716,2021-10-14,Apparel,West,Spot
+2622,Occasional,9.084,2022-08-30,Retail,Midwest,Spot
+2623,Mid-Market,3.864,2024-03-04,Electronics,West,Contract
+2624,Occasional,8.836,2019-11-09,Pharma,West,Spot
+2625,SMB,7.185,2022-03-11,Automotive,Southeast,Spot
+2626,Mid-Market,3.055,2019-03-25,Automotive,West,Spot
+2627,SMB,5.11,2022-04-30,Pharma,Northeast,Spot
+2628,Mid-Market,4.203,2020-06-30,Retail,Midwest,Contract
+2629,Mid-Market,5.279,2025-01-27,Electronics,Northeast,Contract
+2630,Mid-Market,6.649,2020-09-27,Automotive,Southeast,Contract
+2631,Mid-Market,4.655,2020-05-02,Retail,Midwest,Contract
+2632,SMB,4.815,2019-02-04,Apparel,Northeast,Spot
+2633,Occasional,6.753,2019-11-21,Apparel,Midwest,Spot
+2634,SMB,6.887,2020-06-10,Automotive,Midwest,Spot
+2635,SMB,7.228,2020-07-09,Manufacturing,Midwest,Contract
+2636,Mid-Market,3.911,2023-12-03,Manufacturing,Northeast,Spot
+2637,SMB,7.684,2024-12-01,Manufacturing,Northeast,Spot
+2638,Mid-Market,3.534,2024-09-13,Food & Beverage,Southeast,Contract
+2639,SMB,7.197,2025-05-17,Pharma,West,Spot
+2640,Mid-Market,5.097,2024-12-27,Retail,West,Contract
+2641,SMB,7.238,2022-01-14,Pharma,Southeast,Spot
+2642,SMB,5.418,2021-08-07,Manufacturing,West,Spot
+2643,SMB,6.474,2023-05-01,Pharma,Midwest,Contract
+2644,Occasional,10.577,2021-02-16,Electronics,International,Spot
+2645,Mid-Market,3.012,2023-01-10,Industrial,Northeast,Spot
+2646,Occasional,7.997,2025-08-31,Electronics,Midwest,Spot
+2647,SMB,4.791,2020-04-27,Automotive,Midwest,Spot
+2648,SMB,4.196,2024-02-17,Manufacturing,Southeast,Spot
+2649,SMB,7.489,2025-03-27,Retail,Northeast,Contract
+2650,Occasional,7.765,2022-08-01,Manufacturing,Northeast,Spot
+2651,Occasional,10.85,2021-05-16,Food & Beverage,Southeast,Spot
+2652,Mid-Market,5.095,2020-09-12,Industrial,West,Contract
+2653,SMB,5.696,2020-02-14,Manufacturing,West,Spot
+2654,SMB,7.647,2021-02-21,Automotive,Northeast,Spot
+2655,SMB,7.93,2023-12-23,Apparel,West,Spot
+2656,Occasional,10.653,2022-06-08,Electronics,Southeast,Spot
+2657,Mid-Market,5.336,2020-06-23,Electronics,International,Contract
+2658,SMB,5.857,2022-08-12,Industrial,Northeast,Spot
+2659,Mid-Market,4.993,2024-05-24,Apparel,West,Spot
+2660,Mid-Market,4.402,2019-02-03,Manufacturing,International,Contract
+2661,Occasional,10.611,2019-02-20,Industrial,West,Spot
+2662,Mid-Market,5.108,2025-05-25,Food & Beverage,West,Contract
+2663,Mid-Market,4.754,2023-12-27,Retail,Southeast,Contract
+2664,Mid-Market,3.9,2022-11-02,Automotive,West,Spot
+2665,SMB,7.308,2025-01-15,Automotive,Midwest,Spot
+2666,SMB,5.807,2022-12-05,Food & Beverage,Southeast,Spot
+2667,Occasional,8.22,2022-06-21,Apparel,International,Spot
+2668,Enterprise,2.288,2020-05-29,Manufacturing,Southeast,Contract
+2669,SMB,4.385,2024-05-27,Automotive,Southeast,Spot
+2670,SMB,6.748,2024-02-06,Electronics,International,Spot
+2671,SMB,6.035,2020-12-20,Electronics,Southeast,Spot
+2672,SMB,6.072,2023-12-01,Pharma,Northeast,Spot
+2673,Mid-Market,6.265,2023-11-06,Electronics,Southeast,Spot
+2674,SMB,8.97,2019-08-20,Pharma,West,Spot
+2675,SMB,4.769,2020-01-26,Apparel,West,Contract
+2676,SMB,7.059,2022-12-19,Food & Beverage,Northeast,Spot
+2677,SMB,5.406,2023-02-27,Automotive,Midwest,Spot
+2678,SMB,7.69,2023-05-22,Food & Beverage,Midwest,Spot
+2679,SMB,6.958,2021-06-27,Industrial,West,Spot
+2680,Mid-Market,4.283,2024-07-27,Electronics,West,Spot
+2681,SMB,7.055,2021-12-21,Apparel,International,Spot
+2682,Occasional,8.718,2020-05-16,Pharma,Southeast,Spot
+2683,Mid-Market,5.298,2019-10-08,Industrial,Southeast,Contract
+2684,SMB,5.466,2024-11-07,Manufacturing,Midwest,Spot
+2685,Mid-Market,2.423,2023-09-18,Manufacturing,Southeast,Contract
+2686,SMB,5.681,2022-01-28,Automotive,Midwest,Spot
+2687,Mid-Market,5.749,2020-05-24,Industrial,Northeast,Spot
+2688,SMB,7.713,2019-08-24,Apparel,Northeast,Spot
+2689,Mid-Market,5.922,2020-01-08,Food & Beverage,International,Contract
+2690,SMB,8.725,2019-09-15,Food & Beverage,Northeast,Spot
+2691,Occasional,8.704,2022-07-13,Apparel,Midwest,Spot
+2692,Mid-Market,4.627,2020-04-26,Apparel,West,Contract
+2693,Occasional,10.052,2019-11-08,Electronics,Northeast,Spot
+2694,Occasional,11.286,2020-11-19,Retail,Northeast,Spot
+2695,Occasional,9.389,2023-08-31,Retail,Southeast,Spot
+2696,Mid-Market,5.103,2022-04-23,Electronics,Midwest,Spot
+2697,SMB,7.176,2020-01-10,Apparel,Southeast,Spot
+2698,Enterprise,2.337,2023-12-29,Food & Beverage,Midwest,Contract
+2699,Mid-Market,5.103,2022-04-07,Pharma,Northeast,Spot
+2700,Occasional,11.96,2020-03-30,Food & Beverage,Northeast,Spot
+2701,SMB,5.523,2023-08-11,Electronics,Northeast,Spot
+2702,SMB,7.007,2025-08-14,Apparel,Southeast,Spot
+2703,Mid-Market,4.021,2022-08-08,Apparel,Southeast,Spot
+2704,SMB,9.513,2020-01-29,Industrial,International,Contract
+2705,SMB,6.723,2021-01-23,Automotive,Northeast,Spot
+2706,SMB,8.354,2022-12-30,Food & Beverage,Midwest,Spot
+2707,Occasional,10.236,2025-08-30,Apparel,Midwest,Spot
+2708,Mid-Market,5.092,2025-03-11,Electronics,West,Spot
+2709,Mid-Market,3.872,2025-03-22,Automotive,Midwest,Contract
+2710,SMB,5.712,2024-07-20,Pharma,Northeast,Spot
+2711,Occasional,8.424,2022-10-31,Automotive,Midwest,Spot
+2712,Mid-Market,4.052,2023-04-27,Electronics,Southeast,Spot
+2713,Mid-Market,5.614,2023-11-23,Retail,West,Contract
+2714,Mid-Market,5.477,2023-10-09,Manufacturing,Northeast,Spot
+2715,Occasional,10.126,2023-04-05,Pharma,West,Spot
+2716,Mid-Market,3.964,2019-11-23,Industrial,Midwest,Spot
+2717,SMB,6.549,2024-11-12,Apparel,Midwest,Spot
+2718,Occasional,11.53,2019-01-24,Automotive,Northeast,Spot
+2719,Enterprise,2.038,2021-11-03,Food & Beverage,West,Contract
+2720,SMB,7.343,2021-11-23,Industrial,West,Spot
+2721,SMB,7.077,2025-08-22,Industrial,Midwest,Spot
+2722,SMB,5.68,2019-08-06,Manufacturing,Southeast,Contract
+2723,Mid-Market,3.94,2022-03-04,Automotive,Northeast,Spot
+2724,Mid-Market,4.019,2021-05-21,Retail,Southeast,Spot
+2725,Mid-Market,5.259,2019-08-26,Pharma,West,Contract
+2726,SMB,5.629,2020-06-28,Food & Beverage,Southeast,Spot
+2727,SMB,7.786,2021-10-24,Electronics,West,Spot
+2728,Mid-Market,3.7,2025-02-09,Industrial,West,Contract
+2729,Mid-Market,4.921,2021-08-03,Apparel,West,Spot
+2730,Occasional,11.997,2024-11-12,Manufacturing,West,Spot
+2731,Enterprise,3.233,2023-11-22,Manufacturing,Midwest,Contract
+2732,Mid-Market,5.272,2024-06-17,Retail,Midwest,Contract
+2733,SMB,8.03,2024-09-09,Electronics,Northeast,Spot
+2734,Mid-Market,4.521,2023-10-05,Retail,West,Contract
+2735,Mid-Market,5.509,2023-11-21,Electronics,International,Spot
+2736,SMB,8.415,2020-01-11,Automotive,Midwest,Spot
+2737,Mid-Market,4.326,2023-10-13,Automotive,International,Spot
+2738,SMB,8.765,2019-04-28,Automotive,International,Contract
+2739,SMB,6.762,2023-12-01,Food & Beverage,Midwest,Contract
+2740,SMB,6.227,2023-05-12,Apparel,West,Spot
+2741,Mid-Market,4.408,2024-01-18,Industrial,Midwest,Spot
+2742,Occasional,10.699,2023-04-13,Retail,Northeast,Spot
+2743,Mid-Market,3.72,2021-06-16,Industrial,Northeast,Contract
+2744,SMB,8.221,2021-06-18,Apparel,Southeast,Spot
+2745,Mid-Market,5.515,2022-12-22,Food & Beverage,West,Contract
+2746,SMB,7.456,2022-02-24,Food & Beverage,Southeast,Spot
+2747,Mid-Market,3.91,2021-04-09,Food & Beverage,West,Contract
+2748,Mid-Market,4.915,2022-04-06,Manufacturing,Midwest,Spot
+2749,SMB,5.421,2022-07-30,Manufacturing,West,Spot
+2750,Enterprise,3.133,2020-08-07,Electronics,Southeast,Contract
+2751,Mid-Market,4.536,2023-04-04,Retail,Midwest,Spot
+2752,SMB,5.36,2021-02-03,Pharma,Northeast,Contract
+2753,Occasional,8.841,2020-10-13,Food & Beverage,Southeast,Spot
+2754,Mid-Market,3.652,2021-10-15,Electronics,Northeast,Spot
+2755,Occasional,8.453,2019-09-09,Manufacturing,Northeast,Spot
+2756,SMB,7.19,2023-01-08,Industrial,Northeast,Spot
+2757,Occasional,9.722,2023-11-21,Apparel,Midwest,Spot
+2758,SMB,6.387,2025-05-16,Food & Beverage,Southeast,Spot
+2759,SMB,6.568,2020-11-21,Apparel,Southeast,Spot
+2760,SMB,7.887,2022-08-04,Electronics,West,Spot
+2761,SMB,7.511,2022-05-11,Manufacturing,Midwest,Spot
+2762,Occasional,11.478,2023-11-16,Apparel,International,Spot
+2763,Mid-Market,4.052,2023-03-02,Automotive,Midwest,Contract
+2764,Mid-Market,5.845,2024-05-19,Apparel,Northeast,Contract
+2765,Enterprise,2.869,2024-09-02,Pharma,International,Contract
+2766,Occasional,9.494,2019-10-04,Retail,West,Spot
+2767,SMB,8.196,2021-05-14,Apparel,Midwest,Spot
+2768,SMB,4.282,2023-05-10,Pharma,Midwest,Spot
+2769,Occasional,9.527,2022-08-17,Food & Beverage,Southeast,Contract
+2770,Occasional,8.882,2022-03-19,Manufacturing,Midwest,Spot
+2771,Mid-Market,4.781,2020-02-26,Industrial,West,Contract
+2772,SMB,6.904,2022-10-25,Food & Beverage,Midwest,Spot
+2773,Occasional,8.275,2023-12-09,Electronics,Northeast,Spot
+2774,Enterprise,3.586,2019-04-04,Apparel,Northeast,Contract
+2775,SMB,7.434,2022-12-11,Food & Beverage,Northeast,Spot
+2776,Mid-Market,3.692,2025-01-15,Pharma,Southeast,Spot
+2777,SMB,4.768,2022-10-29,Apparel,Southeast,Spot
+2778,SMB,5.814,2025-05-09,Electronics,West,Spot
+2779,Mid-Market,4.875,2021-05-08,Manufacturing,Northeast,Spot
+2780,Mid-Market,4.468,2019-01-09,Manufacturing,Southeast,Spot
+2781,Mid-Market,7.709,2023-07-19,Industrial,Northeast,Spot
+2782,Mid-Market,4.857,2020-06-02,Pharma,Midwest,Contract
+2783,SMB,5.591,2019-01-24,Food & Beverage,Midwest,Spot
+2784,Mid-Market,4.257,2020-03-14,Electronics,Midwest,Contract
+2785,Mid-Market,5.878,2025-03-24,Apparel,International,Contract
+2786,SMB,6.626,2024-03-17,Industrial,International,Spot
+2787,SMB,8.553,2020-10-31,Automotive,West,Spot
+2788,SMB,9.027,2022-12-27,Pharma,West,Contract
+2789,Occasional,8.541,2021-04-06,Food & Beverage,Southeast,Spot
+2790,Mid-Market,2.943,2020-03-07,Automotive,Midwest,Contract
+2791,Occasional,9.017,2025-08-03,Automotive,Southeast,Spot
+2792,Enterprise,2.505,2024-06-05,Food & Beverage,West,Contract
+2793,SMB,5.623,2021-06-04,Industrial,Northeast,Spot
+2794,Occasional,11.549,2021-05-10,Automotive,Northeast,Spot
+2795,Occasional,8.416,2024-06-08,Automotive,Northeast,Spot
+2796,SMB,7.232,2022-01-27,Retail,Midwest,Spot
+2797,SMB,7.271,2021-07-06,Manufacturing,West,Spot
+2798,Mid-Market,4.685,2021-08-01,Electronics,Northeast,Spot
+2799,SMB,7.065,2021-12-23,Automotive,Midwest,Spot
+2800,SMB,7.079,2022-06-23,Retail,Southeast,Spot
+2801,Occasional,8.884,2019-04-08,Retail,West,Spot
+2802,SMB,6.964,2022-03-15,Retail,Northeast,Spot
+2803,Enterprise,4.116,2021-12-07,Manufacturing,Northeast,Contract
+2804,SMB,8.625,2020-10-30,Industrial,Midwest,Spot
+2805,Mid-Market,6.395,2021-05-15,Apparel,Midwest,Contract
+2806,Mid-Market,4.495,2021-10-30,Apparel,West,Spot
+2807,Mid-Market,3.04,2021-06-10,Electronics,Midwest,Contract
+2808,SMB,7.923,2025-01-20,Apparel,International,Contract
+2809,Mid-Market,4.244,2022-07-10,Automotive,Southeast,Spot
+2810,Mid-Market,5.909,2022-05-09,Pharma,Southeast,Spot
+2811,Enterprise,2.486,2020-10-02,Automotive,International,Contract
+2812,Occasional,7.415,2025-02-09,Pharma,Northeast,Spot
+2813,SMB,5.328,2019-02-26,Electronics,West,Spot
+2814,Enterprise,2.728,2022-09-01,Apparel,Northeast,Contract
+2815,Enterprise,2.401,2020-02-16,Industrial,Midwest,Spot
+2816,SMB,7.555,2024-02-16,Automotive,Northeast,Spot
+2817,Mid-Market,4.938,2021-07-10,Food & Beverage,Midwest,Contract
+2818,SMB,7.671,2020-12-15,Pharma,West,Spot
+2819,SMB,6.978,2019-05-22,Industrial,Northeast,Spot
+2820,Occasional,9.947,2024-04-08,Apparel,Northeast,Spot
+2821,Mid-Market,3.845,2021-08-23,Pharma,Southeast,Contract
+2822,SMB,7.958,2020-10-05,Electronics,Southeast,Contract
+2823,Enterprise,2.786,2024-08-17,Industrial,Southeast,Contract
+2824,Occasional,10.987,2019-02-17,Industrial,International,Spot
+2825,Occasional,11.399,2022-02-15,Retail,Northeast,Spot
+2826,SMB,6.826,2020-01-27,Retail,Southeast,Spot
+2827,SMB,6.841,2019-11-06,Retail,Southeast,Contract
+2828,Mid-Market,3.983,2019-02-22,Food & Beverage,Southeast,Contract
+2829,SMB,6.745,2020-03-31,Manufacturing,Southeast,Spot
+2830,SMB,4.178,2025-04-25,Industrial,West,Spot
+2831,Mid-Market,4.096,2021-12-20,Industrial,Midwest,Spot
+2832,SMB,6.504,2025-08-31,Manufacturing,West,Contract
+2833,SMB,5.798,2020-10-12,Automotive,Southeast,Spot
+2834,SMB,5.176,2024-01-31,Manufacturing,Midwest,Spot
+2835,SMB,8.321,2019-08-07,Automotive,West,Spot
+2836,SMB,7.205,2019-09-21,Electronics,West,Spot
+2837,SMB,6.564,2019-02-09,Retail,International,Spot
+2838,Mid-Market,4.925,2024-12-28,Food & Beverage,Southeast,Contract
+2839,Mid-Market,5.804,2023-06-24,Automotive,International,Contract
+2840,Enterprise,3.018,2023-12-17,Industrial,West,Contract
+2841,SMB,5.922,2025-03-08,Retail,West,Spot
+2842,SMB,6.955,2021-03-20,Automotive,West,Spot
+2843,SMB,7.79,2023-10-26,Electronics,International,Spot
+2844,Mid-Market,5.547,2022-05-08,Food & Beverage,Southeast,Contract
+2845,Mid-Market,5.01,2022-08-14,Retail,West,Contract
+2846,SMB,5.608,2023-05-31,Industrial,West,Spot
+2847,Mid-Market,3.402,2022-02-18,Automotive,West,Contract
+2848,Enterprise,2.543,2019-02-28,Apparel,West,Contract
+2849,SMB,6.594,2019-07-02,Apparel,Northeast,Contract
+2850,Mid-Market,3.405,2022-05-06,Automotive,Southeast,Spot
+2851,Mid-Market,5.08,2022-10-19,Manufacturing,Southeast,Contract
+2852,SMB,7.642,2023-11-19,Manufacturing,West,Spot
+2853,SMB,4.277,2022-10-25,Retail,West,Spot
+2854,Mid-Market,3.389,2020-04-03,Food & Beverage,West,Contract
+2855,SMB,6.531,2021-06-12,Food & Beverage,West,Spot
+2856,Occasional,9.125,2021-12-16,Retail,Midwest,Spot
+2857,SMB,6.085,2025-07-23,Apparel,Northeast,Spot
+2858,SMB,6.439,2022-07-20,Retail,Midwest,Contract
+2859,SMB,5.998,2023-03-27,Automotive,West,Spot
+2860,SMB,6.765,2023-11-27,Apparel,Midwest,Contract
+2861,Mid-Market,4.397,2021-06-01,Automotive,West,Contract
+2862,SMB,8.908,2025-06-06,Retail,International,Contract
+2863,Mid-Market,4.874,2023-07-02,Automotive,Southeast,Spot
+2864,Mid-Market,3.576,2024-08-27,Pharma,West,Contract
+2865,Mid-Market,3.678,2023-12-30,Automotive,Midwest,Spot
+2866,Mid-Market,4.515,2023-02-22,Apparel,Southeast,Spot
+2867,Mid-Market,5.053,2019-03-17,Apparel,Northeast,Spot
+2868,SMB,6.211,2022-11-22,Retail,Southeast,Contract
+2869,Occasional,9.719,2019-11-12,Apparel,Northeast,Spot
+2870,Enterprise,3.488,2023-01-08,Food & Beverage,Midwest,Contract
+2871,SMB,6.95,2023-09-04,Automotive,Northeast,Contract
+2872,SMB,8.994,2022-08-20,Apparel,Southeast,Spot
+2873,Enterprise,2.72,2021-01-21,Retail,Midwest,Contract
+2874,Mid-Market,5.555,2019-05-25,Industrial,Southeast,Contract
+2875,Mid-Market,5.146,2023-06-23,Retail,West,Spot
+2876,Mid-Market,4.666,2023-08-28,Electronics,Southeast,Spot
+2877,Mid-Market,3.928,2022-03-09,Manufacturing,Northeast,Contract
+2878,Mid-Market,3.636,2023-10-11,Industrial,International,Contract
+2879,SMB,5.94,2024-03-12,Manufacturing,West,Spot
+2880,Enterprise,2.735,2022-06-01,Automotive,West,Contract
+2881,Mid-Market,4.14,2019-04-27,Manufacturing,West,Contract
+2882,Mid-Market,4.969,2024-10-20,Apparel,Northeast,Contract
+2883,SMB,8.778,2022-02-10,Retail,West,Spot
+2884,Mid-Market,4.903,2023-06-26,Food & Beverage,Northeast,Contract
+2885,SMB,6.606,2025-01-27,Pharma,Midwest,Spot
+2886,Mid-Market,2.71,2021-06-02,Apparel,Northeast,Contract
+2887,Enterprise,2.146,2023-02-23,Automotive,West,Contract
+2888,Occasional,8.554,2019-02-17,Automotive,Southeast,Spot
+2889,Mid-Market,3.893,2024-11-25,Pharma,Southeast,Contract
+2890,Mid-Market,5.684,2019-05-25,Electronics,Northeast,Spot
+2891,Mid-Market,4.671,2022-08-10,Electronics,West,Spot
+2892,Occasional,9.645,2021-05-06,Industrial,Southeast,Spot
+2893,SMB,8.738,2019-03-29,Pharma,Midwest,Spot
+2894,SMB,7.5,2022-01-30,Industrial,Southeast,Spot
+2895,Occasional,9.302,2025-03-28,Food & Beverage,West,Spot
+2896,Mid-Market,3.325,2020-02-11,Food & Beverage,Northeast,Spot
+2897,Occasional,8.893,2020-12-12,Automotive,International,Spot
+2898,Mid-Market,6.72,2020-04-06,Apparel,Southeast,Spot
+2899,SMB,6.969,2019-11-01,Manufacturing,Northeast,Contract
+2900,Mid-Market,4.574,2020-07-14,Pharma,Southeast,Spot
+2901,Mid-Market,4.946,2022-10-24,Manufacturing,Northeast,Contract
+2902,Occasional,9.02,2024-03-15,Automotive,Midwest,Spot
+2903,Mid-Market,4.96,2023-08-08,Retail,Southeast,Spot
+2904,Occasional,9.523,2024-02-22,Automotive,West,Spot
+2905,Mid-Market,4.269,2023-10-09,Industrial,Midwest,Contract
+2906,SMB,6.521,2021-07-21,Retail,Northeast,Spot
+2907,Occasional,8.329,2025-01-01,Apparel,Southeast,Spot
+2908,Enterprise,2.809,2020-02-24,Retail,Northeast,Contract
+2909,Occasional,8.412,2023-08-31,Electronics,Northeast,Spot
+2910,SMB,5.851,2019-09-28,Electronics,Southeast,Spot
+2911,SMB,6.691,2024-02-08,Pharma,Northeast,Spot
+2912,Mid-Market,3.945,2019-08-01,Industrial,Northeast,Contract
+2913,SMB,7.677,2020-06-10,Food & Beverage,International,Spot
+2914,SMB,6.584,2021-08-10,Food & Beverage,West,Spot
+2915,SMB,6.22,2023-08-19,Retail,International,Spot
+2916,Mid-Market,6.51,2019-04-21,Industrial,Southeast,Contract
+2917,Mid-Market,5.503,2020-09-18,Electronics,West,Contract
+2918,Occasional,11.532,2021-03-23,Food & Beverage,Southeast,Spot
+2919,Enterprise,2.533,2023-11-16,Retail,Northeast,Contract
+2920,SMB,6.299,2025-05-30,Electronics,West,Spot
+2921,Occasional,13.137,2023-02-04,Pharma,Northeast,Spot
+2922,Enterprise,2.296,2022-05-20,Industrial,Southeast,Contract
+2923,Mid-Market,5.34,2021-03-29,Electronics,West,Contract
+2924,SMB,7.791,2024-06-26,Pharma,Midwest,Spot
+2925,Enterprise,2.212,2019-09-19,Industrial,Midwest,Contract
+2926,SMB,8.07,2019-11-11,Electronics,Southeast,Contract
+2927,SMB,5.799,2020-05-04,Electronics,Northeast,Spot
+2928,SMB,5.798,2020-10-14,Retail,International,Spot
+2929,Mid-Market,5.119,2022-01-28,Industrial,Northeast,Contract
+2930,SMB,7.055,2025-04-23,Retail,Southeast,Contract
+2931,SMB,8.433,2023-05-03,Manufacturing,Northeast,Spot
+2932,Mid-Market,3.697,2021-07-22,Manufacturing,International,Spot
+2933,SMB,7.975,2020-05-30,Apparel,West,Spot
+2934,Occasional,6.873,2023-04-28,Electronics,Southeast,Spot
+2935,SMB,5.098,2020-09-08,Apparel,International,Contract
+2936,SMB,6.283,2025-07-04,Pharma,Northeast,Spot
+2937,Mid-Market,5.75,2022-03-09,Retail,West,Spot
+2938,Mid-Market,3.841,2022-09-03,Electronics,Northeast,Spot
+2939,Mid-Market,4.855,2025-01-09,Retail,Southeast,Contract
+2940,Enterprise,3.936,2021-01-13,Retail,Northeast,Spot
+2941,Occasional,6.785,2022-02-22,Food & Beverage,International,Spot
+2942,Mid-Market,3.125,2022-07-19,Electronics,International,Spot
+2943,SMB,5.483,2020-10-22,Retail,Midwest,Contract
+2944,Mid-Market,2.763,2019-05-14,Food & Beverage,Northeast,Contract
+2945,Mid-Market,4.886,2020-11-21,Food & Beverage,Southeast,Spot
+2946,Mid-Market,3.872,2019-10-01,Industrial,Southeast,Spot
+2947,Mid-Market,2.81,2023-07-04,Apparel,Southeast,Spot
+2948,SMB,6.279,2019-01-18,Food & Beverage,Northeast,Spot
+2949,Occasional,7.269,2021-02-09,Food & Beverage,Midwest,Spot
+2950,Occasional,8.635,2024-11-23,Retail,Midwest,Spot
+2951,Mid-Market,5.087,2022-10-16,Food & Beverage,International,Contract
+2952,SMB,8.525,2023-06-23,Pharma,Midwest,Spot
+2953,Mid-Market,6.508,2023-06-16,Retail,Southeast,Spot
+2954,Occasional,10.233,2020-12-27,Industrial,Midwest,Spot
+2955,SMB,4.893,2023-03-20,Pharma,Northeast,Spot
+2956,Mid-Market,5.851,2020-06-22,Automotive,Midwest,Contract
+2957,Mid-Market,4.368,2023-03-28,Electronics,West,Contract
+2958,Enterprise,2.468,2023-07-22,Automotive,Northeast,Contract
+2959,Mid-Market,4.608,2024-11-03,Electronics,Southeast,Spot
+2960,Occasional,9.746,2025-02-17,Industrial,West,Contract
+2961,SMB,4.657,2019-02-28,Pharma,Midwest,Spot
+2962,Occasional,9.075,2020-12-29,Apparel,Midwest,Spot
+2963,Mid-Market,5.399,2022-08-25,Manufacturing,West,Contract
+2964,SMB,5.606,2021-02-21,Industrial,Midwest,Spot
+2965,Mid-Market,5.61,2023-02-15,Manufacturing,Northeast,Contract
+2966,SMB,6.945,2024-09-11,Retail,West,Spot
+2967,Mid-Market,4.291,2020-09-20,Food & Beverage,International,Contract
+2968,Mid-Market,4.631,2024-12-15,Automotive,Northeast,Contract
+2969,SMB,7.345,2024-11-17,Industrial,Northeast,Spot
+2970,Mid-Market,4.871,2025-02-03,Automotive,West,Spot
+2971,SMB,7.125,2019-06-29,Pharma,Midwest,Contract
+2972,SMB,8.011,2020-12-14,Industrial,Southeast,Spot
+2973,Mid-Market,5.098,2019-10-30,Food & Beverage,Midwest,Spot
+2974,Occasional,9.646,2019-10-20,Food & Beverage,West,Spot
+2975,SMB,4.484,2019-05-10,Manufacturing,Midwest,Spot
+2976,SMB,8.026,2021-12-07,Automotive,Northeast,Spot
+2977,SMB,6.225,2019-08-01,Electronics,Northeast,Spot
+2978,SMB,7.478,2020-12-21,Manufacturing,Southeast,Spot
+2979,SMB,5.012,2025-07-17,Electronics,International,Spot
+2980,Occasional,7.693,2024-11-22,Pharma,Midwest,Spot
+2981,SMB,6.606,2025-03-31,Electronics,Southeast,Spot
+2982,Mid-Market,4.48,2019-03-31,Electronics,International,Spot
+2983,Mid-Market,4.492,2023-05-29,Electronics,Southeast,Spot
+2984,SMB,6.884,2023-03-24,Pharma,Midwest,Contract
+2985,Enterprise,1.872,2019-11-20,Apparel,Northeast,Contract
+2986,Mid-Market,5.842,2025-01-15,Apparel,West,Spot
+2987,Enterprise,2.251,2021-09-11,Manufacturing,West,Contract
+2988,SMB,7.987,2025-07-06,Electronics,West,Contract
+2989,Mid-Market,5.689,2019-10-05,Apparel,Southeast,Contract
+2990,SMB,4.698,2023-05-03,Manufacturing,Southeast,Spot
+2991,SMB,6.637,2019-11-15,Retail,Northeast,Spot
+2992,SMB,5.298,2025-05-02,Electronics,International,Spot
+2993,Mid-Market,5.03,2023-01-19,Apparel,Northeast,Contract
+2994,SMB,7.207,2019-07-04,Apparel,Midwest,Spot
+2995,SMB,7.533,2020-06-07,Manufacturing,West,Contract
+2996,SMB,8.145,2021-05-24,Apparel,Northeast,Spot
+2997,SMB,5.958,2019-02-01,Manufacturing,Southeast,Contract
+2998,Mid-Market,6.147,2019-01-22,Apparel,Northeast,Spot
+2999,Occasional,8.409,2025-03-03,Pharma,Midwest,Spot
+3000,Mid-Market,4.252,2025-07-17,Manufacturing,International,Spot

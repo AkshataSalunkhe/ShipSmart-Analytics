@@ -1,0 +1,2 @@
+accept_control,accept_treatment,accept_pval,rev_control,rev_treatment,rev_pval,rel_revenue_lift,projected_annual_impact,guardrail_breached
+0.9213608477412158,0.8740655549166187,3.4069989574003756e-06,175.82173786027406,192.44661871953693,0.024657145350213412,0.0945553209835448,355822.3250308033,True

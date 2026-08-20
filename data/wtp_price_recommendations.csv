@@ -1,0 +1,5 @@
+segment,current_avg_price_ratio,recommended_price_ratio,recommended_accept_prob,expected_revenue_at_recommendation,optimum_still_rising_at_data_edge,implied_price_move
+Enterprise,1.04,1.17,0.943,139.03,True,0.125
+Mid-Market,0.987,1.12,0.898,128.82,True,0.13475177304964547
+SMB,0.973,1.07,0.877,120.69,False,0.09969167523124356
+Occasional,0.957,1.07,0.842,113.94,False,0.11807732497387691
