@@ -1,4 +1,4 @@
-# ShipSmart Logistics -- Pricing & Retention Analytics
+# ShipSmart Logistics : Pricing & Retention Analytics
 
 A self-contained, end-to-end pricing-analytics project built around one fictional B2B
 freight/parcel shipper, "ShipSmart Logistics." It's a personal project for practicing
